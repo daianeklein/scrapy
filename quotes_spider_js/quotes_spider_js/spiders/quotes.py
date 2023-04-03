@@ -1,26 +1,26 @@
+# -*- coding: utf-8 -*-
 import scrapy
 from scrapy_splash import SplashRequest
 
+
 class QuotesSpider(scrapy.Spider):
-    name = "quotes"
-    allowed_domains = ["quotes.toscrape.com"]
-    start_urls = ["http://quotes.toscrape.com/js/"]
+    name = 'quotes'
+    allowed_domains = ['quotes.toscrape.com']
+    start_urls = ['http://quotes.toscrape.com/js/']
 
     def start_requests(self):
-        for url in self.start_url:
-            yield SplashRequest(url = url,
-                                callback = self.parse,
+        for url in self.start_urls:
+            yield SplashRequest(url=url,
+                                callback=self.parse,
                                 endpoint='render.html')
-
 
     def parse(self, response):
         quotes = response.xpath('//*[@class="quote"]')
         for quote in quotes:
-            yield {'author' : quote.xpath('.//*[@class="author"]/text()').extract_first(),
-                    'quote' : quote.xpath('.//*[@class="text"]/text()').extract_first()    
-            }
+            yield {'author': quote.xpath('.//*[@class="author"]/text()').extract_first(),
+                   'quote': quote.xpath('.//*[@class="text"]/text()').extract_first()}
 
-            script = """function main(splash)
+        script = """function main(splash)
                 assert(splash:go(splash.args.url))
                 splash:wait(0.3)
                 button = splash:select("li[class=next] a")
