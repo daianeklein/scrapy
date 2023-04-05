@@ -17,10 +17,12 @@ class JobsSpider(scrapy.Spider):
         time.sleep(3)
 
         sel = Selector(text=self.driver.page_source)
-        job_titles = sel.xpath('//li[@class="cl-search-result cl-search-view-mode-thumb"]//a[@class="titlestring"]/@href').extract()
+        job_urls = sel.xpath('//li[@class="cl-search-result cl-search-view-mode-thumb"]//a[@class="titlestring"]/@href').extract()
+        job_titles = sel.xpath('//li[@class="cl-search-result cl-search-view-mode-thumb"]//a[@class="titlestring"]/text()').extract()
         
-        for job_title in job_titles:
-            yield {'title' : job_title}
+        for job_url, job_title in zip(job_urls, job_titles):
+            yield { 'job_title' : job_title,
+                    'job_url' : job_url}
 
 
     #link
