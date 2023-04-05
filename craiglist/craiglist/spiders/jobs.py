@@ -21,8 +21,18 @@ class JobsSpider(scrapy.Spider):
         job_titles = sel.xpath('//li[@class="cl-search-result cl-search-view-mode-thumb"]//a[@class="titlestring"]/text()').extract()
         
         for job_url, job_title in zip(job_urls, job_titles):
-            yield { 'job_title' : job_title,
-                    'job_url' : job_url}
+            yield scrapy.Request(job_urls,
+                                callback=self.parse_listing,
+                                meta = {'job_title' : job_title,
+                                         'job_url'  : job_url})
+
+    def parse_listing(self, response):
+        job_url = response.meta['job_urls']
+        job_title = response.meta['job_titles']
+
+            #for job_url, job_title in zip(job_urls, job_titles):
+            # yield { 'job_title' : job_title,
+            #         'job_url' : job_url}
 
 
     #link
