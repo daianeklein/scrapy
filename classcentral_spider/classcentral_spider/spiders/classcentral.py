@@ -30,18 +30,16 @@ class ClasscentralSpider(scrapy.Spider):
 
     def parse_subject(self, response):
         subject_name = response.xpath('//h1/text()').extract_first()
-        #course_name = response.xpath('//h2[@class="text-1 weight-semi line-tight margin-bottom-xxsmall"]/text()').extract()
 
         courses = response.xpath('//*[@class="catalog-grid__results"]')
-        for course in courses:
-            course_name = course.xpath('.//h2/text()').extract_first()
-            
-            course_url = course.xpath('//*[@class="color-charcoal course-name"]/@href').extract_first()
-            absolute_course_url = response.urljoin(course_url)
+        courses_name = courses.xpath('.//h2/text()').extract()
+        courses_url = courses.xpath('//*[@class="color-charcoal course-name"]/@href').extract()
+        absolute_course_url = [response.urljoin(url) for url in courses_url]
 
-            yield {'subject_name' : subject_name,
-                   'course_name' : course_name,
-                   'course_url' : absolute_course_url }
+        for course_name, course_url in zip(courses_name, absolute_course_url):
+            yield {'subject_name': subject_name,
+                'course_name': course_name,
+                'course_url': course_url}
                 
 
         
