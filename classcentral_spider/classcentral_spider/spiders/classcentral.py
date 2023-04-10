@@ -13,7 +13,6 @@ class ClasscentralSpider(scrapy.Spider):
 
     def parse(self, response):
         if self.subject:
-            #subject_url = response.xpath("//a[contains(span[@class='l-subjects-page__subject-label'], 'Arduino')]/@href").extract_first()
             subject_url = response.xpath("//a[contains(span[@class='l-subjects-page__subject-label'], '" + self.subject + "')]/@href").extract_first() 
             absolute_subject_url = response.urljoin(subject_url)
 
@@ -41,5 +40,13 @@ class ClasscentralSpider(scrapy.Spider):
                 'course_name': course_name,
                 'course_url': course_url}
                 
+        next_page = response.xpath('//link[@rel="next"]/@href').extract_first()
+        if next_page:
+            absolute_next_page = response.urljoin(next_page)
+
+            yield Request(absolute_next_page,
+                        callback=self.parse_subject)
+
+
 
         
