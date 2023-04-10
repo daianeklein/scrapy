@@ -1,0 +1,8479 @@
+rank,state
+1,California
+1,Texas
+52,Florida
+2,New York
+2,Pennsylvania
+38,Illinois
+3,Ohio
+3,Georgia
+28,North Carolina
+4,Michigan
+4,New Jersey
+26,Virginia
+5,Washington
+5,Arizona
+17,Tennessee
+6,Massachusetts
+6,Indiana
+17,Missouri
+7,Maryland
+7,Wisconsin
+15,Colorado
+8,Minnesota
+8,South Carolina
+14,Alabama
+9,Louisiana
+9,Kentucky
+14,Oregon
+10,Oklahoma
+10,Connecticut
+13,Utah
+11,Puerto Rico
+11,Iowa
+12,Nevada
+12,Arkansas
+12,Mississippi
+11,Kansas
+13,New Mexico
+13,Nebraska
+10,Idaho
+14,West Virginia
+14,Hawaii
+9,New Hampshire
+15,Maine
+16,Montana
+9,Rhode Island
+16,Delaware
+15,South Dakota
+9,North Dakota
+17,Alaska
+17,Vermont
+9,Wyoming
+18,Guam
+19,U.S. Virgin Islands
+8,American Samoa
+19,California
+18,Texas
+8,Florida
+20,New York
+20,Pennsylvania
+8,Illinois
+21,Ohio
+21,Georgia
+8,North Carolina
+22,Michigan
+22,New Jersey
+8,Virginia
+23,Washington
+23,Arizona
+7,Tennessee
+24,Massachusetts
+24,Indiana
+7,Missouri
+25,Maryland
+25,Wisconsin
+6,Colorado
+26,Minnesota
+26,South Carolina
+6,Alabama
+27,Louisiana
+27,Kentucky
+6,Oregon
+28,Oklahoma
+28,Connecticut
+5,Utah
+29,Puerto Rico
+29,Iowa
+5,Nevada
+30,Arkansas
+31,Mississippi
+4,Kansas
+31,New Mexico
+30,Nebraska
+32,Idaho
+32,West Virginia
+4,Hawaii
+33,New Hampshire
+33,Maine
+4,Montana
+34,Rhode Island
+34,Delaware
+4,South Dakota
+35,North Dakota
+35,Alaska
+4,Vermont
+36,Wyoming
+36,Guam
+4,U.S. Virgin Islands
+37,American Samoa
+37,California
+3,Texas
+38,Florida
+38,New York
+3,Pennsylvania
+39,Illinois
+39,Ohio
+2,Georgia
+40,North Carolina
+40,Michigan
+2,New Jersey
+41,Virginia
+41,Washington
+2,Arizona
+42,Tennessee
+42,Massachusetts
+2,Indiana
+43,Missouri
+43,Maryland
+2,Wisconsin
+44,Colorado
+45,Minnesota
+2,South Carolina
+45,Alabama
+44,Louisiana
+2,Kentucky
+46,Oregon
+46,Oklahoma
+1,Connecticut
+47,Utah
+47,Puerto Rico
+1,Iowa
+48,Nevada
+48,Arkansas
+1,Mississippi
+49,Kansas
+49,New Mexico
+1,Nebraska
+50,Idaho
+50,West Virginia
+51,Hawaii
+51,New Hampshire
+1,Maine
+52,Montana
+52,Rhode Island
+1,Delaware
+53,South Dakota
+53,North Dakota
+54,Alaska
+54,Vermont
+55,Wyoming
+55,Guam
+56,U.S. Virgin Islands
+56,American Samoa
+15,California
+"7,029,917",Texas
+14,Florida
+"6,547,629",New York
+13,Pennsylvania
+"6,349,097",Illinois
+21,Ohio
+7.4%,Georgia
+NEng,North Carolina
+29,Michigan
+"3,605,944",New Jersey
+29,Virginia
+"3,574,097",Washington
+29,Arizona
+"3,405,565",Tennessee
+47,Massachusetts
+0.9%,Indiana
+NEng,Missouri
+41,Maryland
+"1,377,529",Wisconsin
+42,Colorado
+"1,316,470",Minnesota
+41,South Carolina
+"1,235,786",Alabama
+30,Louisiana
+4.6%,Kentucky
+NEng,Oregon
+42,Oklahoma
+"1,362,359",Connecticut
+41,Utah
+"1,328,361",Puerto Rico
+40,Iowa
+"1,274,923",Nevada
+42,Arkansas
+2.6%,Mississippi
+NEng,Kansas
+"1,097,379",New Mexico
+43,Nebraska
+"1,052,567",Idaho
+43,West Virginia
+"1,048,319",Hawaii
+31,New Hampshire
+4.3%,Maine
+NEng,Montana
+49,Rhode Island
+"643,077",Delaware
+49,South Dakota
+"625,741",North Dakota
+49,Alaska
+"608,827",Vermont
+40,Wyoming
+2.8%,Guam
+NEng,U.S. Virgin Islands
+9,American Samoa
+"15,116,205",California
+9,Texas
+"14,444,865",Florida
+9,New York
+"13,922,517",Pennsylvania
+7,Illinois
+4.6%,Ohio
+NEast,Georgia
+4,North Carolina
+"20,201,249",Michigan
+3,New Jersey
+"19,378,102",Virginia
+3,Washington
+"18,976,457",Arizona
+32,Tennessee
+4.2%,Massachusetts
+MAtl,Indiana
+5,Missouri
+"13,002,700",Maryland
+6,Wisconsin
+"12,702,379",Colorado
+6,Minnesota
+"12,281,054",South Carolina
+43,Alabama
+2.4%,Louisiana
+MAtl,Kentucky
+11,Oregon
+"9,288,994",Oklahoma
+11,Connecticut
+"8,791,894",Utah
+9,Puerto Rico
+"8,414,350",Iowa
+25,Nevada
+5.7%,Arkansas
+MAtl,Mississippi
+4,Kansas
+"42,492,943",New Mexico
+4,Nebraska
+"40,872,375",Idaho
+4,West Virginia
+"39,671,861",Hawaii
+8,New Hampshire
+4.0%,Maine
+NEast,Montana
+4,Rhode Island
+"57,609,148",Delaware
+4,South Dakota
+"55,317,240",North Dakota
+4,Alaska
+"53,594,378",Vermont
+3,Wyoming
+4.1%,Guam
+USA,U.S. Virgin Islands
+3,American Samoa
+"21,538,187",California
+4,Texas
+"18,801,310",Florida
+4,New York
+"15,982,378",Pennsylvania
+8,Illinois
+14.6%,Ohio
+SAtl,Georgia
+8,North Carolina
+"10,711,908",Michigan
+9,New Jersey
+"9,687,653",Virginia
+10,Washington
+"8,186,453",Arizona
+12,Tennessee
+10.6%,Massachusetts
+SAtl,Indiana
+9,Missouri
+"10,439,388",Maryland
+10,Wisconsin
+"9,535,483",Colorado
+11,Minnesota
+"8,049,313",South Carolina
+15,Alabama
+9.5%,Louisiana
+SAtl,Kentucky
+12,Oregon
+"8,631,393",Oklahoma
+12,Connecticut
+"8,001,024",Utah
+12,Puerto Rico
+"7,078,515",Iowa
+18,Nevada
+7.9%,Arkansas
+SAtl,Mississippi
+18,Kansas
+"6,177,224",New Mexico
+19,Nebraska
+"5,773,552",Idaho
+19,West Virginia
+"5,296,486",Hawaii
+22,New Hampshire
+7.0%,Maine
+SAtl,Montana
+23,Rhode Island
+"5,118,425",Delaware
+24,South Dakota
+"4,625,364",North Dakota
+26,Alaska
+"4,012,012",Vermont
+10,Wyoming
+10.7%,Guam
+SAtl,U.S. Virgin Islands
+39,American Samoa
+"1,793,716",California
+37,Texas
+"1,852,994",Florida
+37,New York
+"1,808,344",Pennsylvania
+50,Illinois
+−3.2%,Ohio
+SAtl,Georgia
+45,North Carolina
+"989,948",Michigan
+45,New Jersey
+"897,934",Virginia
+45,Washington
+"783,600",Arizona
+13,Tennessee
+10.2%,Massachusetts
+SAtl,Indiana
+–,Missouri
+"689,545",Maryland
+–,Wisconsin
+"601,723",Colorado
+–,Minnesota
+"572,059",South Carolina
+–,Alabama
+14.6%,Louisiana
+SAtl,Kentucky
+1,Oregon
+"66,089,734",Oklahoma
+1,Connecticut
+"59,777,037",Utah
+1,Puerto Rico
+"51,769,160",Iowa
+3,Nevada
+10.6%,Arkansas
+South,Mississippi
+16,Kansas
+"6,910,840",New Mexico
+17,Nebraska
+"6,346,105",Idaho
+16,West Virginia
+"5,689,283",Hawaii
+17,New Hampshire
+8.9%,Maine
+ESC,Montana
+24,Rhode Island
+"5,024,279",Delaware
+23,South Dakota
+"4,779,736",North Dakota
+23,Alaska
+"4,447,100",Vermont
+27,Wyoming
+5.1%,Guam
+ESC,U.S. Virgin Islands
+26,American Samoa
+"4,505,836",California
+26,Texas
+"4,339,367",Florida
+25,New York
+"4,041,769",Pennsylvania
+33,Illinois
+3.8%,Ohio
+ESC,Georgia
+34,North Carolina
+"2,961,279",Michigan
+31,New Jersey
+"2,967,297",Virginia
+31,Washington
+"2,844,658",Arizona
+49,Tennessee
+−0.2%,Massachusetts
+ESC,Indiana
+8,Missouri
+"19,402,234",Maryland
+8,Wisconsin
+"18,432,505",Colorado
+8,Minnesota
+"17,022,810",South Carolina
+6,Alabama
+5.3%,Louisiana
+South,Kentucky
+2,Oregon
+"29,145,505",Oklahoma
+2,Connecticut
+"25,145,561",Utah
+2,Puerto Rico
+"20,851,820",Iowa
+3,Nevada
+15.9%,Arkansas
+WSC,Mississippi
+25,Kansas
+"4,657,757",New Mexico
+25,Nebraska
+"4,533,372",Idaho
+22,West Virginia
+"4,468,976",Hawaii
+41,New Hampshire
+2.7%,Maine
+WSC,Montana
+28,Rhode Island
+"3,959,353",Delaware
+28,South Dakota
+"3,751,351",North Dakota
+27,Alaska
+"3,450,654",Vermont
+26,Wyoming
+5.5%,Guam
+WSC,U.S. Virgin Islands
+33,American Samoa
+"3,011,524",California
+32,Texas
+"2,915,918",Florida
+33,New York
+"2,673,400",Pennsylvania
+35,Illinois
+3.3%,Ohio
+WSC,Georgia
+5,North Carolina
+"40,774,139",Michigan
+5,New Jersey
+"36,346,202",Virginia
+5,Washington
+"31,444,850",Arizona
+2,Tennessee
+12.2%,Massachusetts
+South,Indiana
+1,Missouri
+"126,266,107",Maryland
+1,Wisconsin
+"114,555,744",Colorado
+1,Minnesota
+"100,236,820",South Carolina
+1,Alabama
+10.2%,Louisiana
+USA,Kentucky
+6,Oregon
+"12,812,508",Oklahoma
+5,Connecticut
+"12,830,632",Utah
+5,Puerto Rico
+"12,419,293",Iowa
+48,Nevada
+−0.1%,Arkansas
+ENC,Mississippi
+7,Kansas
+"11,799,448",New Mexico
+7,Nebraska
+"11,536,504",Idaho
+7,West Virginia
+"11,353,140",Hawaii
+45,New Hampshire
+2.3%,Maine
+ENC,Montana
+10,Rhode Island
+"10,077,331",Delaware
+8,South Dakota
+"9,883,640",North Dakota
+8,Alaska
+"9,938,444",Vermont
+46,Wyoming
+2.0%,Guam
+ENC,U.S. Virgin Islands
+17,American Samoa
+"6,785,528",California
+15,Texas
+"6,483,802",Florida
+14,New York
+"6,080,485",Pennsylvania
+29,Illinois
+4.7%,Ohio
+ENC,Georgia
+20,North Carolina
+"5,893,718",Michigan
+20,New Jersey
+"5,686,986",Virginia
+18,Washington
+"5,363,675",Arizona
+34,Tennessee
+3.6%,Massachusetts
+ENC,Indiana
+3,Missouri
+"47,368,533",Maryland
+3,Wisconsin
+"46,421,564",Colorado
+2,Minnesota
+"45,155,037",South Carolina
+9,Alabama
+2.0%,Louisiana
+MWest,Kentucky
+19,Oregon
+"6,154,913",Oklahoma
+18,Connecticut
+"5,988,927",Utah
+17,Puerto Rico
+"5,595,211",Iowa
+39,Nevada
+2.8%,Arkansas
+WNC,Mississippi
+22,Kansas
+"5,706,494",New Mexico
+21,Nebraska
+"5,303,925",Idaho
+21,West Virginia
+"4,919,479",Hawaii
+19,New Hampshire
+7.6%,Maine
+WNC,Montana
+31,Rhode Island
+"3,190,369",Delaware
+30,South Dakota
+"3,046,355",North Dakota
+30,Alaska
+"2,926,324",Vermont
+28,Wyoming
+4.7%,Guam
+WNC,U.S. Virgin Islands
+35,American Samoa
+"2,937,880",California
+33,Texas
+"2,853,118",Florida
+32,New York
+"2,688,418",Pennsylvania
+37,Illinois
+3.0%,Ohio
+WNC,Georgia
+37,North Carolina
+"1,961,504",Michigan
+38,New Jersey
+"1,826,341",Virginia
+38,Washington
+"1,711,263",Arizona
+20,Tennessee
+7.4%,Massachusetts
+WNC,Indiana
+46,Missouri
+"886,667",Maryland
+46,Wisconsin
+"814,180",Colorado
+46,Minnesota
+"754,844",South Carolina
+16,Alabama
+8.9%,Louisiana
+WNC,Kentucky
+47,Oregon
+"779,094",Oklahoma
+48,Connecticut
+"672,591",Utah
+47,Puerto Rico
+"642,200",Iowa
+4,Nevada
+15.8%,Arkansas
+WNC,Mississippi
+7,Kansas
+"21,616,921",New Mexico
+7,Nebraska
+"20,505,437",Idaho
+6,West Virginia
+"19,237,739",Hawaii
+5,New Hampshire
+5.4%,Maine
+MWest,Montana
+3,Rhode Island
+"68,985,454",Delaware
+3,South Dakota
+"66,927,001",North Dakota
+2,Alaska
+"64,392,776",Vermont
+4,Wyoming
+3.1%,Guam
+USA,U.S. Virgin Islands
+14,American Samoa
+"7,151,502",California
+16,Texas
+"6,392,017",Florida
+20,New York
+"5,130,632",Pennsylvania
+9,Illinois
+11.9%,Ohio
+Mtn,Georgia
+21,North Carolina
+"5,773,714",Michigan
+22,New Jersey
+"5,029,196",Virginia
+24,Washington
+"4,301,261",Arizona
+6,Tennessee
+14.8%,Massachusetts
+Mtn,Indiana
+30,Missouri
+"3,271,616",Maryland
+34,Wisconsin
+"2,763,885",Colorado
+34,Minnesota
+"2,233,169",South Carolina
+1,Alabama
+18.4%,Louisiana
+Mtn,Kentucky
+32,Oregon
+"3,104,614",Oklahoma
+35,Connecticut
+"2,700,551",Utah
+35,Puerto Rico
+"1,998,257",Iowa
+5,Nevada
+15.0%,Arkansas
+Mtn,Mississippi
+36,Kansas
+"2,117,522",New Mexico
+36,Nebraska
+"2,059,179",Idaho
+36,West Virginia
+"1,819,046",Hawaii
+38,New Hampshire
+2.8%,Maine
+Mtn,Montana
+38,Rhode Island
+"1,839,106",Delaware
+39,South Dakota
+"1,567,582",North Dakota
+39,Alaska
+"1,293,953",Vermont
+2,Wyoming
+17.3%,Guam
+Mtn,U.S. Virgin Islands
+44,American Samoa
+"1,084,225",California
+44,Texas
+"989,415",Florida
+44,New York
+"902,195",Pennsylvania
+14,Illinois
+9.6%,Ohio
+Mtn,Georgia
+50,North Carolina
+"576,851",Michigan
+50,New Jersey
+"563,626",Virginia
+50,Washington
+"493,782",Arizona
+44,Tennessee
+2.3%,Massachusetts
+Mtn,Indiana
+6,Missouri
+"24,919,150",Maryland
+6,Wisconsin
+"22,065,451",Colorado
+7,Minnesota
+"18,172,295",South Carolina
+1,Alabama
+12.9%,Louisiana
+West,Kentucky
+1,Oregon
+"39,538,223",Oklahoma
+1,Connecticut
+"37,253,956",Utah
+1,Puerto Rico
+"33,871,648",Iowa
+24,Nevada
+6.1%,Arkansas
+Pac,Mississippi
+13,Kansas
+"7,705,281",New Mexico
+13,Nebraska
+"6,724,540",Idaho
+15,West Virginia
+"5,894,121",Hawaii
+7,New Hampshire
+14.6%,Maine
+Pac,Montana
+27,Rhode Island
+"4,237,256",Delaware
+27,South Dakota
+"3,831,074",North Dakota
+28,Alaska
+"3,421,399",Vermont
+11,Wyoming
+10.6%,Guam
+Pac,U.S. Virgin Islands
+40,American Samoa
+"1,455,271",California
+40,Texas
+"1,360,301",Florida
+42,New York
+"1,211,537",Pennsylvania
+23,Illinois
+7.0%,Ohio
+Pac,Georgia
+48,North Carolina
+"733,391",Michigan
+47,New Jersey
+"710,231",Virginia
+48,Washington
+"626,932",Arizona
+36,Tennessee
+3.3%,Massachusetts
+Pac,Indiana
+2,Missouri
+"53,669,422",Maryland
+2,Wisconsin
+"49,880,102",Colorado
+3,Minnesota
+"45,025,637",South Carolina
+4,Alabama
+7.6%,Louisiana
+West,Kentucky
+2,Oregon
+"78,588,572",Oklahoma
+2,Connecticut
+"71,945,553",Utah
+3,Puerto Rico
+"63,197,932",Iowa
+2,Nevada
+9.2%,Arkansas
+USA,Mississippi
+–,Kansas
+"331,449,281",New Mexico
+–,Nebraska
+"308,745,538",Idaho
+–,West Virginia
+"281,421,906",Hawaii
+–,New Hampshire
+7.4%,Maine
+NAmer,Montana
+1,Rhode Island
+"3,285,874",Delaware
+1,South Dakota
+"3,725,789",North Dakota
+1,Alaska
+"3,808,610",Vermont
+3,Wyoming
+−11.8%,Guam
+I.A.,U.S. Virgin Islands
+2,American Samoa
+"153,836",California
+2,Texas
+"159,358",Florida
+2,New York
+"154,805",Pennsylvania
+1,Illinois
+−3.5%,Ohio
+I.A.,Georgia
+3,North Carolina
+"87,146",Michigan
+3,New Jersey
+"106,405",Virginia
+3,Washington
+"108,612",Arizona
+2,Tennessee
+−18.1%,Massachusetts
+I.A.,Indiana
+4,Missouri
+"49,710",Maryland
+4,Wisconsin
+"55,519",Colorado
+5,Minnesota
+"57,291",South Carolina
+4,Alabama
+−7.7%,Louisiana
+I.A.,Kentucky
+5,Oregon
+"47,329",Oklahoma
+5,Connecticut
+"53,883",Utah
+4,Puerto Rico
+"69,221",Iowa
+5,Nevada
+−14.8%,Arkansas
+I.A.,Mississippi
+ ,Kansas
+6,New Mexico
+6,Nebraska
+6,Idaho
+316,West Virginia
+6,Hawaii
+—,New Hampshire
+I.A.,Maine
+–,Montana
+"3,623,895",Rhode Island
+–,Delaware
+"4,100,954",South Dakota
+–,North Dakota
+"4,198,855",Alaska
+–,Vermont
+−11.6%,Wyoming
+USA,Guam
+1,U.S. Virgin Islands
+1,American Samoa
+52,California
+2,Texas
+2,Florida
+38,New York
+3,Pennsylvania
+3,Illinois
+28,Ohio
+4,Georgia
+4,North Carolina
+26,Michigan
+5,New Jersey
+5,Virginia
+17,Washington
+6,Arizona
+6,Tennessee
+17,Massachusetts
+7,Indiana
+7,Missouri
+15,Maryland
+8,Wisconsin
+8,Colorado
+14,Minnesota
+9,South Carolina
+9,Alabama
+14,Louisiana
+10,Kentucky
+10,Oregon
+13,Oklahoma
+11,Connecticut
+11,Utah
+12,Puerto Rico
+12,Iowa
+12,Nevada
+11,Arkansas
+13,Mississippi
+13,Kansas
+10,New Mexico
+14,Nebraska
+14,Idaho
+9,West Virginia
+15,Hawaii
+16,New Hampshire
+9,Maine
+16,Montana
+15,Rhode Island
+9,Delaware
+17,South Dakota
+17,North Dakota
+9,Alaska
+18,Vermont
+19,Wyoming
+8,Guam
+19,U.S. Virgin Islands
+18,American Samoa
+8,California
+20,Texas
+20,Florida
+8,New York
+21,Pennsylvania
+21,Illinois
+8,Ohio
+22,Georgia
+22,North Carolina
+8,Michigan
+23,New Jersey
+23,Virginia
+7,Washington
+24,Arizona
+24,Tennessee
+7,Massachusetts
+25,Indiana
+25,Missouri
+6,Maryland
+26,Wisconsin
+26,Colorado
+6,Minnesota
+27,South Carolina
+27,Alabama
+6,Louisiana
+28,Kentucky
+28,Oregon
+5,Oklahoma
+29,Connecticut
+29,Utah
+5,Puerto Rico
+30,Iowa
+31,Nevada
+4,Arkansas
+31,Mississippi
+30,Kansas
+32,New Mexico
+32,Nebraska
+4,Idaho
+33,West Virginia
+33,Hawaii
+4,New Hampshire
+34,Maine
+34,Montana
+4,Rhode Island
+35,Delaware
+35,South Dakota
+4,North Dakota
+36,Alaska
+36,Vermont
+4,Wyoming
+37,Guam
+37,U.S. Virgin Islands
+3,American Samoa
+38,California
+38,Texas
+3,Florida
+39,New York
+39,Pennsylvania
+2,Illinois
+40,Ohio
+40,Georgia
+2,North Carolina
+41,Michigan
+41,New Jersey
+2,Virginia
+42,Washington
+42,Arizona
+2,Tennessee
+43,Massachusetts
+43,Indiana
+2,Missouri
+44,Maryland
+45,Wisconsin
+2,Colorado
+45,Minnesota
+44,South Carolina
+2,Alabama
+46,Louisiana
+46,Kentucky
+1,Oregon
+47,Oklahoma
+47,Connecticut
+1,Utah
+48,Puerto Rico
+48,Iowa
+1,Nevada
+49,Arkansas
+49,Mississippi
+1,Kansas
+50,New Mexico
+50,Nebraska
+51,Idaho
+51,West Virginia
+1,Hawaii
+52,New Hampshire
+52,Maine
+1,Montana
+53,Rhode Island
+53,Delaware
+54,South Dakota
+54,North Dakota
+55,Alaska
+55,Vermont
+56,Wyoming
+56,Guam
+15,U.S. Virgin Islands
+"7,029,917",American Samoa
+14,California
+"6,547,629",Texas
+13,Florida
+"6,349,097",New York
+21,Pennsylvania
+7.4%,Illinois
+NEng,Ohio
+29,Georgia
+"3,605,944",North Carolina
+29,Michigan
+"3,574,097",New Jersey
+29,Virginia
+"3,405,565",Washington
+47,Arizona
+0.9%,Tennessee
+NEng,Massachusetts
+41,Indiana
+"1,377,529",Missouri
+42,Maryland
+"1,316,470",Wisconsin
+41,Colorado
+"1,235,786",Minnesota
+30,South Carolina
+4.6%,Alabama
+NEng,Louisiana
+42,Kentucky
+"1,362,359",Oregon
+41,Oklahoma
+"1,328,361",Connecticut
+40,Utah
+"1,274,923",Puerto Rico
+42,Iowa
+2.6%,Nevada
+NEng,Arkansas
+"1,097,379",Mississippi
+43,Kansas
+"1,052,567",New Mexico
+43,Nebraska
+"1,048,319",Idaho
+31,West Virginia
+4.3%,Hawaii
+NEng,New Hampshire
+49,Maine
+"643,077",Montana
+49,Rhode Island
+"625,741",Delaware
+49,South Dakota
+"608,827",North Dakota
+40,Alaska
+2.8%,Vermont
+NEng,Wyoming
+9,Guam
+"15,116,205",U.S. Virgin Islands
+9,American Samoa
+"14,444,865",California
+9,Texas
+"13,922,517",Florida
+7,New York
+4.6%,Pennsylvania
+NEast,Illinois
+4,Ohio
+"20,201,249",Georgia
+3,North Carolina
+"19,378,102",Michigan
+3,New Jersey
+"18,976,457",Virginia
+32,Washington
+4.2%,Arizona
+MAtl,Tennessee
+5,Massachusetts
+"13,002,700",Indiana
+6,Missouri
+"12,702,379",Maryland
+6,Wisconsin
+"12,281,054",Colorado
+43,Minnesota
+2.4%,South Carolina
+MAtl,Alabama
+11,Louisiana
+"9,288,994",Kentucky
+11,Oregon
+"8,791,894",Oklahoma
+9,Connecticut
+"8,414,350",Utah
+25,Puerto Rico
+5.7%,Iowa
+MAtl,Nevada
+4,Arkansas
+"42,492,943",Mississippi
+4,Kansas
+"40,872,375",New Mexico
+4,Nebraska
+"39,671,861",Idaho
+8,West Virginia
+4.0%,Hawaii
+NEast,New Hampshire
+4,Maine
+"57,609,148",Montana
+4,Rhode Island
+"55,317,240",Delaware
+4,South Dakota
+"53,594,378",North Dakota
+3,Alaska
+4.1%,Vermont
+USA,Wyoming
+3,Guam
+"21,538,187",U.S. Virgin Islands
+4,American Samoa
+"18,801,310",California
+4,Texas
+"15,982,378",Florida
+8,New York
+14.6%,Pennsylvania
+SAtl,Illinois
+8,Ohio
+"10,711,908",Georgia
+9,North Carolina
+"9,687,653",Michigan
+10,New Jersey
+"8,186,453",Virginia
+12,Washington
+10.6%,Arizona
+SAtl,Tennessee
+9,Massachusetts
+"10,439,388",Indiana
+10,Missouri
+"9,535,483",Maryland
+11,Wisconsin
+"8,049,313",Colorado
+15,Minnesota
+9.5%,South Carolina
+SAtl,Alabama
+12,Louisiana
+"8,631,393",Kentucky
+12,Oregon
+"8,001,024",Oklahoma
+12,Connecticut
+"7,078,515",Utah
+18,Puerto Rico
+7.9%,Iowa
+SAtl,Nevada
+18,Arkansas
+"6,177,224",Mississippi
+19,Kansas
+"5,773,552",New Mexico
+19,Nebraska
+"5,296,486",Idaho
+22,West Virginia
+7.0%,Hawaii
+SAtl,New Hampshire
+23,Maine
+"5,118,425",Montana
+24,Rhode Island
+"4,625,364",Delaware
+26,South Dakota
+"4,012,012",North Dakota
+10,Alaska
+10.7%,Vermont
+SAtl,Wyoming
+39,Guam
+"1,793,716",U.S. Virgin Islands
+37,American Samoa
+"1,852,994",California
+37,Texas
+"1,808,344",Florida
+50,New York
+−3.2%,Pennsylvania
+SAtl,Illinois
+45,Ohio
+"989,948",Georgia
+45,North Carolina
+"897,934",Michigan
+45,New Jersey
+"783,600",Virginia
+13,Washington
+10.2%,Arizona
+SAtl,Tennessee
+–,Massachusetts
+"689,545",Indiana
+–,Missouri
+"601,723",Maryland
+–,Wisconsin
+"572,059",Colorado
+–,Minnesota
+14.6%,South Carolina
+SAtl,Alabama
+1,Louisiana
+"66,089,734",Kentucky
+1,Oregon
+"59,777,037",Oklahoma
+1,Connecticut
+"51,769,160",Utah
+3,Puerto Rico
+10.6%,Iowa
+South,Nevada
+16,Arkansas
+"6,910,840",Mississippi
+17,Kansas
+"6,346,105",New Mexico
+16,Nebraska
+"5,689,283",Idaho
+17,West Virginia
+8.9%,Hawaii
+ESC,New Hampshire
+24,Maine
+"5,024,279",Montana
+23,Rhode Island
+"4,779,736",Delaware
+23,South Dakota
+"4,447,100",North Dakota
+27,Alaska
+5.1%,Vermont
+ESC,Wyoming
+26,Guam
+"4,505,836",U.S. Virgin Islands
+26,American Samoa
+"4,339,367",California
+25,Texas
+"4,041,769",Florida
+33,New York
+3.8%,Pennsylvania
+ESC,Illinois
+34,Ohio
+"2,961,279",Georgia
+31,North Carolina
+"2,967,297",Michigan
+31,New Jersey
+"2,844,658",Virginia
+49,Washington
+−0.2%,Arizona
+ESC,Tennessee
+8,Massachusetts
+"19,402,234",Indiana
+8,Missouri
+"18,432,505",Maryland
+8,Wisconsin
+"17,022,810",Colorado
+6,Minnesota
+5.3%,South Carolina
+South,Alabama
+2,Louisiana
+"29,145,505",Kentucky
+2,Oregon
+"25,145,561",Oklahoma
+2,Connecticut
+"20,851,820",Utah
+3,Puerto Rico
+15.9%,Iowa
+WSC,Nevada
+25,Arkansas
+"4,657,757",Mississippi
+25,Kansas
+"4,533,372",New Mexico
+22,Nebraska
+"4,468,976",Idaho
+41,West Virginia
+2.7%,Hawaii
+WSC,New Hampshire
+28,Maine
+"3,959,353",Montana
+28,Rhode Island
+"3,751,351",Delaware
+27,South Dakota
+"3,450,654",North Dakota
+26,Alaska
+5.5%,Vermont
+WSC,Wyoming
+33,Guam
+"3,011,524",U.S. Virgin Islands
+32,American Samoa
+"2,915,918",California
+33,Texas
+"2,673,400",Florida
+35,New York
+3.3%,Pennsylvania
+WSC,Illinois
+5,Ohio
+"40,774,139",Georgia
+5,North Carolina
+"36,346,202",Michigan
+5,New Jersey
+"31,444,850",Virginia
+2,Washington
+12.2%,Arizona
+South,Tennessee
+1,Massachusetts
+"126,266,107",Indiana
+1,Missouri
+"114,555,744",Maryland
+1,Wisconsin
+"100,236,820",Colorado
+1,Minnesota
+10.2%,South Carolina
+USA,Alabama
+6,Louisiana
+"12,812,508",Kentucky
+5,Oregon
+"12,830,632",Oklahoma
+5,Connecticut
+"12,419,293",Utah
+48,Puerto Rico
+−0.1%,Iowa
+ENC,Nevada
+7,Arkansas
+"11,799,448",Mississippi
+7,Kansas
+"11,536,504",New Mexico
+7,Nebraska
+"11,353,140",Idaho
+45,West Virginia
+2.3%,Hawaii
+ENC,New Hampshire
+10,Maine
+"10,077,331",Montana
+8,Rhode Island
+"9,883,640",Delaware
+8,South Dakota
+"9,938,444",North Dakota
+46,Alaska
+2.0%,Vermont
+ENC,Wyoming
+17,Guam
+"6,785,528",U.S. Virgin Islands
+15,American Samoa
+"6,483,802",California
+14,Texas
+"6,080,485",Florida
+29,New York
+4.7%,Pennsylvania
+ENC,Illinois
+20,Ohio
+"5,893,718",Georgia
+20,North Carolina
+"5,686,986",Michigan
+18,New Jersey
+"5,363,675",Virginia
+34,Washington
+3.6%,Arizona
+ENC,Tennessee
+3,Massachusetts
+"47,368,533",Indiana
+3,Missouri
+"46,421,564",Maryland
+2,Wisconsin
+"45,155,037",Colorado
+9,Minnesota
+2.0%,South Carolina
+MWest,Alabama
+19,Louisiana
+"6,154,913",Kentucky
+18,Oregon
+"5,988,927",Oklahoma
+17,Connecticut
+"5,595,211",Utah
+39,Puerto Rico
+2.8%,Iowa
+WNC,Nevada
+22,Arkansas
+"5,706,494",Mississippi
+21,Kansas
+"5,303,925",New Mexico
+21,Nebraska
+"4,919,479",Idaho
+19,West Virginia
+7.6%,Hawaii
+WNC,New Hampshire
+31,Maine
+"3,190,369",Montana
+30,Rhode Island
+"3,046,355",Delaware
+30,South Dakota
+"2,926,324",North Dakota
+28,Alaska
+4.7%,Vermont
+WNC,Wyoming
+35,Guam
+"2,937,880",U.S. Virgin Islands
+33,American Samoa
+"2,853,118",California
+32,Texas
+"2,688,418",Florida
+37,New York
+3.0%,Pennsylvania
+WNC,Illinois
+37,Ohio
+"1,961,504",Georgia
+38,North Carolina
+"1,826,341",Michigan
+38,New Jersey
+"1,711,263",Virginia
+20,Washington
+7.4%,Arizona
+WNC,Tennessee
+46,Massachusetts
+"886,667",Indiana
+46,Missouri
+"814,180",Maryland
+46,Wisconsin
+"754,844",Colorado
+16,Minnesota
+8.9%,South Carolina
+WNC,Alabama
+47,Louisiana
+"779,094",Kentucky
+48,Oregon
+"672,591",Oklahoma
+47,Connecticut
+"642,200",Utah
+4,Puerto Rico
+15.8%,Iowa
+WNC,Nevada
+7,Arkansas
+"21,616,921",Mississippi
+7,Kansas
+"20,505,437",New Mexico
+6,Nebraska
+"19,237,739",Idaho
+5,West Virginia
+5.4%,Hawaii
+MWest,New Hampshire
+3,Maine
+"68,985,454",Montana
+3,Rhode Island
+"66,927,001",Delaware
+2,South Dakota
+"64,392,776",North Dakota
+4,Alaska
+3.1%,Vermont
+USA,Wyoming
+14,Guam
+"7,151,502",U.S. Virgin Islands
+16,American Samoa
+"6,392,017",California
+20,Texas
+"5,130,632",Florida
+9,New York
+11.9%,Pennsylvania
+Mtn,Illinois
+21,Ohio
+"5,773,714",Georgia
+22,North Carolina
+"5,029,196",Michigan
+24,New Jersey
+"4,301,261",Virginia
+6,Washington
+14.8%,Arizona
+Mtn,Tennessee
+30,Massachusetts
+"3,271,616",Indiana
+34,Missouri
+"2,763,885",Maryland
+34,Wisconsin
+"2,233,169",Colorado
+1,Minnesota
+18.4%,South Carolina
+Mtn,Alabama
+32,Louisiana
+"3,104,614",Kentucky
+35,Oregon
+"2,700,551",Oklahoma
+35,Connecticut
+"1,998,257",Utah
+5,Puerto Rico
+15.0%,Iowa
+Mtn,Nevada
+36,Arkansas
+"2,117,522",Mississippi
+36,Kansas
+"2,059,179",New Mexico
+36,Nebraska
+"1,819,046",Idaho
+38,West Virginia
+2.8%,Hawaii
+Mtn,New Hampshire
+38,Maine
+"1,839,106",Montana
+39,Rhode Island
+"1,567,582",Delaware
+39,South Dakota
+"1,293,953",North Dakota
+2,Alaska
+17.3%,Vermont
+Mtn,Wyoming
+44,Guam
+"1,084,225",U.S. Virgin Islands
+44,American Samoa
+"989,415",California
+44,Texas
+"902,195",Florida
+14,New York
+9.6%,Pennsylvania
+Mtn,Illinois
+50,Ohio
+"576,851",Georgia
+50,North Carolina
+"563,626",Michigan
+50,New Jersey
+"493,782",Virginia
+44,Washington
+2.3%,Arizona
+Mtn,Tennessee
+6,Massachusetts
+"24,919,150",Indiana
+6,Missouri
+"22,065,451",Maryland
+7,Wisconsin
+"18,172,295",Colorado
+1,Minnesota
+12.9%,South Carolina
+West,Alabama
+1,Louisiana
+"39,538,223",Kentucky
+1,Oregon
+"37,253,956",Oklahoma
+1,Connecticut
+"33,871,648",Utah
+24,Puerto Rico
+6.1%,Iowa
+Pac,Nevada
+13,Arkansas
+"7,705,281",Mississippi
+13,Kansas
+"6,724,540",New Mexico
+15,Nebraska
+"5,894,121",Idaho
+7,West Virginia
+14.6%,Hawaii
+Pac,New Hampshire
+27,Maine
+"4,237,256",Montana
+27,Rhode Island
+"3,831,074",Delaware
+28,South Dakota
+"3,421,399",North Dakota
+11,Alaska
+10.6%,Vermont
+Pac,Wyoming
+40,Guam
+"1,455,271",U.S. Virgin Islands
+40,American Samoa
+"1,360,301",California
+42,Texas
+"1,211,537",Florida
+23,New York
+7.0%,Pennsylvania
+Pac,Illinois
+48,Ohio
+"733,391",Georgia
+47,North Carolina
+"710,231",Michigan
+48,New Jersey
+"626,932",Virginia
+36,Washington
+3.3%,Arizona
+Pac,Tennessee
+2,Massachusetts
+"53,669,422",Indiana
+2,Missouri
+"49,880,102",Maryland
+3,Wisconsin
+"45,025,637",Colorado
+4,Minnesota
+7.6%,South Carolina
+West,Alabama
+2,Louisiana
+"78,588,572",Kentucky
+2,Oregon
+"71,945,553",Oklahoma
+3,Connecticut
+"63,197,932",Utah
+2,Puerto Rico
+9.2%,Iowa
+USA,Nevada
+–,Arkansas
+"331,449,281",Mississippi
+–,Kansas
+"308,745,538",New Mexico
+–,Nebraska
+"281,421,906",Idaho
+–,West Virginia
+7.4%,Hawaii
+NAmer,New Hampshire
+1,Maine
+"3,285,874",Montana
+1,Rhode Island
+"3,725,789",Delaware
+1,South Dakota
+"3,808,610",North Dakota
+3,Alaska
+−11.8%,Vermont
+I.A.,Wyoming
+2,Guam
+"153,836",U.S. Virgin Islands
+2,American Samoa
+"159,358",California
+2,Texas
+"154,805",Florida
+1,New York
+−3.5%,Pennsylvania
+I.A.,Illinois
+3,Ohio
+"87,146",Georgia
+3,North Carolina
+"106,405",Michigan
+3,New Jersey
+"108,612",Virginia
+2,Washington
+−18.1%,Arizona
+I.A.,Tennessee
+4,Massachusetts
+"49,710",Indiana
+4,Missouri
+"55,519",Maryland
+5,Wisconsin
+"57,291",Colorado
+4,Minnesota
+−7.7%,South Carolina
+I.A.,Alabama
+5,Louisiana
+"47,329",Kentucky
+5,Oregon
+"53,883",Oklahoma
+4,Connecticut
+"69,221",Utah
+5,Puerto Rico
+−14.8%,Iowa
+I.A.,Nevada
+ ,Arkansas
+6,Mississippi
+6,Kansas
+6,New Mexico
+316,Nebraska
+6,Idaho
+—,West Virginia
+I.A.,Hawaii
+–,New Hampshire
+"3,623,895",Maine
+–,Montana
+"4,100,954",Rhode Island
+–,Delaware
+"4,198,855",South Dakota
+–,North Dakota
+−11.6%,Alaska
+USA,Vermont
+1,Wyoming
+1,Guam
+52,U.S. Virgin Islands
+2,American Samoa
+2,California
+38,Texas
+3,Florida
+3,New York
+28,Pennsylvania
+4,Illinois
+4,Ohio
+26,Georgia
+5,North Carolina
+5,Michigan
+17,New Jersey
+6,Virginia
+6,Washington
+17,Arizona
+7,Tennessee
+7,Massachusetts
+15,Indiana
+8,Missouri
+8,Maryland
+14,Wisconsin
+9,Colorado
+9,Minnesota
+14,South Carolina
+10,Alabama
+10,Louisiana
+13,Kentucky
+11,Oregon
+11,Oklahoma
+12,Connecticut
+12,Utah
+12,Puerto Rico
+11,Iowa
+13,Nevada
+13,Arkansas
+10,Mississippi
+14,Kansas
+14,New Mexico
+9,Nebraska
+15,Idaho
+16,West Virginia
+9,Hawaii
+16,New Hampshire
+15,Maine
+9,Montana
+17,Rhode Island
+17,Delaware
+9,South Dakota
+18,North Dakota
+19,Alaska
+8,Vermont
+19,Wyoming
+18,Guam
+8,U.S. Virgin Islands
+20,American Samoa
+20,California
+8,Texas
+21,Florida
+21,New York
+8,Pennsylvania
+22,Illinois
+22,Ohio
+8,Georgia
+23,North Carolina
+23,Michigan
+7,New Jersey
+24,Virginia
+24,Washington
+7,Arizona
+25,Tennessee
+25,Massachusetts
+6,Indiana
+26,Missouri
+26,Maryland
+6,Wisconsin
+27,Colorado
+27,Minnesota
+6,South Carolina
+28,Alabama
+28,Louisiana
+5,Kentucky
+29,Oregon
+29,Oklahoma
+5,Connecticut
+30,Utah
+31,Puerto Rico
+4,Iowa
+31,Nevada
+30,Arkansas
+32,Mississippi
+32,Kansas
+4,New Mexico
+33,Nebraska
+33,Idaho
+4,West Virginia
+34,Hawaii
+34,New Hampshire
+4,Maine
+35,Montana
+35,Rhode Island
+4,Delaware
+36,South Dakota
+36,North Dakota
+4,Alaska
+37,Vermont
+37,Wyoming
+3,Guam
+38,U.S. Virgin Islands
+38,American Samoa
+3,California
+39,Texas
+39,Florida
+2,New York
+40,Pennsylvania
+40,Illinois
+2,Ohio
+41,Georgia
+41,North Carolina
+2,Michigan
+42,New Jersey
+42,Virginia
+2,Washington
+43,Arizona
+43,Tennessee
+2,Massachusetts
+44,Indiana
+45,Missouri
+2,Maryland
+45,Wisconsin
+44,Colorado
+2,Minnesota
+46,South Carolina
+46,Alabama
+1,Louisiana
+47,Kentucky
+47,Oregon
+1,Oklahoma
+48,Connecticut
+48,Utah
+1,Puerto Rico
+49,Iowa
+49,Nevada
+1,Arkansas
+50,Mississippi
+50,Kansas
+51,New Mexico
+51,Nebraska
+1,Idaho
+52,West Virginia
+52,Hawaii
+1,New Hampshire
+53,Maine
+53,Montana
+54,Rhode Island
+54,Delaware
+55,South Dakota
+55,North Dakota
+56,Alaska
+56,Vermont
+15,Wyoming
+"7,029,917",Guam
+14,U.S. Virgin Islands
+"6,547,629",American Samoa
+13,California
+"6,349,097",Texas
+21,Florida
+7.4%,New York
+NEng,Pennsylvania
+29,Illinois
+"3,605,944",Ohio
+29,Georgia
+"3,574,097",North Carolina
+29,Michigan
+"3,405,565",New Jersey
+47,Virginia
+0.9%,Washington
+NEng,Arizona
+41,Tennessee
+"1,377,529",Massachusetts
+42,Indiana
+"1,316,470",Missouri
+41,Maryland
+"1,235,786",Wisconsin
+30,Colorado
+4.6%,Minnesota
+NEng,South Carolina
+42,Alabama
+"1,362,359",Louisiana
+41,Kentucky
+"1,328,361",Oregon
+40,Oklahoma
+"1,274,923",Connecticut
+42,Utah
+2.6%,Puerto Rico
+NEng,Iowa
+"1,097,379",Nevada
+43,Arkansas
+"1,052,567",Mississippi
+43,Kansas
+"1,048,319",New Mexico
+31,Nebraska
+4.3%,Idaho
+NEng,West Virginia
+49,Hawaii
+"643,077",New Hampshire
+49,Maine
+"625,741",Montana
+49,Rhode Island
+"608,827",Delaware
+40,South Dakota
+2.8%,North Dakota
+NEng,Alaska
+9,Vermont
+"15,116,205",Wyoming
+9,Guam
+"14,444,865",U.S. Virgin Islands
+9,American Samoa
+"13,922,517",California
+7,Texas
+4.6%,Florida
+NEast,New York
+4,Pennsylvania
+"20,201,249",Illinois
+3,Ohio
+"19,378,102",Georgia
+3,North Carolina
+"18,976,457",Michigan
+32,New Jersey
+4.2%,Virginia
+MAtl,Washington
+5,Arizona
+"13,002,700",Tennessee
+6,Massachusetts
+"12,702,379",Indiana
+6,Missouri
+"12,281,054",Maryland
+43,Wisconsin
+2.4%,Colorado
+MAtl,Minnesota
+11,South Carolina
+"9,288,994",Alabama
+11,Louisiana
+"8,791,894",Kentucky
+9,Oregon
+"8,414,350",Oklahoma
+25,Connecticut
+5.7%,Utah
+MAtl,Puerto Rico
+4,Iowa
+"42,492,943",Nevada
+4,Arkansas
+"40,872,375",Mississippi
+4,Kansas
+"39,671,861",New Mexico
+8,Nebraska
+4.0%,Idaho
+NEast,West Virginia
+4,Hawaii
+"57,609,148",New Hampshire
+4,Maine
+"55,317,240",Montana
+4,Rhode Island
+"53,594,378",Delaware
+3,South Dakota
+4.1%,North Dakota
+USA,Alaska
+3,Vermont
+"21,538,187",Wyoming
+4,Guam
+"18,801,310",U.S. Virgin Islands
+4,American Samoa
+"15,982,378",California
+8,Texas
+14.6%,Florida
+SAtl,New York
+8,Pennsylvania
+"10,711,908",Illinois
+9,Ohio
+"9,687,653",Georgia
+10,North Carolina
+"8,186,453",Michigan
+12,New Jersey
+10.6%,Virginia
+SAtl,Washington
+9,Arizona
+"10,439,388",Tennessee
+10,Massachusetts
+"9,535,483",Indiana
+11,Missouri
+"8,049,313",Maryland
+15,Wisconsin
+9.5%,Colorado
+SAtl,Minnesota
+12,South Carolina
+"8,631,393",Alabama
+12,Louisiana
+"8,001,024",Kentucky
+12,Oregon
+"7,078,515",Oklahoma
+18,Connecticut
+7.9%,Utah
+SAtl,Puerto Rico
+18,Iowa
+"6,177,224",Nevada
+19,Arkansas
+"5,773,552",Mississippi
+19,Kansas
+"5,296,486",New Mexico
+22,Nebraska
+7.0%,Idaho
+SAtl,West Virginia
+23,Hawaii
+"5,118,425",New Hampshire
+24,Maine
+"4,625,364",Montana
+26,Rhode Island
+"4,012,012",Delaware
+10,South Dakota
+10.7%,North Dakota
+SAtl,Alaska
+39,Vermont
+"1,793,716",Wyoming
+37,Guam
+"1,852,994",U.S. Virgin Islands
+37,American Samoa
+"1,808,344",California
+50,Texas
+−3.2%,Florida
+SAtl,New York
+45,Pennsylvania
+"989,948",Illinois
+45,Ohio
+"897,934",Georgia
+45,North Carolina
+"783,600",Michigan
+13,New Jersey
+10.2%,Virginia
+SAtl,Washington
+–,Arizona
+"689,545",Tennessee
+–,Massachusetts
+"601,723",Indiana
+–,Missouri
+"572,059",Maryland
+–,Wisconsin
+14.6%,Colorado
+SAtl,Minnesota
+1,South Carolina
+"66,089,734",Alabama
+1,Louisiana
+"59,777,037",Kentucky
+1,Oregon
+"51,769,160",Oklahoma
+3,Connecticut
+10.6%,Utah
+South,Puerto Rico
+16,Iowa
+"6,910,840",Nevada
+17,Arkansas
+"6,346,105",Mississippi
+16,Kansas
+"5,689,283",New Mexico
+17,Nebraska
+8.9%,Idaho
+ESC,West Virginia
+24,Hawaii
+"5,024,279",New Hampshire
+23,Maine
+"4,779,736",Montana
+23,Rhode Island
+"4,447,100",Delaware
+27,South Dakota
+5.1%,North Dakota
+ESC,Alaska
+26,Vermont
+"4,505,836",Wyoming
+26,Guam
+"4,339,367",U.S. Virgin Islands
+25,American Samoa
+"4,041,769",California
+33,Texas
+3.8%,Florida
+ESC,New York
+34,Pennsylvania
+"2,961,279",Illinois
+31,Ohio
+"2,967,297",Georgia
+31,North Carolina
+"2,844,658",Michigan
+49,New Jersey
+−0.2%,Virginia
+ESC,Washington
+8,Arizona
+"19,402,234",Tennessee
+8,Massachusetts
+"18,432,505",Indiana
+8,Missouri
+"17,022,810",Maryland
+6,Wisconsin
+5.3%,Colorado
+South,Minnesota
+2,South Carolina
+"29,145,505",Alabama
+2,Louisiana
+"25,145,561",Kentucky
+2,Oregon
+"20,851,820",Oklahoma
+3,Connecticut
+15.9%,Utah
+WSC,Puerto Rico
+25,Iowa
+"4,657,757",Nevada
+25,Arkansas
+"4,533,372",Mississippi
+22,Kansas
+"4,468,976",New Mexico
+41,Nebraska
+2.7%,Idaho
+WSC,West Virginia
+28,Hawaii
+"3,959,353",New Hampshire
+28,Maine
+"3,751,351",Montana
+27,Rhode Island
+"3,450,654",Delaware
+26,South Dakota
+5.5%,North Dakota
+WSC,Alaska
+33,Vermont
+"3,011,524",Wyoming
+32,Guam
+"2,915,918",U.S. Virgin Islands
+33,American Samoa
+"2,673,400",California
+35,Texas
+3.3%,Florida
+WSC,New York
+5,Pennsylvania
+"40,774,139",Illinois
+5,Ohio
+"36,346,202",Georgia
+5,North Carolina
+"31,444,850",Michigan
+2,New Jersey
+12.2%,Virginia
+South,Washington
+1,Arizona
+"126,266,107",Tennessee
+1,Massachusetts
+"114,555,744",Indiana
+1,Missouri
+"100,236,820",Maryland
+1,Wisconsin
+10.2%,Colorado
+USA,Minnesota
+6,South Carolina
+"12,812,508",Alabama
+5,Louisiana
+"12,830,632",Kentucky
+5,Oregon
+"12,419,293",Oklahoma
+48,Connecticut
+−0.1%,Utah
+ENC,Puerto Rico
+7,Iowa
+"11,799,448",Nevada
+7,Arkansas
+"11,536,504",Mississippi
+7,Kansas
+"11,353,140",New Mexico
+45,Nebraska
+2.3%,Idaho
+ENC,West Virginia
+10,Hawaii
+"10,077,331",New Hampshire
+8,Maine
+"9,883,640",Montana
+8,Rhode Island
+"9,938,444",Delaware
+46,South Dakota
+2.0%,North Dakota
+ENC,Alaska
+17,Vermont
+"6,785,528",Wyoming
+15,Guam
+"6,483,802",U.S. Virgin Islands
+14,American Samoa
+"6,080,485",California
+29,Texas
+4.7%,Florida
+ENC,New York
+20,Pennsylvania
+"5,893,718",Illinois
+20,Ohio
+"5,686,986",Georgia
+18,North Carolina
+"5,363,675",Michigan
+34,New Jersey
+3.6%,Virginia
+ENC,Washington
+3,Arizona
+"47,368,533",Tennessee
+3,Massachusetts
+"46,421,564",Indiana
+2,Missouri
+"45,155,037",Maryland
+9,Wisconsin
+2.0%,Colorado
+MWest,Minnesota
+19,South Carolina
+"6,154,913",Alabama
+18,Louisiana
+"5,988,927",Kentucky
+17,Oregon
+"5,595,211",Oklahoma
+39,Connecticut
+2.8%,Utah
+WNC,Puerto Rico
+22,Iowa
+"5,706,494",Nevada
+21,Arkansas
+"5,303,925",Mississippi
+21,Kansas
+"4,919,479",New Mexico
+19,Nebraska
+7.6%,Idaho
+WNC,West Virginia
+31,Hawaii
+"3,190,369",New Hampshire
+30,Maine
+"3,046,355",Montana
+30,Rhode Island
+"2,926,324",Delaware
+28,South Dakota
+4.7%,North Dakota
+WNC,Alaska
+35,Vermont
+"2,937,880",Wyoming
+33,Guam
+"2,853,118",U.S. Virgin Islands
+32,American Samoa
+"2,688,418",California
+37,Texas
+3.0%,Florida
+WNC,New York
+37,Pennsylvania
+"1,961,504",Illinois
+38,Ohio
+"1,826,341",Georgia
+38,North Carolina
+"1,711,263",Michigan
+20,New Jersey
+7.4%,Virginia
+WNC,Washington
+46,Arizona
+"886,667",Tennessee
+46,Massachusetts
+"814,180",Indiana
+46,Missouri
+"754,844",Maryland
+16,Wisconsin
+8.9%,Colorado
+WNC,Minnesota
+47,South Carolina
+"779,094",Alabama
+48,Louisiana
+"672,591",Kentucky
+47,Oregon
+"642,200",Oklahoma
+4,Connecticut
+15.8%,Utah
+WNC,Puerto Rico
+7,Iowa
+"21,616,921",Nevada
+7,Arkansas
+"20,505,437",Mississippi
+6,Kansas
+"19,237,739",New Mexico
+5,Nebraska
+5.4%,Idaho
+MWest,West Virginia
+3,Hawaii
+"68,985,454",New Hampshire
+3,Maine
+"66,927,001",Montana
+2,Rhode Island
+"64,392,776",Delaware
+4,South Dakota
+3.1%,North Dakota
+USA,Alaska
+14,Vermont
+"7,151,502",Wyoming
+16,Guam
+"6,392,017",U.S. Virgin Islands
+20,American Samoa
+"5,130,632",California
+9,Texas
+11.9%,Florida
+Mtn,New York
+21,Pennsylvania
+"5,773,714",Illinois
+22,Ohio
+"5,029,196",Georgia
+24,North Carolina
+"4,301,261",Michigan
+6,New Jersey
+14.8%,Virginia
+Mtn,Washington
+30,Arizona
+"3,271,616",Tennessee
+34,Massachusetts
+"2,763,885",Indiana
+34,Missouri
+"2,233,169",Maryland
+1,Wisconsin
+18.4%,Colorado
+Mtn,Minnesota
+32,South Carolina
+"3,104,614",Alabama
+35,Louisiana
+"2,700,551",Kentucky
+35,Oregon
+"1,998,257",Oklahoma
+5,Connecticut
+15.0%,Utah
+Mtn,Puerto Rico
+36,Iowa
+"2,117,522",Nevada
+36,Arkansas
+"2,059,179",Mississippi
+36,Kansas
+"1,819,046",New Mexico
+38,Nebraska
+2.8%,Idaho
+Mtn,West Virginia
+38,Hawaii
+"1,839,106",New Hampshire
+39,Maine
+"1,567,582",Montana
+39,Rhode Island
+"1,293,953",Delaware
+2,South Dakota
+17.3%,North Dakota
+Mtn,Alaska
+44,Vermont
+"1,084,225",Wyoming
+44,Guam
+"989,415",U.S. Virgin Islands
+44,American Samoa
+"902,195",California
+14,Texas
+9.6%,Florida
+Mtn,New York
+50,Pennsylvania
+"576,851",Illinois
+50,Ohio
+"563,626",Georgia
+50,North Carolina
+"493,782",Michigan
+44,New Jersey
+2.3%,Virginia
+Mtn,Washington
+6,Arizona
+"24,919,150",Tennessee
+6,Massachusetts
+"22,065,451",Indiana
+7,Missouri
+"18,172,295",Maryland
+1,Wisconsin
+12.9%,Colorado
+West,Minnesota
+1,South Carolina
+"39,538,223",Alabama
+1,Louisiana
+"37,253,956",Kentucky
+1,Oregon
+"33,871,648",Oklahoma
+24,Connecticut
+6.1%,Utah
+Pac,Puerto Rico
+13,Iowa
+"7,705,281",Nevada
+13,Arkansas
+"6,724,540",Mississippi
+15,Kansas
+"5,894,121",New Mexico
+7,Nebraska
+14.6%,Idaho
+Pac,West Virginia
+27,Hawaii
+"4,237,256",New Hampshire
+27,Maine
+"3,831,074",Montana
+28,Rhode Island
+"3,421,399",Delaware
+11,South Dakota
+10.6%,North Dakota
+Pac,Alaska
+40,Vermont
+"1,455,271",Wyoming
+40,Guam
+"1,360,301",U.S. Virgin Islands
+42,American Samoa
+"1,211,537",California
+23,Texas
+7.0%,Florida
+Pac,New York
+48,Pennsylvania
+"733,391",Illinois
+47,Ohio
+"710,231",Georgia
+48,North Carolina
+"626,932",Michigan
+36,New Jersey
+3.3%,Virginia
+Pac,Washington
+2,Arizona
+"53,669,422",Tennessee
+2,Massachusetts
+"49,880,102",Indiana
+3,Missouri
+"45,025,637",Maryland
+4,Wisconsin
+7.6%,Colorado
+West,Minnesota
+2,South Carolina
+"78,588,572",Alabama
+2,Louisiana
+"71,945,553",Kentucky
+3,Oregon
+"63,197,932",Oklahoma
+2,Connecticut
+9.2%,Utah
+USA,Puerto Rico
+–,Iowa
+"331,449,281",Nevada
+–,Arkansas
+"308,745,538",Mississippi
+–,Kansas
+"281,421,906",New Mexico
+–,Nebraska
+7.4%,Idaho
+NAmer,West Virginia
+1,Hawaii
+"3,285,874",New Hampshire
+1,Maine
+"3,725,789",Montana
+1,Rhode Island
+"3,808,610",Delaware
+3,South Dakota
+−11.8%,North Dakota
+I.A.,Alaska
+2,Vermont
+"153,836",Wyoming
+2,Guam
+"159,358",U.S. Virgin Islands
+2,American Samoa
+"154,805",California
+1,Texas
+−3.5%,Florida
+I.A.,New York
+3,Pennsylvania
+"87,146",Illinois
+3,Ohio
+"106,405",Georgia
+3,North Carolina
+"108,612",Michigan
+2,New Jersey
+−18.1%,Virginia
+I.A.,Washington
+4,Arizona
+"49,710",Tennessee
+4,Massachusetts
+"55,519",Indiana
+5,Missouri
+"57,291",Maryland
+4,Wisconsin
+−7.7%,Colorado
+I.A.,Minnesota
+5,South Carolina
+"47,329",Alabama
+5,Louisiana
+"53,883",Kentucky
+4,Oregon
+"69,221",Oklahoma
+5,Connecticut
+−14.8%,Utah
+I.A.,Puerto Rico
+ ,Iowa
+6,Nevada
+6,Arkansas
+6,Mississippi
+316,Kansas
+6,New Mexico
+—,Nebraska
+I.A.,Idaho
+–,West Virginia
+"3,623,895",Hawaii
+–,New Hampshire
+"4,100,954",Maine
+–,Montana
+"4,198,855",Rhode Island
+–,Delaware
+−11.6%,South Dakota
+USA,North Dakota
+1,Alaska
+1,Vermont
+52,Wyoming
+2,Guam
+2,U.S. Virgin Islands
+38,American Samoa
+3,California
+3,Texas
+28,Florida
+4,New York
+4,Pennsylvania
+26,Illinois
+5,Ohio
+5,Georgia
+17,North Carolina
+6,Michigan
+6,New Jersey
+17,Virginia
+7,Washington
+7,Arizona
+15,Tennessee
+8,Massachusetts
+8,Indiana
+14,Missouri
+9,Maryland
+9,Wisconsin
+14,Colorado
+10,Minnesota
+10,South Carolina
+13,Alabama
+11,Louisiana
+11,Kentucky
+12,Oregon
+12,Oklahoma
+12,Connecticut
+11,Utah
+13,Puerto Rico
+13,Iowa
+10,Nevada
+14,Arkansas
+14,Mississippi
+9,Kansas
+15,New Mexico
+16,Nebraska
+9,Idaho
+16,West Virginia
+15,Hawaii
+9,New Hampshire
+17,Maine
+17,Montana
+9,Rhode Island
+18,Delaware
+19,South Dakota
+8,North Dakota
+19,Alaska
+18,Vermont
+8,Wyoming
+20,Guam
+20,U.S. Virgin Islands
+8,American Samoa
+21,California
+21,Texas
+8,Florida
+22,New York
+22,Pennsylvania
+8,Illinois
+23,Ohio
+23,Georgia
+7,North Carolina
+24,Michigan
+24,New Jersey
+7,Virginia
+25,Washington
+25,Arizona
+6,Tennessee
+26,Massachusetts
+26,Indiana
+6,Missouri
+27,Maryland
+27,Wisconsin
+6,Colorado
+28,Minnesota
+28,South Carolina
+5,Alabama
+29,Louisiana
+29,Kentucky
+5,Oregon
+30,Oklahoma
+31,Connecticut
+4,Utah
+31,Puerto Rico
+30,Iowa
+32,Nevada
+32,Arkansas
+4,Mississippi
+33,Kansas
+33,New Mexico
+4,Nebraska
+34,Idaho
+34,West Virginia
+4,Hawaii
+35,New Hampshire
+35,Maine
+4,Montana
+36,Rhode Island
+36,Delaware
+4,South Dakota
+37,North Dakota
+37,Alaska
+3,Vermont
+38,Wyoming
+38,Guam
+3,U.S. Virgin Islands
+39,American Samoa
+39,California
+2,Texas
+40,Florida
+40,New York
+2,Pennsylvania
+41,Illinois
+41,Ohio
+2,Georgia
+42,North Carolina
+42,Michigan
+2,New Jersey
+43,Virginia
+43,Washington
+2,Arizona
+44,Tennessee
+45,Massachusetts
+2,Indiana
+45,Missouri
+44,Maryland
+2,Wisconsin
+46,Colorado
+46,Minnesota
+1,South Carolina
+47,Alabama
+47,Louisiana
+1,Kentucky
+48,Oregon
+48,Oklahoma
+1,Connecticut
+49,Utah
+49,Puerto Rico
+1,Iowa
+50,Nevada
+50,Arkansas
+51,Mississippi
+51,Kansas
+1,New Mexico
+52,Nebraska
+52,Idaho
+1,West Virginia
+53,Hawaii
+53,New Hampshire
+54,Maine
+54,Montana
+55,Rhode Island
+55,Delaware
+56,South Dakota
+56,North Dakota
+15,Alaska
+"7,029,917",Vermont
+14,Wyoming
+"6,547,629",Guam
+13,U.S. Virgin Islands
+"6,349,097",American Samoa
+21,California
+7.4%,Texas
+NEng,Florida
+29,New York
+"3,605,944",Pennsylvania
+29,Illinois
+"3,574,097",Ohio
+29,Georgia
+"3,405,565",North Carolina
+47,Michigan
+0.9%,New Jersey
+NEng,Virginia
+41,Washington
+"1,377,529",Arizona
+42,Tennessee
+"1,316,470",Massachusetts
+41,Indiana
+"1,235,786",Missouri
+30,Maryland
+4.6%,Wisconsin
+NEng,Colorado
+42,Minnesota
+"1,362,359",South Carolina
+41,Alabama
+"1,328,361",Louisiana
+40,Kentucky
+"1,274,923",Oregon
+42,Oklahoma
+2.6%,Connecticut
+NEng,Utah
+"1,097,379",Puerto Rico
+43,Iowa
+"1,052,567",Nevada
+43,Arkansas
+"1,048,319",Mississippi
+31,Kansas
+4.3%,New Mexico
+NEng,Nebraska
+49,Idaho
+"643,077",West Virginia
+49,Hawaii
+"625,741",New Hampshire
+49,Maine
+"608,827",Montana
+40,Rhode Island
+2.8%,Delaware
+NEng,South Dakota
+9,North Dakota
+"15,116,205",Alaska
+9,Vermont
+"14,444,865",Wyoming
+9,Guam
+"13,922,517",U.S. Virgin Islands
+7,American Samoa
+4.6%,California
+NEast,Texas
+4,Florida
+"20,201,249",New York
+3,Pennsylvania
+"19,378,102",Illinois
+3,Ohio
+"18,976,457",Georgia
+32,North Carolina
+4.2%,Michigan
+MAtl,New Jersey
+5,Virginia
+"13,002,700",Washington
+6,Arizona
+"12,702,379",Tennessee
+6,Massachusetts
+"12,281,054",Indiana
+43,Missouri
+2.4%,Maryland
+MAtl,Wisconsin
+11,Colorado
+"9,288,994",Minnesota
+11,South Carolina
+"8,791,894",Alabama
+9,Louisiana
+"8,414,350",Kentucky
+25,Oregon
+5.7%,Oklahoma
+MAtl,Connecticut
+4,Utah
+"42,492,943",Puerto Rico
+4,Iowa
+"40,872,375",Nevada
+4,Arkansas
+"39,671,861",Mississippi
+8,Kansas
+4.0%,New Mexico
+NEast,Nebraska
+4,Idaho
+"57,609,148",West Virginia
+4,Hawaii
+"55,317,240",New Hampshire
+4,Maine
+"53,594,378",Montana
+3,Rhode Island
+4.1%,Delaware
+USA,South Dakota
+3,North Dakota
+"21,538,187",Alaska
+4,Vermont
+"18,801,310",Wyoming
+4,Guam
+"15,982,378",U.S. Virgin Islands
+8,American Samoa
+14.6%,California
+SAtl,Texas
+8,Florida
+"10,711,908",New York
+9,Pennsylvania
+"9,687,653",Illinois
+10,Ohio
+"8,186,453",Georgia
+12,North Carolina
+10.6%,Michigan
+SAtl,New Jersey
+9,Virginia
+"10,439,388",Washington
+10,Arizona
+"9,535,483",Tennessee
+11,Massachusetts
+"8,049,313",Indiana
+15,Missouri
+9.5%,Maryland
+SAtl,Wisconsin
+12,Colorado
+"8,631,393",Minnesota
+12,South Carolina
+"8,001,024",Alabama
+12,Louisiana
+"7,078,515",Kentucky
+18,Oregon
+7.9%,Oklahoma
+SAtl,Connecticut
+18,Utah
+"6,177,224",Puerto Rico
+19,Iowa
+"5,773,552",Nevada
+19,Arkansas
+"5,296,486",Mississippi
+22,Kansas
+7.0%,New Mexico
+SAtl,Nebraska
+23,Idaho
+"5,118,425",West Virginia
+24,Hawaii
+"4,625,364",New Hampshire
+26,Maine
+"4,012,012",Montana
+10,Rhode Island
+10.7%,Delaware
+SAtl,South Dakota
+39,North Dakota
+"1,793,716",Alaska
+37,Vermont
+"1,852,994",Wyoming
+37,Guam
+"1,808,344",U.S. Virgin Islands
+50,American Samoa
+−3.2%,California
+SAtl,Texas
+45,Florida
+"989,948",New York
+45,Pennsylvania
+"897,934",Illinois
+45,Ohio
+"783,600",Georgia
+13,North Carolina
+10.2%,Michigan
+SAtl,New Jersey
+–,Virginia
+"689,545",Washington
+–,Arizona
+"601,723",Tennessee
+–,Massachusetts
+"572,059",Indiana
+–,Missouri
+14.6%,Maryland
+SAtl,Wisconsin
+1,Colorado
+"66,089,734",Minnesota
+1,South Carolina
+"59,777,037",Alabama
+1,Louisiana
+"51,769,160",Kentucky
+3,Oregon
+10.6%,Oklahoma
+South,Connecticut
+16,Utah
+"6,910,840",Puerto Rico
+17,Iowa
+"6,346,105",Nevada
+16,Arkansas
+"5,689,283",Mississippi
+17,Kansas
+8.9%,New Mexico
+ESC,Nebraska
+24,Idaho
+"5,024,279",West Virginia
+23,Hawaii
+"4,779,736",New Hampshire
+23,Maine
+"4,447,100",Montana
+27,Rhode Island
+5.1%,Delaware
+ESC,South Dakota
+26,North Dakota
+"4,505,836",Alaska
+26,Vermont
+"4,339,367",Wyoming
+25,Guam
+"4,041,769",U.S. Virgin Islands
+33,American Samoa
+3.8%,California
+ESC,Texas
+34,Florida
+"2,961,279",New York
+31,Pennsylvania
+"2,967,297",Illinois
+31,Ohio
+"2,844,658",Georgia
+49,North Carolina
+−0.2%,Michigan
+ESC,New Jersey
+8,Virginia
+"19,402,234",Washington
+8,Arizona
+"18,432,505",Tennessee
+8,Massachusetts
+"17,022,810",Indiana
+6,Missouri
+5.3%,Maryland
+South,Wisconsin
+2,Colorado
+"29,145,505",Minnesota
+2,South Carolina
+"25,145,561",Alabama
+2,Louisiana
+"20,851,820",Kentucky
+3,Oregon
+15.9%,Oklahoma
+WSC,Connecticut
+25,Utah
+"4,657,757",Puerto Rico
+25,Iowa
+"4,533,372",Nevada
+22,Arkansas
+"4,468,976",Mississippi
+41,Kansas
+2.7%,New Mexico
+WSC,Nebraska
+28,Idaho
+"3,959,353",West Virginia
+28,Hawaii
+"3,751,351",New Hampshire
+27,Maine
+"3,450,654",Montana
+26,Rhode Island
+5.5%,Delaware
+WSC,South Dakota
+33,North Dakota
+"3,011,524",Alaska
+32,Vermont
+"2,915,918",Wyoming
+33,Guam
+"2,673,400",U.S. Virgin Islands
+35,American Samoa
+3.3%,California
+WSC,Texas
+5,Florida
+"40,774,139",New York
+5,Pennsylvania
+"36,346,202",Illinois
+5,Ohio
+"31,444,850",Georgia
+2,North Carolina
+12.2%,Michigan
+South,New Jersey
+1,Virginia
+"126,266,107",Washington
+1,Arizona
+"114,555,744",Tennessee
+1,Massachusetts
+"100,236,820",Indiana
+1,Missouri
+10.2%,Maryland
+USA,Wisconsin
+6,Colorado
+"12,812,508",Minnesota
+5,South Carolina
+"12,830,632",Alabama
+5,Louisiana
+"12,419,293",Kentucky
+48,Oregon
+−0.1%,Oklahoma
+ENC,Connecticut
+7,Utah
+"11,799,448",Puerto Rico
+7,Iowa
+"11,536,504",Nevada
+7,Arkansas
+"11,353,140",Mississippi
+45,Kansas
+2.3%,New Mexico
+ENC,Nebraska
+10,Idaho
+"10,077,331",West Virginia
+8,Hawaii
+"9,883,640",New Hampshire
+8,Maine
+"9,938,444",Montana
+46,Rhode Island
+2.0%,Delaware
+ENC,South Dakota
+17,North Dakota
+"6,785,528",Alaska
+15,Vermont
+"6,483,802",Wyoming
+14,Guam
+"6,080,485",U.S. Virgin Islands
+29,American Samoa
+4.7%,California
+ENC,Texas
+20,Florida
+"5,893,718",New York
+20,Pennsylvania
+"5,686,986",Illinois
+18,Ohio
+"5,363,675",Georgia
+34,North Carolina
+3.6%,Michigan
+ENC,New Jersey
+3,Virginia
+"47,368,533",Washington
+3,Arizona
+"46,421,564",Tennessee
+2,Massachusetts
+"45,155,037",Indiana
+9,Missouri
+2.0%,Maryland
+MWest,Wisconsin
+19,Colorado
+"6,154,913",Minnesota
+18,South Carolina
+"5,988,927",Alabama
+17,Louisiana
+"5,595,211",Kentucky
+39,Oregon
+2.8%,Oklahoma
+WNC,Connecticut
+22,Utah
+"5,706,494",Puerto Rico
+21,Iowa
+"5,303,925",Nevada
+21,Arkansas
+"4,919,479",Mississippi
+19,Kansas
+7.6%,New Mexico
+WNC,Nebraska
+31,Idaho
+"3,190,369",West Virginia
+30,Hawaii
+"3,046,355",New Hampshire
+30,Maine
+"2,926,324",Montana
+28,Rhode Island
+4.7%,Delaware
+WNC,South Dakota
+35,North Dakota
+"2,937,880",Alaska
+33,Vermont
+"2,853,118",Wyoming
+32,Guam
+"2,688,418",U.S. Virgin Islands
+37,American Samoa
+3.0%,California
+WNC,Texas
+37,Florida
+"1,961,504",New York
+38,Pennsylvania
+"1,826,341",Illinois
+38,Ohio
+"1,711,263",Georgia
+20,North Carolina
+7.4%,Michigan
+WNC,New Jersey
+46,Virginia
+"886,667",Washington
+46,Arizona
+"814,180",Tennessee
+46,Massachusetts
+"754,844",Indiana
+16,Missouri
+8.9%,Maryland
+WNC,Wisconsin
+47,Colorado
+"779,094",Minnesota
+48,South Carolina
+"672,591",Alabama
+47,Louisiana
+"642,200",Kentucky
+4,Oregon
+15.8%,Oklahoma
+WNC,Connecticut
+7,Utah
+"21,616,921",Puerto Rico
+7,Iowa
+"20,505,437",Nevada
+6,Arkansas
+"19,237,739",Mississippi
+5,Kansas
+5.4%,New Mexico
+MWest,Nebraska
+3,Idaho
+"68,985,454",West Virginia
+3,Hawaii
+"66,927,001",New Hampshire
+2,Maine
+"64,392,776",Montana
+4,Rhode Island
+3.1%,Delaware
+USA,South Dakota
+14,North Dakota
+"7,151,502",Alaska
+16,Vermont
+"6,392,017",Wyoming
+20,Guam
+"5,130,632",U.S. Virgin Islands
+9,American Samoa
+11.9%,California
+Mtn,Texas
+21,Florida
+"5,773,714",New York
+22,Pennsylvania
+"5,029,196",Illinois
+24,Ohio
+"4,301,261",Georgia
+6,North Carolina
+14.8%,Michigan
+Mtn,New Jersey
+30,Virginia
+"3,271,616",Washington
+34,Arizona
+"2,763,885",Tennessee
+34,Massachusetts
+"2,233,169",Indiana
+1,Missouri
+18.4%,Maryland
+Mtn,Wisconsin
+32,Colorado
+"3,104,614",Minnesota
+35,South Carolina
+"2,700,551",Alabama
+35,Louisiana
+"1,998,257",Kentucky
+5,Oregon
+15.0%,Oklahoma
+Mtn,Connecticut
+36,Utah
+"2,117,522",Puerto Rico
+36,Iowa
+"2,059,179",Nevada
+36,Arkansas
+"1,819,046",Mississippi
+38,Kansas
+2.8%,New Mexico
+Mtn,Nebraska
+38,Idaho
+"1,839,106",West Virginia
+39,Hawaii
+"1,567,582",New Hampshire
+39,Maine
+"1,293,953",Montana
+2,Rhode Island
+17.3%,Delaware
+Mtn,South Dakota
+44,North Dakota
+"1,084,225",Alaska
+44,Vermont
+"989,415",Wyoming
+44,Guam
+"902,195",U.S. Virgin Islands
+14,American Samoa
+9.6%,California
+Mtn,Texas
+50,Florida
+"576,851",New York
+50,Pennsylvania
+"563,626",Illinois
+50,Ohio
+"493,782",Georgia
+44,North Carolina
+2.3%,Michigan
+Mtn,New Jersey
+6,Virginia
+"24,919,150",Washington
+6,Arizona
+"22,065,451",Tennessee
+7,Massachusetts
+"18,172,295",Indiana
+1,Missouri
+12.9%,Maryland
+West,Wisconsin
+1,Colorado
+"39,538,223",Minnesota
+1,South Carolina
+"37,253,956",Alabama
+1,Louisiana
+"33,871,648",Kentucky
+24,Oregon
+6.1%,Oklahoma
+Pac,Connecticut
+13,Utah
+"7,705,281",Puerto Rico
+13,Iowa
+"6,724,540",Nevada
+15,Arkansas
+"5,894,121",Mississippi
+7,Kansas
+14.6%,New Mexico
+Pac,Nebraska
+27,Idaho
+"4,237,256",West Virginia
+27,Hawaii
+"3,831,074",New Hampshire
+28,Maine
+"3,421,399",Montana
+11,Rhode Island
+10.6%,Delaware
+Pac,South Dakota
+40,North Dakota
+"1,455,271",Alaska
+40,Vermont
+"1,360,301",Wyoming
+42,Guam
+"1,211,537",U.S. Virgin Islands
+23,American Samoa
+7.0%,California
+Pac,Texas
+48,Florida
+"733,391",New York
+47,Pennsylvania
+"710,231",Illinois
+48,Ohio
+"626,932",Georgia
+36,North Carolina
+3.3%,Michigan
+Pac,New Jersey
+2,Virginia
+"53,669,422",Washington
+2,Arizona
+"49,880,102",Tennessee
+3,Massachusetts
+"45,025,637",Indiana
+4,Missouri
+7.6%,Maryland
+West,Wisconsin
+2,Colorado
+"78,588,572",Minnesota
+2,South Carolina
+"71,945,553",Alabama
+3,Louisiana
+"63,197,932",Kentucky
+2,Oregon
+9.2%,Oklahoma
+USA,Connecticut
+–,Utah
+"331,449,281",Puerto Rico
+–,Iowa
+"308,745,538",Nevada
+–,Arkansas
+"281,421,906",Mississippi
+–,Kansas
+7.4%,New Mexico
+NAmer,Nebraska
+1,Idaho
+"3,285,874",West Virginia
+1,Hawaii
+"3,725,789",New Hampshire
+1,Maine
+"3,808,610",Montana
+3,Rhode Island
+−11.8%,Delaware
+I.A.,South Dakota
+2,North Dakota
+"153,836",Alaska
+2,Vermont
+"159,358",Wyoming
+2,Guam
+"154,805",U.S. Virgin Islands
+1,American Samoa
+−3.5%,California
+I.A.,Texas
+3,Florida
+"87,146",New York
+3,Pennsylvania
+"106,405",Illinois
+3,Ohio
+"108,612",Georgia
+2,North Carolina
+−18.1%,Michigan
+I.A.,New Jersey
+4,Virginia
+"49,710",Washington
+4,Arizona
+"55,519",Tennessee
+5,Massachusetts
+"57,291",Indiana
+4,Missouri
+−7.7%,Maryland
+I.A.,Wisconsin
+5,Colorado
+"47,329",Minnesota
+5,South Carolina
+"53,883",Alabama
+4,Louisiana
+"69,221",Kentucky
+5,Oregon
+−14.8%,Oklahoma
+I.A.,Connecticut
+ ,Utah
+6,Puerto Rico
+6,Iowa
+6,Nevada
+316,Arkansas
+6,Mississippi
+—,Kansas
+I.A.,New Mexico
+–,Nebraska
+"3,623,895",Idaho
+–,West Virginia
+"4,100,954",Hawaii
+–,New Hampshire
+"4,198,855",Maine
+–,Montana
+−11.6%,Rhode Island
+USA,Delaware
+1,South Dakota
+1,North Dakota
+52,Alaska
+2,Vermont
+2,Wyoming
+38,Guam
+3,U.S. Virgin Islands
+3,American Samoa
+28,California
+4,Texas
+4,Florida
+26,New York
+5,Pennsylvania
+5,Illinois
+17,Ohio
+6,Georgia
+6,North Carolina
+17,Michigan
+7,New Jersey
+7,Virginia
+15,Washington
+8,Arizona
+8,Tennessee
+14,Massachusetts
+9,Indiana
+9,Missouri
+14,Maryland
+10,Wisconsin
+10,Colorado
+13,Minnesota
+11,South Carolina
+11,Alabama
+12,Louisiana
+12,Kentucky
+12,Oregon
+11,Oklahoma
+13,Connecticut
+13,Utah
+10,Puerto Rico
+14,Iowa
+14,Nevada
+9,Arkansas
+15,Mississippi
+16,Kansas
+9,New Mexico
+16,Nebraska
+15,Idaho
+9,West Virginia
+17,Hawaii
+17,New Hampshire
+9,Maine
+18,Montana
+19,Rhode Island
+8,Delaware
+19,South Dakota
+18,North Dakota
+8,Alaska
+20,Vermont
+20,Wyoming
+8,Guam
+21,U.S. Virgin Islands
+21,American Samoa
+8,California
+22,Texas
+22,Florida
+8,New York
+23,Pennsylvania
+23,Illinois
+7,Ohio
+24,Georgia
+24,North Carolina
+7,Michigan
+25,New Jersey
+25,Virginia
+6,Washington
+26,Arizona
+26,Tennessee
+6,Massachusetts
+27,Indiana
+27,Missouri
+6,Maryland
+28,Wisconsin
+28,Colorado
+5,Minnesota
+29,South Carolina
+29,Alabama
+5,Louisiana
+30,Kentucky
+31,Oregon
+4,Oklahoma
+31,Connecticut
+30,Utah
+32,Puerto Rico
+32,Iowa
+4,Nevada
+33,Arkansas
+33,Mississippi
+4,Kansas
+34,New Mexico
+34,Nebraska
+4,Idaho
+35,West Virginia
+35,Hawaii
+4,New Hampshire
+36,Maine
+36,Montana
+4,Rhode Island
+37,Delaware
+37,South Dakota
+3,North Dakota
+38,Alaska
+38,Vermont
+3,Wyoming
+39,Guam
+39,U.S. Virgin Islands
+2,American Samoa
+40,California
+40,Texas
+2,Florida
+41,New York
+41,Pennsylvania
+2,Illinois
+42,Ohio
+42,Georgia
+2,North Carolina
+43,Michigan
+43,New Jersey
+2,Virginia
+44,Washington
+45,Arizona
+2,Tennessee
+45,Massachusetts
+44,Indiana
+2,Missouri
+46,Maryland
+46,Wisconsin
+1,Colorado
+47,Minnesota
+47,South Carolina
+1,Alabama
+48,Louisiana
+48,Kentucky
+1,Oregon
+49,Oklahoma
+49,Connecticut
+1,Utah
+50,Puerto Rico
+50,Iowa
+51,Nevada
+51,Arkansas
+1,Mississippi
+52,Kansas
+52,New Mexico
+1,Nebraska
+53,Idaho
+53,West Virginia
+54,Hawaii
+54,New Hampshire
+55,Maine
+55,Montana
+56,Rhode Island
+56,Delaware
+15,South Dakota
+"7,029,917",North Dakota
+14,Alaska
+"6,547,629",Vermont
+13,Wyoming
+"6,349,097",Guam
+21,U.S. Virgin Islands
+7.4%,American Samoa
+NEng,California
+29,Texas
+"3,605,944",Florida
+29,New York
+"3,574,097",Pennsylvania
+29,Illinois
+"3,405,565",Ohio
+47,Georgia
+0.9%,North Carolina
+NEng,Michigan
+41,New Jersey
+"1,377,529",Virginia
+42,Washington
+"1,316,470",Arizona
+41,Tennessee
+"1,235,786",Massachusetts
+30,Indiana
+4.6%,Missouri
+NEng,Maryland
+42,Wisconsin
+"1,362,359",Colorado
+41,Minnesota
+"1,328,361",South Carolina
+40,Alabama
+"1,274,923",Louisiana
+42,Kentucky
+2.6%,Oregon
+NEng,Oklahoma
+"1,097,379",Connecticut
+43,Utah
+"1,052,567",Puerto Rico
+43,Iowa
+"1,048,319",Nevada
+31,Arkansas
+4.3%,Mississippi
+NEng,Kansas
+49,New Mexico
+"643,077",Nebraska
+49,Idaho
+"625,741",West Virginia
+49,Hawaii
+"608,827",New Hampshire
+40,Maine
+2.8%,Montana
+NEng,Rhode Island
+9,Delaware
+"15,116,205",South Dakota
+9,North Dakota
+"14,444,865",Alaska
+9,Vermont
+"13,922,517",Wyoming
+7,Guam
+4.6%,U.S. Virgin Islands
+NEast,American Samoa
+4,California
+"20,201,249",Texas
+3,Florida
+"19,378,102",New York
+3,Pennsylvania
+"18,976,457",Illinois
+32,Ohio
+4.2%,Georgia
+MAtl,North Carolina
+5,Michigan
+"13,002,700",New Jersey
+6,Virginia
+"12,702,379",Washington
+6,Arizona
+"12,281,054",Tennessee
+43,Massachusetts
+2.4%,Indiana
+MAtl,Missouri
+11,Maryland
+"9,288,994",Wisconsin
+11,Colorado
+"8,791,894",Minnesota
+9,South Carolina
+"8,414,350",Alabama
+25,Louisiana
+5.7%,Kentucky
+MAtl,Oregon
+4,Oklahoma
+"42,492,943",Connecticut
+4,Utah
+"40,872,375",Puerto Rico
+4,Iowa
+"39,671,861",Nevada
+8,Arkansas
+4.0%,Mississippi
+NEast,Kansas
+4,New Mexico
+"57,609,148",Nebraska
+4,Idaho
+"55,317,240",West Virginia
+4,Hawaii
+"53,594,378",New Hampshire
+3,Maine
+4.1%,Montana
+USA,Rhode Island
+3,Delaware
+"21,538,187",South Dakota
+4,North Dakota
+"18,801,310",Alaska
+4,Vermont
+"15,982,378",Wyoming
+8,Guam
+14.6%,U.S. Virgin Islands
+SAtl,American Samoa
+8,California
+"10,711,908",Texas
+9,Florida
+"9,687,653",New York
+10,Pennsylvania
+"8,186,453",Illinois
+12,Ohio
+10.6%,Georgia
+SAtl,North Carolina
+9,Michigan
+"10,439,388",New Jersey
+10,Virginia
+"9,535,483",Washington
+11,Arizona
+"8,049,313",Tennessee
+15,Massachusetts
+9.5%,Indiana
+SAtl,Missouri
+12,Maryland
+"8,631,393",Wisconsin
+12,Colorado
+"8,001,024",Minnesota
+12,South Carolina
+"7,078,515",Alabama
+18,Louisiana
+7.9%,Kentucky
+SAtl,Oregon
+18,Oklahoma
+"6,177,224",Connecticut
+19,Utah
+"5,773,552",Puerto Rico
+19,Iowa
+"5,296,486",Nevada
+22,Arkansas
+7.0%,Mississippi
+SAtl,Kansas
+23,New Mexico
+"5,118,425",Nebraska
+24,Idaho
+"4,625,364",West Virginia
+26,Hawaii
+"4,012,012",New Hampshire
+10,Maine
+10.7%,Montana
+SAtl,Rhode Island
+39,Delaware
+"1,793,716",South Dakota
+37,North Dakota
+"1,852,994",Alaska
+37,Vermont
+"1,808,344",Wyoming
+50,Guam
+−3.2%,U.S. Virgin Islands
+SAtl,American Samoa
+45,California
+"989,948",Texas
+45,Florida
+"897,934",New York
+45,Pennsylvania
+"783,600",Illinois
+13,Ohio
+10.2%,Georgia
+SAtl,North Carolina
+–,Michigan
+"689,545",New Jersey
+–,Virginia
+"601,723",Washington
+–,Arizona
+"572,059",Tennessee
+–,Massachusetts
+14.6%,Indiana
+SAtl,Missouri
+1,Maryland
+"66,089,734",Wisconsin
+1,Colorado
+"59,777,037",Minnesota
+1,South Carolina
+"51,769,160",Alabama
+3,Louisiana
+10.6%,Kentucky
+South,Oregon
+16,Oklahoma
+"6,910,840",Connecticut
+17,Utah
+"6,346,105",Puerto Rico
+16,Iowa
+"5,689,283",Nevada
+17,Arkansas
+8.9%,Mississippi
+ESC,Kansas
+24,New Mexico
+"5,024,279",Nebraska
+23,Idaho
+"4,779,736",West Virginia
+23,Hawaii
+"4,447,100",New Hampshire
+27,Maine
+5.1%,Montana
+ESC,Rhode Island
+26,Delaware
+"4,505,836",South Dakota
+26,North Dakota
+"4,339,367",Alaska
+25,Vermont
+"4,041,769",Wyoming
+33,Guam
+3.8%,U.S. Virgin Islands
+ESC,American Samoa
+34,California
+"2,961,279",Texas
+31,Florida
+"2,967,297",New York
+31,Pennsylvania
+"2,844,658",Illinois
+49,Ohio
+−0.2%,Georgia
+ESC,North Carolina
+8,Michigan
+"19,402,234",New Jersey
+8,Virginia
+"18,432,505",Washington
+8,Arizona
+"17,022,810",Tennessee
+6,Massachusetts
+5.3%,Indiana
+South,Missouri
+2,Maryland
+"29,145,505",Wisconsin
+2,Colorado
+"25,145,561",Minnesota
+2,South Carolina
+"20,851,820",Alabama
+3,Louisiana
+15.9%,Kentucky
+WSC,Oregon
+25,Oklahoma
+"4,657,757",Connecticut
+25,Utah
+"4,533,372",Puerto Rico
+22,Iowa
+"4,468,976",Nevada
+41,Arkansas
+2.7%,Mississippi
+WSC,Kansas
+28,New Mexico
+"3,959,353",Nebraska
+28,Idaho
+"3,751,351",West Virginia
+27,Hawaii
+"3,450,654",New Hampshire
+26,Maine
+5.5%,Montana
+WSC,Rhode Island
+33,Delaware
+"3,011,524",South Dakota
+32,North Dakota
+"2,915,918",Alaska
+33,Vermont
+"2,673,400",Wyoming
+35,Guam
+3.3%,U.S. Virgin Islands
+WSC,American Samoa
+5,California
+"40,774,139",Texas
+5,Florida
+"36,346,202",New York
+5,Pennsylvania
+"31,444,850",Illinois
+2,Ohio
+12.2%,Georgia
+South,North Carolina
+1,Michigan
+"126,266,107",New Jersey
+1,Virginia
+"114,555,744",Washington
+1,Arizona
+"100,236,820",Tennessee
+1,Massachusetts
+10.2%,Indiana
+USA,Missouri
+6,Maryland
+"12,812,508",Wisconsin
+5,Colorado
+"12,830,632",Minnesota
+5,South Carolina
+"12,419,293",Alabama
+48,Louisiana
+−0.1%,Kentucky
+ENC,Oregon
+7,Oklahoma
+"11,799,448",Connecticut
+7,Utah
+"11,536,504",Puerto Rico
+7,Iowa
+"11,353,140",Nevada
+45,Arkansas
+2.3%,Mississippi
+ENC,Kansas
+10,New Mexico
+"10,077,331",Nebraska
+8,Idaho
+"9,883,640",West Virginia
+8,Hawaii
+"9,938,444",New Hampshire
+46,Maine
+2.0%,Montana
+ENC,Rhode Island
+17,Delaware
+"6,785,528",South Dakota
+15,North Dakota
+"6,483,802",Alaska
+14,Vermont
+"6,080,485",Wyoming
+29,Guam
+4.7%,U.S. Virgin Islands
+ENC,American Samoa
+20,California
+"5,893,718",Texas
+20,Florida
+"5,686,986",New York
+18,Pennsylvania
+"5,363,675",Illinois
+34,Ohio
+3.6%,Georgia
+ENC,North Carolina
+3,Michigan
+"47,368,533",New Jersey
+3,Virginia
+"46,421,564",Washington
+2,Arizona
+"45,155,037",Tennessee
+9,Massachusetts
+2.0%,Indiana
+MWest,Missouri
+19,Maryland
+"6,154,913",Wisconsin
+18,Colorado
+"5,988,927",Minnesota
+17,South Carolina
+"5,595,211",Alabama
+39,Louisiana
+2.8%,Kentucky
+WNC,Oregon
+22,Oklahoma
+"5,706,494",Connecticut
+21,Utah
+"5,303,925",Puerto Rico
+21,Iowa
+"4,919,479",Nevada
+19,Arkansas
+7.6%,Mississippi
+WNC,Kansas
+31,New Mexico
+"3,190,369",Nebraska
+30,Idaho
+"3,046,355",West Virginia
+30,Hawaii
+"2,926,324",New Hampshire
+28,Maine
+4.7%,Montana
+WNC,Rhode Island
+35,Delaware
+"2,937,880",South Dakota
+33,North Dakota
+"2,853,118",Alaska
+32,Vermont
+"2,688,418",Wyoming
+37,Guam
+3.0%,U.S. Virgin Islands
+WNC,American Samoa
+37,California
+"1,961,504",Texas
+38,Florida
+"1,826,341",New York
+38,Pennsylvania
+"1,711,263",Illinois
+20,Ohio
+7.4%,Georgia
+WNC,North Carolina
+46,Michigan
+"886,667",New Jersey
+46,Virginia
+"814,180",Washington
+46,Arizona
+"754,844",Tennessee
+16,Massachusetts
+8.9%,Indiana
+WNC,Missouri
+47,Maryland
+"779,094",Wisconsin
+48,Colorado
+"672,591",Minnesota
+47,South Carolina
+"642,200",Alabama
+4,Louisiana
+15.8%,Kentucky
+WNC,Oregon
+7,Oklahoma
+"21,616,921",Connecticut
+7,Utah
+"20,505,437",Puerto Rico
+6,Iowa
+"19,237,739",Nevada
+5,Arkansas
+5.4%,Mississippi
+MWest,Kansas
+3,New Mexico
+"68,985,454",Nebraska
+3,Idaho
+"66,927,001",West Virginia
+2,Hawaii
+"64,392,776",New Hampshire
+4,Maine
+3.1%,Montana
+USA,Rhode Island
+14,Delaware
+"7,151,502",South Dakota
+16,North Dakota
+"6,392,017",Alaska
+20,Vermont
+"5,130,632",Wyoming
+9,Guam
+11.9%,U.S. Virgin Islands
+Mtn,American Samoa
+21,California
+"5,773,714",Texas
+22,Florida
+"5,029,196",New York
+24,Pennsylvania
+"4,301,261",Illinois
+6,Ohio
+14.8%,Georgia
+Mtn,North Carolina
+30,Michigan
+"3,271,616",New Jersey
+34,Virginia
+"2,763,885",Washington
+34,Arizona
+"2,233,169",Tennessee
+1,Massachusetts
+18.4%,Indiana
+Mtn,Missouri
+32,Maryland
+"3,104,614",Wisconsin
+35,Colorado
+"2,700,551",Minnesota
+35,South Carolina
+"1,998,257",Alabama
+5,Louisiana
+15.0%,Kentucky
+Mtn,Oregon
+36,Oklahoma
+"2,117,522",Connecticut
+36,Utah
+"2,059,179",Puerto Rico
+36,Iowa
+"1,819,046",Nevada
+38,Arkansas
+2.8%,Mississippi
+Mtn,Kansas
+38,New Mexico
+"1,839,106",Nebraska
+39,Idaho
+"1,567,582",West Virginia
+39,Hawaii
+"1,293,953",New Hampshire
+2,Maine
+17.3%,Montana
+Mtn,Rhode Island
+44,Delaware
+"1,084,225",South Dakota
+44,North Dakota
+"989,415",Alaska
+44,Vermont
+"902,195",Wyoming
+14,Guam
+9.6%,U.S. Virgin Islands
+Mtn,American Samoa
+50,California
+"576,851",Texas
+50,Florida
+"563,626",New York
+50,Pennsylvania
+"493,782",Illinois
+44,Ohio
+2.3%,Georgia
+Mtn,North Carolina
+6,Michigan
+"24,919,150",New Jersey
+6,Virginia
+"22,065,451",Washington
+7,Arizona
+"18,172,295",Tennessee
+1,Massachusetts
+12.9%,Indiana
+West,Missouri
+1,Maryland
+"39,538,223",Wisconsin
+1,Colorado
+"37,253,956",Minnesota
+1,South Carolina
+"33,871,648",Alabama
+24,Louisiana
+6.1%,Kentucky
+Pac,Oregon
+13,Oklahoma
+"7,705,281",Connecticut
+13,Utah
+"6,724,540",Puerto Rico
+15,Iowa
+"5,894,121",Nevada
+7,Arkansas
+14.6%,Mississippi
+Pac,Kansas
+27,New Mexico
+"4,237,256",Nebraska
+27,Idaho
+"3,831,074",West Virginia
+28,Hawaii
+"3,421,399",New Hampshire
+11,Maine
+10.6%,Montana
+Pac,Rhode Island
+40,Delaware
+"1,455,271",South Dakota
+40,North Dakota
+"1,360,301",Alaska
+42,Vermont
+"1,211,537",Wyoming
+23,Guam
+7.0%,U.S. Virgin Islands
+Pac,American Samoa
+48,California
+"733,391",Texas
+47,Florida
+"710,231",New York
+48,Pennsylvania
+"626,932",Illinois
+36,Ohio
+3.3%,Georgia
+Pac,North Carolina
+2,Michigan
+"53,669,422",New Jersey
+2,Virginia
+"49,880,102",Washington
+3,Arizona
+"45,025,637",Tennessee
+4,Massachusetts
+7.6%,Indiana
+West,Missouri
+2,Maryland
+"78,588,572",Wisconsin
+2,Colorado
+"71,945,553",Minnesota
+3,South Carolina
+"63,197,932",Alabama
+2,Louisiana
+9.2%,Kentucky
+USA,Oregon
+–,Oklahoma
+"331,449,281",Connecticut
+–,Utah
+"308,745,538",Puerto Rico
+–,Iowa
+"281,421,906",Nevada
+–,Arkansas
+7.4%,Mississippi
+NAmer,Kansas
+1,New Mexico
+"3,285,874",Nebraska
+1,Idaho
+"3,725,789",West Virginia
+1,Hawaii
+"3,808,610",New Hampshire
+3,Maine
+−11.8%,Montana
+I.A.,Rhode Island
+2,Delaware
+"153,836",South Dakota
+2,North Dakota
+"159,358",Alaska
+2,Vermont
+"154,805",Wyoming
+1,Guam
+−3.5%,U.S. Virgin Islands
+I.A.,American Samoa
+3,California
+"87,146",Texas
+3,Florida
+"106,405",New York
+3,Pennsylvania
+"108,612",Illinois
+2,Ohio
+−18.1%,Georgia
+I.A.,North Carolina
+4,Michigan
+"49,710",New Jersey
+4,Virginia
+"55,519",Washington
+5,Arizona
+"57,291",Tennessee
+4,Massachusetts
+−7.7%,Indiana
+I.A.,Missouri
+5,Maryland
+"47,329",Wisconsin
+5,Colorado
+"53,883",Minnesota
+4,South Carolina
+"69,221",Alabama
+5,Louisiana
+−14.8%,Kentucky
+I.A.,Oregon
+ ,Oklahoma
+6,Connecticut
+6,Utah
+6,Puerto Rico
+316,Iowa
+6,Nevada
+—,Arkansas
+I.A.,Mississippi
+–,Kansas
+"3,623,895",New Mexico
+–,Nebraska
+"4,100,954",Idaho
+–,West Virginia
+"4,198,855",Hawaii
+–,New Hampshire
+−11.6%,Maine
+USA,Montana
+1,Rhode Island
+1,Delaware
+52,South Dakota
+2,North Dakota
+2,Alaska
+38,Vermont
+3,Wyoming
+3,Guam
+28,U.S. Virgin Islands
+4,American Samoa
+4,California
+26,Texas
+5,Florida
+5,New York
+17,Pennsylvania
+6,Illinois
+6,Ohio
+17,Georgia
+7,North Carolina
+7,Michigan
+15,New Jersey
+8,Virginia
+8,Washington
+14,Arizona
+9,Tennessee
+9,Massachusetts
+14,Indiana
+10,Missouri
+10,Maryland
+13,Wisconsin
+11,Colorado
+11,Minnesota
+12,South Carolina
+12,Alabama
+12,Louisiana
+11,Kentucky
+13,Oregon
+13,Oklahoma
+10,Connecticut
+14,Utah
+14,Puerto Rico
+9,Iowa
+15,Nevada
+16,Arkansas
+9,Mississippi
+16,Kansas
+15,New Mexico
+9,Nebraska
+17,Idaho
+17,West Virginia
+9,Hawaii
+18,New Hampshire
+19,Maine
+8,Montana
+19,Rhode Island
+18,Delaware
+8,South Dakota
+20,North Dakota
+20,Alaska
+8,Vermont
+21,Wyoming
+21,Guam
+8,U.S. Virgin Islands
+22,American Samoa
+22,California
+8,Texas
+23,Florida
+23,New York
+7,Pennsylvania
+24,Illinois
+24,Ohio
+7,Georgia
+25,North Carolina
+25,Michigan
+6,New Jersey
+26,Virginia
+26,Washington
+6,Arizona
+27,Tennessee
+27,Massachusetts
+6,Indiana
+28,Missouri
+28,Maryland
+5,Wisconsin
+29,Colorado
+29,Minnesota
+5,South Carolina
+30,Alabama
+31,Louisiana
+4,Kentucky
+31,Oregon
+30,Oklahoma
+32,Connecticut
+32,Utah
+4,Puerto Rico
+33,Iowa
+33,Nevada
+4,Arkansas
+34,Mississippi
+34,Kansas
+4,New Mexico
+35,Nebraska
+35,Idaho
+4,West Virginia
+36,Hawaii
+36,New Hampshire
+4,Maine
+37,Montana
+37,Rhode Island
+3,Delaware
+38,South Dakota
+38,North Dakota
+3,Alaska
+39,Vermont
+39,Wyoming
+2,Guam
+40,U.S. Virgin Islands
+40,American Samoa
+2,California
+41,Texas
+41,Florida
+2,New York
+42,Pennsylvania
+42,Illinois
+2,Ohio
+43,Georgia
+43,North Carolina
+2,Michigan
+44,New Jersey
+45,Virginia
+2,Washington
+45,Arizona
+44,Tennessee
+2,Massachusetts
+46,Indiana
+46,Missouri
+1,Maryland
+47,Wisconsin
+47,Colorado
+1,Minnesota
+48,South Carolina
+48,Alabama
+1,Louisiana
+49,Kentucky
+49,Oregon
+1,Oklahoma
+50,Connecticut
+50,Utah
+51,Puerto Rico
+51,Iowa
+1,Nevada
+52,Arkansas
+52,Mississippi
+1,Kansas
+53,New Mexico
+53,Nebraska
+54,Idaho
+54,West Virginia
+55,Hawaii
+55,New Hampshire
+56,Maine
+56,Montana
+15,Rhode Island
+"7,029,917",Delaware
+14,South Dakota
+"6,547,629",North Dakota
+13,Alaska
+"6,349,097",Vermont
+21,Wyoming
+7.4%,Guam
+NEng,U.S. Virgin Islands
+29,American Samoa
+"3,605,944",California
+29,Texas
+"3,574,097",Florida
+29,New York
+"3,405,565",Pennsylvania
+47,Illinois
+0.9%,Ohio
+NEng,Georgia
+41,North Carolina
+"1,377,529",Michigan
+42,New Jersey
+"1,316,470",Virginia
+41,Washington
+"1,235,786",Arizona
+30,Tennessee
+4.6%,Massachusetts
+NEng,Indiana
+42,Missouri
+"1,362,359",Maryland
+41,Wisconsin
+"1,328,361",Colorado
+40,Minnesota
+"1,274,923",South Carolina
+42,Alabama
+2.6%,Louisiana
+NEng,Kentucky
+"1,097,379",Oregon
+43,Oklahoma
+"1,052,567",Connecticut
+43,Utah
+"1,048,319",Puerto Rico
+31,Iowa
+4.3%,Nevada
+NEng,Arkansas
+49,Mississippi
+"643,077",Kansas
+49,New Mexico
+"625,741",Nebraska
+49,Idaho
+"608,827",West Virginia
+40,Hawaii
+2.8%,New Hampshire
+NEng,Maine
+9,Montana
+"15,116,205",Rhode Island
+9,Delaware
+"14,444,865",South Dakota
+9,North Dakota
+"13,922,517",Alaska
+7,Vermont
+4.6%,Wyoming
+NEast,Guam
+4,U.S. Virgin Islands
+"20,201,249",American Samoa
+3,California
+"19,378,102",Texas
+3,Florida
+"18,976,457",New York
+32,Pennsylvania
+4.2%,Illinois
+MAtl,Ohio
+5,Georgia
+"13,002,700",North Carolina
+6,Michigan
+"12,702,379",New Jersey
+6,Virginia
+"12,281,054",Washington
+43,Arizona
+2.4%,Tennessee
+MAtl,Massachusetts
+11,Indiana
+"9,288,994",Missouri
+11,Maryland
+"8,791,894",Wisconsin
+9,Colorado
+"8,414,350",Minnesota
+25,South Carolina
+5.7%,Alabama
+MAtl,Louisiana
+4,Kentucky
+"42,492,943",Oregon
+4,Oklahoma
+"40,872,375",Connecticut
+4,Utah
+"39,671,861",Puerto Rico
+8,Iowa
+4.0%,Nevada
+NEast,Arkansas
+4,Mississippi
+"57,609,148",Kansas
+4,New Mexico
+"55,317,240",Nebraska
+4,Idaho
+"53,594,378",West Virginia
+3,Hawaii
+4.1%,New Hampshire
+USA,Maine
+3,Montana
+"21,538,187",Rhode Island
+4,Delaware
+"18,801,310",South Dakota
+4,North Dakota
+"15,982,378",Alaska
+8,Vermont
+14.6%,Wyoming
+SAtl,Guam
+8,U.S. Virgin Islands
+"10,711,908",American Samoa
+9,California
+"9,687,653",Texas
+10,Florida
+"8,186,453",New York
+12,Pennsylvania
+10.6%,Illinois
+SAtl,Ohio
+9,Georgia
+"10,439,388",North Carolina
+10,Michigan
+"9,535,483",New Jersey
+11,Virginia
+"8,049,313",Washington
+15,Arizona
+9.5%,Tennessee
+SAtl,Massachusetts
+12,Indiana
+"8,631,393",Missouri
+12,Maryland
+"8,001,024",Wisconsin
+12,Colorado
+"7,078,515",Minnesota
+18,South Carolina
+7.9%,Alabama
+SAtl,Louisiana
+18,Kentucky
+"6,177,224",Oregon
+19,Oklahoma
+"5,773,552",Connecticut
+19,Utah
+"5,296,486",Puerto Rico
+22,Iowa
+7.0%,Nevada
+SAtl,Arkansas
+23,Mississippi
+"5,118,425",Kansas
+24,New Mexico
+"4,625,364",Nebraska
+26,Idaho
+"4,012,012",West Virginia
+10,Hawaii
+10.7%,New Hampshire
+SAtl,Maine
+39,Montana
+"1,793,716",Rhode Island
+37,Delaware
+"1,852,994",South Dakota
+37,North Dakota
+"1,808,344",Alaska
+50,Vermont
+−3.2%,Wyoming
+SAtl,Guam
+45,U.S. Virgin Islands
+"989,948",American Samoa
+45,California
+"897,934",Texas
+45,Florida
+"783,600",New York
+13,Pennsylvania
+10.2%,Illinois
+SAtl,Ohio
+–,Georgia
+"689,545",North Carolina
+–,Michigan
+"601,723",New Jersey
+–,Virginia
+"572,059",Washington
+–,Arizona
+14.6%,Tennessee
+SAtl,Massachusetts
+1,Indiana
+"66,089,734",Missouri
+1,Maryland
+"59,777,037",Wisconsin
+1,Colorado
+"51,769,160",Minnesota
+3,South Carolina
+10.6%,Alabama
+South,Louisiana
+16,Kentucky
+"6,910,840",Oregon
+17,Oklahoma
+"6,346,105",Connecticut
+16,Utah
+"5,689,283",Puerto Rico
+17,Iowa
+8.9%,Nevada
+ESC,Arkansas
+24,Mississippi
+"5,024,279",Kansas
+23,New Mexico
+"4,779,736",Nebraska
+23,Idaho
+"4,447,100",West Virginia
+27,Hawaii
+5.1%,New Hampshire
+ESC,Maine
+26,Montana
+"4,505,836",Rhode Island
+26,Delaware
+"4,339,367",South Dakota
+25,North Dakota
+"4,041,769",Alaska
+33,Vermont
+3.8%,Wyoming
+ESC,Guam
+34,U.S. Virgin Islands
+"2,961,279",American Samoa
+31,California
+"2,967,297",Texas
+31,Florida
+"2,844,658",New York
+49,Pennsylvania
+−0.2%,Illinois
+ESC,Ohio
+8,Georgia
+"19,402,234",North Carolina
+8,Michigan
+"18,432,505",New Jersey
+8,Virginia
+"17,022,810",Washington
+6,Arizona
+5.3%,Tennessee
+South,Massachusetts
+2,Indiana
+"29,145,505",Missouri
+2,Maryland
+"25,145,561",Wisconsin
+2,Colorado
+"20,851,820",Minnesota
+3,South Carolina
+15.9%,Alabama
+WSC,Louisiana
+25,Kentucky
+"4,657,757",Oregon
+25,Oklahoma
+"4,533,372",Connecticut
+22,Utah
+"4,468,976",Puerto Rico
+41,Iowa
+2.7%,Nevada
+WSC,Arkansas
+28,Mississippi
+"3,959,353",Kansas
+28,New Mexico
+"3,751,351",Nebraska
+27,Idaho
+"3,450,654",West Virginia
+26,Hawaii
+5.5%,New Hampshire
+WSC,Maine
+33,Montana
+"3,011,524",Rhode Island
+32,Delaware
+"2,915,918",South Dakota
+33,North Dakota
+"2,673,400",Alaska
+35,Vermont
+3.3%,Wyoming
+WSC,Guam
+5,U.S. Virgin Islands
+"40,774,139",American Samoa
+5,California
+"36,346,202",Texas
+5,Florida
+"31,444,850",New York
+2,Pennsylvania
+12.2%,Illinois
+South,Ohio
+1,Georgia
+"126,266,107",North Carolina
+1,Michigan
+"114,555,744",New Jersey
+1,Virginia
+"100,236,820",Washington
+1,Arizona
+10.2%,Tennessee
+USA,Massachusetts
+6,Indiana
+"12,812,508",Missouri
+5,Maryland
+"12,830,632",Wisconsin
+5,Colorado
+"12,419,293",Minnesota
+48,South Carolina
+−0.1%,Alabama
+ENC,Louisiana
+7,Kentucky
+"11,799,448",Oregon
+7,Oklahoma
+"11,536,504",Connecticut
+7,Utah
+"11,353,140",Puerto Rico
+45,Iowa
+2.3%,Nevada
+ENC,Arkansas
+10,Mississippi
+"10,077,331",Kansas
+8,New Mexico
+"9,883,640",Nebraska
+8,Idaho
+"9,938,444",West Virginia
+46,Hawaii
+2.0%,New Hampshire
+ENC,Maine
+17,Montana
+"6,785,528",Rhode Island
+15,Delaware
+"6,483,802",South Dakota
+14,North Dakota
+"6,080,485",Alaska
+29,Vermont
+4.7%,Wyoming
+ENC,Guam
+20,U.S. Virgin Islands
+"5,893,718",American Samoa
+20,California
+"5,686,986",Texas
+18,Florida
+"5,363,675",New York
+34,Pennsylvania
+3.6%,Illinois
+ENC,Ohio
+3,Georgia
+"47,368,533",North Carolina
+3,Michigan
+"46,421,564",New Jersey
+2,Virginia
+"45,155,037",Washington
+9,Arizona
+2.0%,Tennessee
+MWest,Massachusetts
+19,Indiana
+"6,154,913",Missouri
+18,Maryland
+"5,988,927",Wisconsin
+17,Colorado
+"5,595,211",Minnesota
+39,South Carolina
+2.8%,Alabama
+WNC,Louisiana
+22,Kentucky
+"5,706,494",Oregon
+21,Oklahoma
+"5,303,925",Connecticut
+21,Utah
+"4,919,479",Puerto Rico
+19,Iowa
+7.6%,Nevada
+WNC,Arkansas
+31,Mississippi
+"3,190,369",Kansas
+30,New Mexico
+"3,046,355",Nebraska
+30,Idaho
+"2,926,324",West Virginia
+28,Hawaii
+4.7%,New Hampshire
+WNC,Maine
+35,Montana
+"2,937,880",Rhode Island
+33,Delaware
+"2,853,118",South Dakota
+32,North Dakota
+"2,688,418",Alaska
+37,Vermont
+3.0%,Wyoming
+WNC,Guam
+37,U.S. Virgin Islands
+"1,961,504",American Samoa
+38,California
+"1,826,341",Texas
+38,Florida
+"1,711,263",New York
+20,Pennsylvania
+7.4%,Illinois
+WNC,Ohio
+46,Georgia
+"886,667",North Carolina
+46,Michigan
+"814,180",New Jersey
+46,Virginia
+"754,844",Washington
+16,Arizona
+8.9%,Tennessee
+WNC,Massachusetts
+47,Indiana
+"779,094",Missouri
+48,Maryland
+"672,591",Wisconsin
+47,Colorado
+"642,200",Minnesota
+4,South Carolina
+15.8%,Alabama
+WNC,Louisiana
+7,Kentucky
+"21,616,921",Oregon
+7,Oklahoma
+"20,505,437",Connecticut
+6,Utah
+"19,237,739",Puerto Rico
+5,Iowa
+5.4%,Nevada
+MWest,Arkansas
+3,Mississippi
+"68,985,454",Kansas
+3,New Mexico
+"66,927,001",Nebraska
+2,Idaho
+"64,392,776",West Virginia
+4,Hawaii
+3.1%,New Hampshire
+USA,Maine
+14,Montana
+"7,151,502",Rhode Island
+16,Delaware
+"6,392,017",South Dakota
+20,North Dakota
+"5,130,632",Alaska
+9,Vermont
+11.9%,Wyoming
+Mtn,Guam
+21,U.S. Virgin Islands
+"5,773,714",American Samoa
+22,California
+"5,029,196",Texas
+24,Florida
+"4,301,261",New York
+6,Pennsylvania
+14.8%,Illinois
+Mtn,Ohio
+30,Georgia
+"3,271,616",North Carolina
+34,Michigan
+"2,763,885",New Jersey
+34,Virginia
+"2,233,169",Washington
+1,Arizona
+18.4%,Tennessee
+Mtn,Massachusetts
+32,Indiana
+"3,104,614",Missouri
+35,Maryland
+"2,700,551",Wisconsin
+35,Colorado
+"1,998,257",Minnesota
+5,South Carolina
+15.0%,Alabama
+Mtn,Louisiana
+36,Kentucky
+"2,117,522",Oregon
+36,Oklahoma
+"2,059,179",Connecticut
+36,Utah
+"1,819,046",Puerto Rico
+38,Iowa
+2.8%,Nevada
+Mtn,Arkansas
+38,Mississippi
+"1,839,106",Kansas
+39,New Mexico
+"1,567,582",Nebraska
+39,Idaho
+"1,293,953",West Virginia
+2,Hawaii
+17.3%,New Hampshire
+Mtn,Maine
+44,Montana
+"1,084,225",Rhode Island
+44,Delaware
+"989,415",South Dakota
+44,North Dakota
+"902,195",Alaska
+14,Vermont
+9.6%,Wyoming
+Mtn,Guam
+50,U.S. Virgin Islands
+"576,851",American Samoa
+50,California
+"563,626",Texas
+50,Florida
+"493,782",New York
+44,Pennsylvania
+2.3%,Illinois
+Mtn,Ohio
+6,Georgia
+"24,919,150",North Carolina
+6,Michigan
+"22,065,451",New Jersey
+7,Virginia
+"18,172,295",Washington
+1,Arizona
+12.9%,Tennessee
+West,Massachusetts
+1,Indiana
+"39,538,223",Missouri
+1,Maryland
+"37,253,956",Wisconsin
+1,Colorado
+"33,871,648",Minnesota
+24,South Carolina
+6.1%,Alabama
+Pac,Louisiana
+13,Kentucky
+"7,705,281",Oregon
+13,Oklahoma
+"6,724,540",Connecticut
+15,Utah
+"5,894,121",Puerto Rico
+7,Iowa
+14.6%,Nevada
+Pac,Arkansas
+27,Mississippi
+"4,237,256",Kansas
+27,New Mexico
+"3,831,074",Nebraska
+28,Idaho
+"3,421,399",West Virginia
+11,Hawaii
+10.6%,New Hampshire
+Pac,Maine
+40,Montana
+"1,455,271",Rhode Island
+40,Delaware
+"1,360,301",South Dakota
+42,North Dakota
+"1,211,537",Alaska
+23,Vermont
+7.0%,Wyoming
+Pac,Guam
+48,U.S. Virgin Islands
+"733,391",American Samoa
+47,California
+"710,231",Texas
+48,Florida
+"626,932",New York
+36,Pennsylvania
+3.3%,Illinois
+Pac,Ohio
+2,Georgia
+"53,669,422",North Carolina
+2,Michigan
+"49,880,102",New Jersey
+3,Virginia
+"45,025,637",Washington
+4,Arizona
+7.6%,Tennessee
+West,Massachusetts
+2,Indiana
+"78,588,572",Missouri
+2,Maryland
+"71,945,553",Wisconsin
+3,Colorado
+"63,197,932",Minnesota
+2,South Carolina
+9.2%,Alabama
+USA,Louisiana
+–,Kentucky
+"331,449,281",Oregon
+–,Oklahoma
+"308,745,538",Connecticut
+–,Utah
+"281,421,906",Puerto Rico
+–,Iowa
+7.4%,Nevada
+NAmer,Arkansas
+1,Mississippi
+"3,285,874",Kansas
+1,New Mexico
+"3,725,789",Nebraska
+1,Idaho
+"3,808,610",West Virginia
+3,Hawaii
+−11.8%,New Hampshire
+I.A.,Maine
+2,Montana
+"153,836",Rhode Island
+2,Delaware
+"159,358",South Dakota
+2,North Dakota
+"154,805",Alaska
+1,Vermont
+−3.5%,Wyoming
+I.A.,Guam
+3,U.S. Virgin Islands
+"87,146",American Samoa
+3,California
+"106,405",Texas
+3,Florida
+"108,612",New York
+2,Pennsylvania
+−18.1%,Illinois
+I.A.,Ohio
+4,Georgia
+"49,710",North Carolina
+4,Michigan
+"55,519",New Jersey
+5,Virginia
+"57,291",Washington
+4,Arizona
+−7.7%,Tennessee
+I.A.,Massachusetts
+5,Indiana
+"47,329",Missouri
+5,Maryland
+"53,883",Wisconsin
+4,Colorado
+"69,221",Minnesota
+5,South Carolina
+−14.8%,Alabama
+I.A.,Louisiana
+ ,Kentucky
+6,Oregon
+6,Oklahoma
+6,Connecticut
+316,Utah
+6,Puerto Rico
+—,Iowa
+I.A.,Nevada
+–,Arkansas
+"3,623,895",Mississippi
+–,Kansas
+"4,100,954",New Mexico
+–,Nebraska
+"4,198,855",Idaho
+–,West Virginia
+−11.6%,Hawaii
+USA,New Hampshire
+1,Maine
+1,Montana
+52,Rhode Island
+2,Delaware
+2,South Dakota
+38,North Dakota
+3,Alaska
+3,Vermont
+28,Wyoming
+4,Guam
+4,U.S. Virgin Islands
+26,American Samoa
+5,California
+5,Texas
+17,Florida
+6,New York
+6,Pennsylvania
+17,Illinois
+7,Ohio
+7,Georgia
+15,North Carolina
+8,Michigan
+8,New Jersey
+14,Virginia
+9,Washington
+9,Arizona
+14,Tennessee
+10,Massachusetts
+10,Indiana
+13,Missouri
+11,Maryland
+11,Wisconsin
+12,Colorado
+12,Minnesota
+12,South Carolina
+11,Alabama
+13,Louisiana
+13,Kentucky
+10,Oregon
+14,Oklahoma
+14,Connecticut
+9,Utah
+15,Puerto Rico
+16,Iowa
+9,Nevada
+16,Arkansas
+15,Mississippi
+9,Kansas
+17,New Mexico
+17,Nebraska
+9,Idaho
+18,West Virginia
+19,Hawaii
+8,New Hampshire
+19,Maine
+18,Montana
+8,Rhode Island
+20,Delaware
+20,South Dakota
+8,North Dakota
+21,Alaska
+21,Vermont
+8,Wyoming
+22,Guam
+22,U.S. Virgin Islands
+8,American Samoa
+23,California
+23,Texas
+7,Florida
+24,New York
+24,Pennsylvania
+7,Illinois
+25,Ohio
+25,Georgia
+6,North Carolina
+26,Michigan
+26,New Jersey
+6,Virginia
+27,Washington
+27,Arizona
+6,Tennessee
+28,Massachusetts
+28,Indiana
+5,Missouri
+29,Maryland
+29,Wisconsin
+5,Colorado
+30,Minnesota
+31,South Carolina
+4,Alabama
+31,Louisiana
+30,Kentucky
+32,Oregon
+32,Oklahoma
+4,Connecticut
+33,Utah
+33,Puerto Rico
+4,Iowa
+34,Nevada
+34,Arkansas
+4,Mississippi
+35,Kansas
+35,New Mexico
+4,Nebraska
+36,Idaho
+36,West Virginia
+4,Hawaii
+37,New Hampshire
+37,Maine
+3,Montana
+38,Rhode Island
+38,Delaware
+3,South Dakota
+39,North Dakota
+39,Alaska
+2,Vermont
+40,Wyoming
+40,Guam
+2,U.S. Virgin Islands
+41,American Samoa
+41,California
+2,Texas
+42,Florida
+42,New York
+2,Pennsylvania
+43,Illinois
+43,Ohio
+2,Georgia
+44,North Carolina
+45,Michigan
+2,New Jersey
+45,Virginia
+44,Washington
+2,Arizona
+46,Tennessee
+46,Massachusetts
+1,Indiana
+47,Missouri
+47,Maryland
+1,Wisconsin
+48,Colorado
+48,Minnesota
+1,South Carolina
+49,Alabama
+49,Louisiana
+1,Kentucky
+50,Oregon
+50,Oklahoma
+51,Connecticut
+51,Utah
+1,Puerto Rico
+52,Iowa
+52,Nevada
+1,Arkansas
+53,Mississippi
+53,Kansas
+54,New Mexico
+54,Nebraska
+55,Idaho
+55,West Virginia
+56,Hawaii
+56,New Hampshire
+15,Maine
+"7,029,917",Montana
+14,Rhode Island
+"6,547,629",Delaware
+13,South Dakota
+"6,349,097",North Dakota
+21,Alaska
+7.4%,Vermont
+NEng,Wyoming
+29,Guam
+"3,605,944",U.S. Virgin Islands
+29,American Samoa
+"3,574,097",California
+29,Texas
+"3,405,565",Florida
+47,New York
+0.9%,Pennsylvania
+NEng,Illinois
+41,Ohio
+"1,377,529",Georgia
+42,North Carolina
+"1,316,470",Michigan
+41,New Jersey
+"1,235,786",Virginia
+30,Washington
+4.6%,Arizona
+NEng,Tennessee
+42,Massachusetts
+"1,362,359",Indiana
+41,Missouri
+"1,328,361",Maryland
+40,Wisconsin
+"1,274,923",Colorado
+42,Minnesota
+2.6%,South Carolina
+NEng,Alabama
+"1,097,379",Louisiana
+43,Kentucky
+"1,052,567",Oregon
+43,Oklahoma
+"1,048,319",Connecticut
+31,Utah
+4.3%,Puerto Rico
+NEng,Iowa
+49,Nevada
+"643,077",Arkansas
+49,Mississippi
+"625,741",Kansas
+49,New Mexico
+"608,827",Nebraska
+40,Idaho
+2.8%,West Virginia
+NEng,Hawaii
+9,New Hampshire
+"15,116,205",Maine
+9,Montana
+"14,444,865",Rhode Island
+9,Delaware
+"13,922,517",South Dakota
+7,North Dakota
+4.6%,Alaska
+NEast,Vermont
+4,Wyoming
+"20,201,249",Guam
+3,U.S. Virgin Islands
+"19,378,102",American Samoa
+3,California
+"18,976,457",Texas
+32,Florida
+4.2%,New York
+MAtl,Pennsylvania
+5,Illinois
+"13,002,700",Ohio
+6,Georgia
+"12,702,379",North Carolina
+6,Michigan
+"12,281,054",New Jersey
+43,Virginia
+2.4%,Washington
+MAtl,Arizona
+11,Tennessee
+"9,288,994",Massachusetts
+11,Indiana
+"8,791,894",Missouri
+9,Maryland
+"8,414,350",Wisconsin
+25,Colorado
+5.7%,Minnesota
+MAtl,South Carolina
+4,Alabama
+"42,492,943",Louisiana
+4,Kentucky
+"40,872,375",Oregon
+4,Oklahoma
+"39,671,861",Connecticut
+8,Utah
+4.0%,Puerto Rico
+NEast,Iowa
+4,Nevada
+"57,609,148",Arkansas
+4,Mississippi
+"55,317,240",Kansas
+4,New Mexico
+"53,594,378",Nebraska
+3,Idaho
+4.1%,West Virginia
+USA,Hawaii
+3,New Hampshire
+"21,538,187",Maine
+4,Montana
+"18,801,310",Rhode Island
+4,Delaware
+"15,982,378",South Dakota
+8,North Dakota
+14.6%,Alaska
+SAtl,Vermont
+8,Wyoming
+"10,711,908",Guam
+9,U.S. Virgin Islands
+"9,687,653",American Samoa
+10,California
+"8,186,453",Texas
+12,Florida
+10.6%,New York
+SAtl,Pennsylvania
+9,Illinois
+"10,439,388",Ohio
+10,Georgia
+"9,535,483",North Carolina
+11,Michigan
+"8,049,313",New Jersey
+15,Virginia
+9.5%,Washington
+SAtl,Arizona
+12,Tennessee
+"8,631,393",Massachusetts
+12,Indiana
+"8,001,024",Missouri
+12,Maryland
+"7,078,515",Wisconsin
+18,Colorado
+7.9%,Minnesota
+SAtl,South Carolina
+18,Alabama
+"6,177,224",Louisiana
+19,Kentucky
+"5,773,552",Oregon
+19,Oklahoma
+"5,296,486",Connecticut
+22,Utah
+7.0%,Puerto Rico
+SAtl,Iowa
+23,Nevada
+"5,118,425",Arkansas
+24,Mississippi
+"4,625,364",Kansas
+26,New Mexico
+"4,012,012",Nebraska
+10,Idaho
+10.7%,West Virginia
+SAtl,Hawaii
+39,New Hampshire
+"1,793,716",Maine
+37,Montana
+"1,852,994",Rhode Island
+37,Delaware
+"1,808,344",South Dakota
+50,North Dakota
+−3.2%,Alaska
+SAtl,Vermont
+45,Wyoming
+"989,948",Guam
+45,U.S. Virgin Islands
+"897,934",American Samoa
+45,California
+"783,600",Texas
+13,Florida
+10.2%,New York
+SAtl,Pennsylvania
+–,Illinois
+"689,545",Ohio
+–,Georgia
+"601,723",North Carolina
+–,Michigan
+"572,059",New Jersey
+–,Virginia
+14.6%,Washington
+SAtl,Arizona
+1,Tennessee
+"66,089,734",Massachusetts
+1,Indiana
+"59,777,037",Missouri
+1,Maryland
+"51,769,160",Wisconsin
+3,Colorado
+10.6%,Minnesota
+South,South Carolina
+16,Alabama
+"6,910,840",Louisiana
+17,Kentucky
+"6,346,105",Oregon
+16,Oklahoma
+"5,689,283",Connecticut
+17,Utah
+8.9%,Puerto Rico
+ESC,Iowa
+24,Nevada
+"5,024,279",Arkansas
+23,Mississippi
+"4,779,736",Kansas
+23,New Mexico
+"4,447,100",Nebraska
+27,Idaho
+5.1%,West Virginia
+ESC,Hawaii
+26,New Hampshire
+"4,505,836",Maine
+26,Montana
+"4,339,367",Rhode Island
+25,Delaware
+"4,041,769",South Dakota
+33,North Dakota
+3.8%,Alaska
+ESC,Vermont
+34,Wyoming
+"2,961,279",Guam
+31,U.S. Virgin Islands
+"2,967,297",American Samoa
+31,California
+"2,844,658",Texas
+49,Florida
+−0.2%,New York
+ESC,Pennsylvania
+8,Illinois
+"19,402,234",Ohio
+8,Georgia
+"18,432,505",North Carolina
+8,Michigan
+"17,022,810",New Jersey
+6,Virginia
+5.3%,Washington
+South,Arizona
+2,Tennessee
+"29,145,505",Massachusetts
+2,Indiana
+"25,145,561",Missouri
+2,Maryland
+"20,851,820",Wisconsin
+3,Colorado
+15.9%,Minnesota
+WSC,South Carolina
+25,Alabama
+"4,657,757",Louisiana
+25,Kentucky
+"4,533,372",Oregon
+22,Oklahoma
+"4,468,976",Connecticut
+41,Utah
+2.7%,Puerto Rico
+WSC,Iowa
+28,Nevada
+"3,959,353",Arkansas
+28,Mississippi
+"3,751,351",Kansas
+27,New Mexico
+"3,450,654",Nebraska
+26,Idaho
+5.5%,West Virginia
+WSC,Hawaii
+33,New Hampshire
+"3,011,524",Maine
+32,Montana
+"2,915,918",Rhode Island
+33,Delaware
+"2,673,400",South Dakota
+35,North Dakota
+3.3%,Alaska
+WSC,Vermont
+5,Wyoming
+"40,774,139",Guam
+5,U.S. Virgin Islands
+"36,346,202",American Samoa
+5,California
+"31,444,850",Texas
+2,Florida
+12.2%,New York
+South,Pennsylvania
+1,Illinois
+"126,266,107",Ohio
+1,Georgia
+"114,555,744",North Carolina
+1,Michigan
+"100,236,820",New Jersey
+1,Virginia
+10.2%,Washington
+USA,Arizona
+6,Tennessee
+"12,812,508",Massachusetts
+5,Indiana
+"12,830,632",Missouri
+5,Maryland
+"12,419,293",Wisconsin
+48,Colorado
+−0.1%,Minnesota
+ENC,South Carolina
+7,Alabama
+"11,799,448",Louisiana
+7,Kentucky
+"11,536,504",Oregon
+7,Oklahoma
+"11,353,140",Connecticut
+45,Utah
+2.3%,Puerto Rico
+ENC,Iowa
+10,Nevada
+"10,077,331",Arkansas
+8,Mississippi
+"9,883,640",Kansas
+8,New Mexico
+"9,938,444",Nebraska
+46,Idaho
+2.0%,West Virginia
+ENC,Hawaii
+17,New Hampshire
+"6,785,528",Maine
+15,Montana
+"6,483,802",Rhode Island
+14,Delaware
+"6,080,485",South Dakota
+29,North Dakota
+4.7%,Alaska
+ENC,Vermont
+20,Wyoming
+"5,893,718",Guam
+20,U.S. Virgin Islands
+"5,686,986",American Samoa
+18,California
+"5,363,675",Texas
+34,Florida
+3.6%,New York
+ENC,Pennsylvania
+3,Illinois
+"47,368,533",Ohio
+3,Georgia
+"46,421,564",North Carolina
+2,Michigan
+"45,155,037",New Jersey
+9,Virginia
+2.0%,Washington
+MWest,Arizona
+19,Tennessee
+"6,154,913",Massachusetts
+18,Indiana
+"5,988,927",Missouri
+17,Maryland
+"5,595,211",Wisconsin
+39,Colorado
+2.8%,Minnesota
+WNC,South Carolina
+22,Alabama
+"5,706,494",Louisiana
+21,Kentucky
+"5,303,925",Oregon
+21,Oklahoma
+"4,919,479",Connecticut
+19,Utah
+7.6%,Puerto Rico
+WNC,Iowa
+31,Nevada
+"3,190,369",Arkansas
+30,Mississippi
+"3,046,355",Kansas
+30,New Mexico
+"2,926,324",Nebraska
+28,Idaho
+4.7%,West Virginia
+WNC,Hawaii
+35,New Hampshire
+"2,937,880",Maine
+33,Montana
+"2,853,118",Rhode Island
+32,Delaware
+"2,688,418",South Dakota
+37,North Dakota
+3.0%,Alaska
+WNC,Vermont
+37,Wyoming
+"1,961,504",Guam
+38,U.S. Virgin Islands
+"1,826,341",American Samoa
+38,California
+"1,711,263",Texas
+20,Florida
+7.4%,New York
+WNC,Pennsylvania
+46,Illinois
+"886,667",Ohio
+46,Georgia
+"814,180",North Carolina
+46,Michigan
+"754,844",New Jersey
+16,Virginia
+8.9%,Washington
+WNC,Arizona
+47,Tennessee
+"779,094",Massachusetts
+48,Indiana
+"672,591",Missouri
+47,Maryland
+"642,200",Wisconsin
+4,Colorado
+15.8%,Minnesota
+WNC,South Carolina
+7,Alabama
+"21,616,921",Louisiana
+7,Kentucky
+"20,505,437",Oregon
+6,Oklahoma
+"19,237,739",Connecticut
+5,Utah
+5.4%,Puerto Rico
+MWest,Iowa
+3,Nevada
+"68,985,454",Arkansas
+3,Mississippi
+"66,927,001",Kansas
+2,New Mexico
+"64,392,776",Nebraska
+4,Idaho
+3.1%,West Virginia
+USA,Hawaii
+14,New Hampshire
+"7,151,502",Maine
+16,Montana
+"6,392,017",Rhode Island
+20,Delaware
+"5,130,632",South Dakota
+9,North Dakota
+11.9%,Alaska
+Mtn,Vermont
+21,Wyoming
+"5,773,714",Guam
+22,U.S. Virgin Islands
+"5,029,196",American Samoa
+24,California
+"4,301,261",Texas
+6,Florida
+14.8%,New York
+Mtn,Pennsylvania
+30,Illinois
+"3,271,616",Ohio
+34,Georgia
+"2,763,885",North Carolina
+34,Michigan
+"2,233,169",New Jersey
+1,Virginia
+18.4%,Washington
+Mtn,Arizona
+32,Tennessee
+"3,104,614",Massachusetts
+35,Indiana
+"2,700,551",Missouri
+35,Maryland
+"1,998,257",Wisconsin
+5,Colorado
+15.0%,Minnesota
+Mtn,South Carolina
+36,Alabama
+"2,117,522",Louisiana
+36,Kentucky
+"2,059,179",Oregon
+36,Oklahoma
+"1,819,046",Connecticut
+38,Utah
+2.8%,Puerto Rico
+Mtn,Iowa
+38,Nevada
+"1,839,106",Arkansas
+39,Mississippi
+"1,567,582",Kansas
+39,New Mexico
+"1,293,953",Nebraska
+2,Idaho
+17.3%,West Virginia
+Mtn,Hawaii
+44,New Hampshire
+"1,084,225",Maine
+44,Montana
+"989,415",Rhode Island
+44,Delaware
+"902,195",South Dakota
+14,North Dakota
+9.6%,Alaska
+Mtn,Vermont
+50,Wyoming
+"576,851",Guam
+50,U.S. Virgin Islands
+"563,626",American Samoa
+50,California
+"493,782",Texas
+44,Florida
+2.3%,New York
+Mtn,Pennsylvania
+6,Illinois
+"24,919,150",Ohio
+6,Georgia
+"22,065,451",North Carolina
+7,Michigan
+"18,172,295",New Jersey
+1,Virginia
+12.9%,Washington
+West,Arizona
+1,Tennessee
+"39,538,223",Massachusetts
+1,Indiana
+"37,253,956",Missouri
+1,Maryland
+"33,871,648",Wisconsin
+24,Colorado
+6.1%,Minnesota
+Pac,South Carolina
+13,Alabama
+"7,705,281",Louisiana
+13,Kentucky
+"6,724,540",Oregon
+15,Oklahoma
+"5,894,121",Connecticut
+7,Utah
+14.6%,Puerto Rico
+Pac,Iowa
+27,Nevada
+"4,237,256",Arkansas
+27,Mississippi
+"3,831,074",Kansas
+28,New Mexico
+"3,421,399",Nebraska
+11,Idaho
+10.6%,West Virginia
+Pac,Hawaii
+40,New Hampshire
+"1,455,271",Maine
+40,Montana
+"1,360,301",Rhode Island
+42,Delaware
+"1,211,537",South Dakota
+23,North Dakota
+7.0%,Alaska
+Pac,Vermont
+48,Wyoming
+"733,391",Guam
+47,U.S. Virgin Islands
+"710,231",American Samoa
+48,California
+"626,932",Texas
+36,Florida
+3.3%,New York
+Pac,Pennsylvania
+2,Illinois
+"53,669,422",Ohio
+2,Georgia
+"49,880,102",North Carolina
+3,Michigan
+"45,025,637",New Jersey
+4,Virginia
+7.6%,Washington
+West,Arizona
+2,Tennessee
+"78,588,572",Massachusetts
+2,Indiana
+"71,945,553",Missouri
+3,Maryland
+"63,197,932",Wisconsin
+2,Colorado
+9.2%,Minnesota
+USA,South Carolina
+–,Alabama
+"331,449,281",Louisiana
+–,Kentucky
+"308,745,538",Oregon
+–,Oklahoma
+"281,421,906",Connecticut
+–,Utah
+7.4%,Puerto Rico
+NAmer,Iowa
+1,Nevada
+"3,285,874",Arkansas
+1,Mississippi
+"3,725,789",Kansas
+1,New Mexico
+"3,808,610",Nebraska
+3,Idaho
+−11.8%,West Virginia
+I.A.,Hawaii
+2,New Hampshire
+"153,836",Maine
+2,Montana
+"159,358",Rhode Island
+2,Delaware
+"154,805",South Dakota
+1,North Dakota
+−3.5%,Alaska
+I.A.,Vermont
+3,Wyoming
+"87,146",Guam
+3,U.S. Virgin Islands
+"106,405",American Samoa
+3,California
+"108,612",Texas
+2,Florida
+−18.1%,New York
+I.A.,Pennsylvania
+4,Illinois
+"49,710",Ohio
+4,Georgia
+"55,519",North Carolina
+5,Michigan
+"57,291",New Jersey
+4,Virginia
+−7.7%,Washington
+I.A.,Arizona
+5,Tennessee
+"47,329",Massachusetts
+5,Indiana
+"53,883",Missouri
+4,Maryland
+"69,221",Wisconsin
+5,Colorado
+−14.8%,Minnesota
+I.A.,South Carolina
+ ,Alabama
+6,Louisiana
+6,Kentucky
+6,Oregon
+316,Oklahoma
+6,Connecticut
+—,Utah
+I.A.,Puerto Rico
+–,Iowa
+"3,623,895",Nevada
+–,Arkansas
+"4,100,954",Mississippi
+–,Kansas
+"4,198,855",New Mexico
+–,Nebraska
+−11.6%,Idaho
+USA,West Virginia
+1,Hawaii
+1,New Hampshire
+52,Maine
+2,Montana
+2,Rhode Island
+38,Delaware
+3,South Dakota
+3,North Dakota
+28,Alaska
+4,Vermont
+4,Wyoming
+26,Guam
+5,U.S. Virgin Islands
+5,American Samoa
+17,California
+6,Texas
+6,Florida
+17,New York
+7,Pennsylvania
+7,Illinois
+15,Ohio
+8,Georgia
+8,North Carolina
+14,Michigan
+9,New Jersey
+9,Virginia
+14,Washington
+10,Arizona
+10,Tennessee
+13,Massachusetts
+11,Indiana
+11,Missouri
+12,Maryland
+12,Wisconsin
+12,Colorado
+11,Minnesota
+13,South Carolina
+13,Alabama
+10,Louisiana
+14,Kentucky
+14,Oregon
+9,Oklahoma
+15,Connecticut
+16,Utah
+9,Puerto Rico
+16,Iowa
+15,Nevada
+9,Arkansas
+17,Mississippi
+17,Kansas
+9,New Mexico
+18,Nebraska
+19,Idaho
+8,West Virginia
+19,Hawaii
+18,New Hampshire
+8,Maine
+20,Montana
+20,Rhode Island
+8,Delaware
+21,South Dakota
+21,North Dakota
+8,Alaska
+22,Vermont
+22,Wyoming
+8,Guam
+23,U.S. Virgin Islands
+23,American Samoa
+7,California
+24,Texas
+24,Florida
+7,New York
+25,Pennsylvania
+25,Illinois
+6,Ohio
+26,Georgia
+26,North Carolina
+6,Michigan
+27,New Jersey
+27,Virginia
+6,Washington
+28,Arizona
+28,Tennessee
+5,Massachusetts
+29,Indiana
+29,Missouri
+5,Maryland
+30,Wisconsin
+31,Colorado
+4,Minnesota
+31,South Carolina
+30,Alabama
+32,Louisiana
+32,Kentucky
+4,Oregon
+33,Oklahoma
+33,Connecticut
+4,Utah
+34,Puerto Rico
+34,Iowa
+4,Nevada
+35,Arkansas
+35,Mississippi
+4,Kansas
+36,New Mexico
+36,Nebraska
+4,Idaho
+37,West Virginia
+37,Hawaii
+3,New Hampshire
+38,Maine
+38,Montana
+3,Rhode Island
+39,Delaware
+39,South Dakota
+2,North Dakota
+40,Alaska
+40,Vermont
+2,Wyoming
+41,Guam
+41,U.S. Virgin Islands
+2,American Samoa
+42,California
+42,Texas
+2,Florida
+43,New York
+43,Pennsylvania
+2,Illinois
+44,Ohio
+45,Georgia
+2,North Carolina
+45,Michigan
+44,New Jersey
+2,Virginia
+46,Washington
+46,Arizona
+1,Tennessee
+47,Massachusetts
+47,Indiana
+1,Missouri
+48,Maryland
+48,Wisconsin
+1,Colorado
+49,Minnesota
+49,South Carolina
+1,Alabama
+50,Louisiana
+50,Kentucky
+51,Oregon
+51,Oklahoma
+1,Connecticut
+52,Utah
+52,Puerto Rico
+1,Iowa
+53,Nevada
+53,Arkansas
+54,Mississippi
+54,Kansas
+55,New Mexico
+55,Nebraska
+56,Idaho
+56,West Virginia
+15,Hawaii
+"7,029,917",New Hampshire
+14,Maine
+"6,547,629",Montana
+13,Rhode Island
+"6,349,097",Delaware
+21,South Dakota
+7.4%,North Dakota
+NEng,Alaska
+29,Vermont
+"3,605,944",Wyoming
+29,Guam
+"3,574,097",U.S. Virgin Islands
+29,American Samoa
+"3,405,565",California
+47,Texas
+0.9%,Florida
+NEng,New York
+41,Pennsylvania
+"1,377,529",Illinois
+42,Ohio
+"1,316,470",Georgia
+41,North Carolina
+"1,235,786",Michigan
+30,New Jersey
+4.6%,Virginia
+NEng,Washington
+42,Arizona
+"1,362,359",Tennessee
+41,Massachusetts
+"1,328,361",Indiana
+40,Missouri
+"1,274,923",Maryland
+42,Wisconsin
+2.6%,Colorado
+NEng,Minnesota
+"1,097,379",South Carolina
+43,Alabama
+"1,052,567",Louisiana
+43,Kentucky
+"1,048,319",Oregon
+31,Oklahoma
+4.3%,Connecticut
+NEng,Utah
+49,Puerto Rico
+"643,077",Iowa
+49,Nevada
+"625,741",Arkansas
+49,Mississippi
+"608,827",Kansas
+40,New Mexico
+2.8%,Nebraska
+NEng,Idaho
+9,West Virginia
+"15,116,205",Hawaii
+9,New Hampshire
+"14,444,865",Maine
+9,Montana
+"13,922,517",Rhode Island
+7,Delaware
+4.6%,South Dakota
+NEast,North Dakota
+4,Alaska
+"20,201,249",Vermont
+3,Wyoming
+"19,378,102",Guam
+3,U.S. Virgin Islands
+"18,976,457",American Samoa
+32,California
+4.2%,Texas
+MAtl,Florida
+5,New York
+"13,002,700",Pennsylvania
+6,Illinois
+"12,702,379",Ohio
+6,Georgia
+"12,281,054",North Carolina
+43,Michigan
+2.4%,New Jersey
+MAtl,Virginia
+11,Washington
+"9,288,994",Arizona
+11,Tennessee
+"8,791,894",Massachusetts
+9,Indiana
+"8,414,350",Missouri
+25,Maryland
+5.7%,Wisconsin
+MAtl,Colorado
+4,Minnesota
+"42,492,943",South Carolina
+4,Alabama
+"40,872,375",Louisiana
+4,Kentucky
+"39,671,861",Oregon
+8,Oklahoma
+4.0%,Connecticut
+NEast,Utah
+4,Puerto Rico
+"57,609,148",Iowa
+4,Nevada
+"55,317,240",Arkansas
+4,Mississippi
+"53,594,378",Kansas
+3,New Mexico
+4.1%,Nebraska
+USA,Idaho
+3,West Virginia
+"21,538,187",Hawaii
+4,New Hampshire
+"18,801,310",Maine
+4,Montana
+"15,982,378",Rhode Island
+8,Delaware
+14.6%,South Dakota
+SAtl,North Dakota
+8,Alaska
+"10,711,908",Vermont
+9,Wyoming
+"9,687,653",Guam
+10,U.S. Virgin Islands
+"8,186,453",American Samoa
+12,California
+10.6%,Texas
+SAtl,Florida
+9,New York
+"10,439,388",Pennsylvania
+10,Illinois
+"9,535,483",Ohio
+11,Georgia
+"8,049,313",North Carolina
+15,Michigan
+9.5%,New Jersey
+SAtl,Virginia
+12,Washington
+"8,631,393",Arizona
+12,Tennessee
+"8,001,024",Massachusetts
+12,Indiana
+"7,078,515",Missouri
+18,Maryland
+7.9%,Wisconsin
+SAtl,Colorado
+18,Minnesota
+"6,177,224",South Carolina
+19,Alabama
+"5,773,552",Louisiana
+19,Kentucky
+"5,296,486",Oregon
+22,Oklahoma
+7.0%,Connecticut
+SAtl,Utah
+23,Puerto Rico
+"5,118,425",Iowa
+24,Nevada
+"4,625,364",Arkansas
+26,Mississippi
+"4,012,012",Kansas
+10,New Mexico
+10.7%,Nebraska
+SAtl,Idaho
+39,West Virginia
+"1,793,716",Hawaii
+37,New Hampshire
+"1,852,994",Maine
+37,Montana
+"1,808,344",Rhode Island
+50,Delaware
+−3.2%,South Dakota
+SAtl,North Dakota
+45,Alaska
+"989,948",Vermont
+45,Wyoming
+"897,934",Guam
+45,U.S. Virgin Islands
+"783,600",American Samoa
+13,California
+10.2%,Texas
+SAtl,Florida
+–,New York
+"689,545",Pennsylvania
+–,Illinois
+"601,723",Ohio
+–,Georgia
+"572,059",North Carolina
+–,Michigan
+14.6%,New Jersey
+SAtl,Virginia
+1,Washington
+"66,089,734",Arizona
+1,Tennessee
+"59,777,037",Massachusetts
+1,Indiana
+"51,769,160",Missouri
+3,Maryland
+10.6%,Wisconsin
+South,Colorado
+16,Minnesota
+"6,910,840",South Carolina
+17,Alabama
+"6,346,105",Louisiana
+16,Kentucky
+"5,689,283",Oregon
+17,Oklahoma
+8.9%,Connecticut
+ESC,Utah
+24,Puerto Rico
+"5,024,279",Iowa
+23,Nevada
+"4,779,736",Arkansas
+23,Mississippi
+"4,447,100",Kansas
+27,New Mexico
+5.1%,Nebraska
+ESC,Idaho
+26,West Virginia
+"4,505,836",Hawaii
+26,New Hampshire
+"4,339,367",Maine
+25,Montana
+"4,041,769",Rhode Island
+33,Delaware
+3.8%,South Dakota
+ESC,North Dakota
+34,Alaska
+"2,961,279",Vermont
+31,Wyoming
+"2,967,297",Guam
+31,U.S. Virgin Islands
+"2,844,658",American Samoa
+49,California
+−0.2%,Texas
+ESC,Florida
+8,New York
+"19,402,234",Pennsylvania
+8,Illinois
+"18,432,505",Ohio
+8,Georgia
+"17,022,810",North Carolina
+6,Michigan
+5.3%,New Jersey
+South,Virginia
+2,Washington
+"29,145,505",Arizona
+2,Tennessee
+"25,145,561",Massachusetts
+2,Indiana
+"20,851,820",Missouri
+3,Maryland
+15.9%,Wisconsin
+WSC,Colorado
+25,Minnesota
+"4,657,757",South Carolina
+25,Alabama
+"4,533,372",Louisiana
+22,Kentucky
+"4,468,976",Oregon
+41,Oklahoma
+2.7%,Connecticut
+WSC,Utah
+28,Puerto Rico
+"3,959,353",Iowa
+28,Nevada
+"3,751,351",Arkansas
+27,Mississippi
+"3,450,654",Kansas
+26,New Mexico
+5.5%,Nebraska
+WSC,Idaho
+33,West Virginia
+"3,011,524",Hawaii
+32,New Hampshire
+"2,915,918",Maine
+33,Montana
+"2,673,400",Rhode Island
+35,Delaware
+3.3%,South Dakota
+WSC,North Dakota
+5,Alaska
+"40,774,139",Vermont
+5,Wyoming
+"36,346,202",Guam
+5,U.S. Virgin Islands
+"31,444,850",American Samoa
+2,California
+12.2%,Texas
+South,Florida
+1,New York
+"126,266,107",Pennsylvania
+1,Illinois
+"114,555,744",Ohio
+1,Georgia
+"100,236,820",North Carolina
+1,Michigan
+10.2%,New Jersey
+USA,Virginia
+6,Washington
+"12,812,508",Arizona
+5,Tennessee
+"12,830,632",Massachusetts
+5,Indiana
+"12,419,293",Missouri
+48,Maryland
+−0.1%,Wisconsin
+ENC,Colorado
+7,Minnesota
+"11,799,448",South Carolina
+7,Alabama
+"11,536,504",Louisiana
+7,Kentucky
+"11,353,140",Oregon
+45,Oklahoma
+2.3%,Connecticut
+ENC,Utah
+10,Puerto Rico
+"10,077,331",Iowa
+8,Nevada
+"9,883,640",Arkansas
+8,Mississippi
+"9,938,444",Kansas
+46,New Mexico
+2.0%,Nebraska
+ENC,Idaho
+17,West Virginia
+"6,785,528",Hawaii
+15,New Hampshire
+"6,483,802",Maine
+14,Montana
+"6,080,485",Rhode Island
+29,Delaware
+4.7%,South Dakota
+ENC,North Dakota
+20,Alaska
+"5,893,718",Vermont
+20,Wyoming
+"5,686,986",Guam
+18,U.S. Virgin Islands
+"5,363,675",American Samoa
+34,California
+3.6%,Texas
+ENC,Florida
+3,New York
+"47,368,533",Pennsylvania
+3,Illinois
+"46,421,564",Ohio
+2,Georgia
+"45,155,037",North Carolina
+9,Michigan
+2.0%,New Jersey
+MWest,Virginia
+19,Washington
+"6,154,913",Arizona
+18,Tennessee
+"5,988,927",Massachusetts
+17,Indiana
+"5,595,211",Missouri
+39,Maryland
+2.8%,Wisconsin
+WNC,Colorado
+22,Minnesota
+"5,706,494",South Carolina
+21,Alabama
+"5,303,925",Louisiana
+21,Kentucky
+"4,919,479",Oregon
+19,Oklahoma
+7.6%,Connecticut
+WNC,Utah
+31,Puerto Rico
+"3,190,369",Iowa
+30,Nevada
+"3,046,355",Arkansas
+30,Mississippi
+"2,926,324",Kansas
+28,New Mexico
+4.7%,Nebraska
+WNC,Idaho
+35,West Virginia
+"2,937,880",Hawaii
+33,New Hampshire
+"2,853,118",Maine
+32,Montana
+"2,688,418",Rhode Island
+37,Delaware
+3.0%,South Dakota
+WNC,North Dakota
+37,Alaska
+"1,961,504",Vermont
+38,Wyoming
+"1,826,341",Guam
+38,U.S. Virgin Islands
+"1,711,263",American Samoa
+20,California
+7.4%,Texas
+WNC,Florida
+46,New York
+"886,667",Pennsylvania
+46,Illinois
+"814,180",Ohio
+46,Georgia
+"754,844",North Carolina
+16,Michigan
+8.9%,New Jersey
+WNC,Virginia
+47,Washington
+"779,094",Arizona
+48,Tennessee
+"672,591",Massachusetts
+47,Indiana
+"642,200",Missouri
+4,Maryland
+15.8%,Wisconsin
+WNC,Colorado
+7,Minnesota
+"21,616,921",South Carolina
+7,Alabama
+"20,505,437",Louisiana
+6,Kentucky
+"19,237,739",Oregon
+5,Oklahoma
+5.4%,Connecticut
+MWest,Utah
+3,Puerto Rico
+"68,985,454",Iowa
+3,Nevada
+"66,927,001",Arkansas
+2,Mississippi
+"64,392,776",Kansas
+4,New Mexico
+3.1%,Nebraska
+USA,Idaho
+14,West Virginia
+"7,151,502",Hawaii
+16,New Hampshire
+"6,392,017",Maine
+20,Montana
+"5,130,632",Rhode Island
+9,Delaware
+11.9%,South Dakota
+Mtn,North Dakota
+21,Alaska
+"5,773,714",Vermont
+22,Wyoming
+"5,029,196",Guam
+24,U.S. Virgin Islands
+"4,301,261",American Samoa
+6,California
+14.8%,Texas
+Mtn,Florida
+30,New York
+"3,271,616",Pennsylvania
+34,Illinois
+"2,763,885",Ohio
+34,Georgia
+"2,233,169",North Carolina
+1,Michigan
+18.4%,New Jersey
+Mtn,Virginia
+32,Washington
+"3,104,614",Arizona
+35,Tennessee
+"2,700,551",Massachusetts
+35,Indiana
+"1,998,257",Missouri
+5,Maryland
+15.0%,Wisconsin
+Mtn,Colorado
+36,Minnesota
+"2,117,522",South Carolina
+36,Alabama
+"2,059,179",Louisiana
+36,Kentucky
+"1,819,046",Oregon
+38,Oklahoma
+2.8%,Connecticut
+Mtn,Utah
+38,Puerto Rico
+"1,839,106",Iowa
+39,Nevada
+"1,567,582",Arkansas
+39,Mississippi
+"1,293,953",Kansas
+2,New Mexico
+17.3%,Nebraska
+Mtn,Idaho
+44,West Virginia
+"1,084,225",Hawaii
+44,New Hampshire
+"989,415",Maine
+44,Montana
+"902,195",Rhode Island
+14,Delaware
+9.6%,South Dakota
+Mtn,North Dakota
+50,Alaska
+"576,851",Vermont
+50,Wyoming
+"563,626",Guam
+50,U.S. Virgin Islands
+"493,782",American Samoa
+44,California
+2.3%,Texas
+Mtn,Florida
+6,New York
+"24,919,150",Pennsylvania
+6,Illinois
+"22,065,451",Ohio
+7,Georgia
+"18,172,295",North Carolina
+1,Michigan
+12.9%,New Jersey
+West,Virginia
+1,Washington
+"39,538,223",Arizona
+1,Tennessee
+"37,253,956",Massachusetts
+1,Indiana
+"33,871,648",Missouri
+24,Maryland
+6.1%,Wisconsin
+Pac,Colorado
+13,Minnesota
+"7,705,281",South Carolina
+13,Alabama
+"6,724,540",Louisiana
+15,Kentucky
+"5,894,121",Oregon
+7,Oklahoma
+14.6%,Connecticut
+Pac,Utah
+27,Puerto Rico
+"4,237,256",Iowa
+27,Nevada
+"3,831,074",Arkansas
+28,Mississippi
+"3,421,399",Kansas
+11,New Mexico
+10.6%,Nebraska
+Pac,Idaho
+40,West Virginia
+"1,455,271",Hawaii
+40,New Hampshire
+"1,360,301",Maine
+42,Montana
+"1,211,537",Rhode Island
+23,Delaware
+7.0%,South Dakota
+Pac,North Dakota
+48,Alaska
+"733,391",Vermont
+47,Wyoming
+"710,231",Guam
+48,U.S. Virgin Islands
+"626,932",American Samoa
+36,California
+3.3%,Texas
+Pac,Florida
+2,New York
+"53,669,422",Pennsylvania
+2,Illinois
+"49,880,102",Ohio
+3,Georgia
+"45,025,637",North Carolina
+4,Michigan
+7.6%,New Jersey
+West,Virginia
+2,Washington
+"78,588,572",Arizona
+2,Tennessee
+"71,945,553",Massachusetts
+3,Indiana
+"63,197,932",Missouri
+2,Maryland
+9.2%,Wisconsin
+USA,Colorado
+–,Minnesota
+"331,449,281",South Carolina
+–,Alabama
+"308,745,538",Louisiana
+–,Kentucky
+"281,421,906",Oregon
+–,Oklahoma
+7.4%,Connecticut
+NAmer,Utah
+1,Puerto Rico
+"3,285,874",Iowa
+1,Nevada
+"3,725,789",Arkansas
+1,Mississippi
+"3,808,610",Kansas
+3,New Mexico
+−11.8%,Nebraska
+I.A.,Idaho
+2,West Virginia
+"153,836",Hawaii
+2,New Hampshire
+"159,358",Maine
+2,Montana
+"154,805",Rhode Island
+1,Delaware
+−3.5%,South Dakota
+I.A.,North Dakota
+3,Alaska
+"87,146",Vermont
+3,Wyoming
+"106,405",Guam
+3,U.S. Virgin Islands
+"108,612",American Samoa
+2,California
+−18.1%,Texas
+I.A.,Florida
+4,New York
+"49,710",Pennsylvania
+4,Illinois
+"55,519",Ohio
+5,Georgia
+"57,291",North Carolina
+4,Michigan
+−7.7%,New Jersey
+I.A.,Virginia
+5,Washington
+"47,329",Arizona
+5,Tennessee
+"53,883",Massachusetts
+4,Indiana
+"69,221",Missouri
+5,Maryland
+−14.8%,Wisconsin
+I.A.,Colorado
+ ,Minnesota
+6,South Carolina
+6,Alabama
+6,Louisiana
+316,Kentucky
+6,Oregon
+—,Oklahoma
+I.A.,Connecticut
+–,Utah
+"3,623,895",Puerto Rico
+–,Iowa
+"4,100,954",Nevada
+–,Arkansas
+"4,198,855",Mississippi
+–,Kansas
+−11.6%,New Mexico
+USA,Nebraska
+1,Idaho
+1,West Virginia
+52,Hawaii
+2,New Hampshire
+2,Maine
+38,Montana
+3,Rhode Island
+3,Delaware
+28,South Dakota
+4,North Dakota
+4,Alaska
+26,Vermont
+5,Wyoming
+5,Guam
+17,U.S. Virgin Islands
+6,American Samoa
+6,California
+17,Texas
+7,Florida
+7,New York
+15,Pennsylvania
+8,Illinois
+8,Ohio
+14,Georgia
+9,North Carolina
+9,Michigan
+14,New Jersey
+10,Virginia
+10,Washington
+13,Arizona
+11,Tennessee
+11,Massachusetts
+12,Indiana
+12,Missouri
+12,Maryland
+11,Wisconsin
+13,Colorado
+13,Minnesota
+10,South Carolina
+14,Alabama
+14,Louisiana
+9,Kentucky
+15,Oregon
+16,Oklahoma
+9,Connecticut
+16,Utah
+15,Puerto Rico
+9,Iowa
+17,Nevada
+17,Arkansas
+9,Mississippi
+18,Kansas
+19,New Mexico
+8,Nebraska
+19,Idaho
+18,West Virginia
+8,Hawaii
+20,New Hampshire
+20,Maine
+8,Montana
+21,Rhode Island
+21,Delaware
+8,South Dakota
+22,North Dakota
+22,Alaska
+8,Vermont
+23,Wyoming
+23,Guam
+7,U.S. Virgin Islands
+24,American Samoa
+24,California
+7,Texas
+25,Florida
+25,New York
+6,Pennsylvania
+26,Illinois
+26,Ohio
+6,Georgia
+27,North Carolina
+27,Michigan
+6,New Jersey
+28,Virginia
+28,Washington
+5,Arizona
+29,Tennessee
+29,Massachusetts
+5,Indiana
+30,Missouri
+31,Maryland
+4,Wisconsin
+31,Colorado
+30,Minnesota
+32,South Carolina
+32,Alabama
+4,Louisiana
+33,Kentucky
+33,Oregon
+4,Oklahoma
+34,Connecticut
+34,Utah
+4,Puerto Rico
+35,Iowa
+35,Nevada
+4,Arkansas
+36,Mississippi
+36,Kansas
+4,New Mexico
+37,Nebraska
+37,Idaho
+3,West Virginia
+38,Hawaii
+38,New Hampshire
+3,Maine
+39,Montana
+39,Rhode Island
+2,Delaware
+40,South Dakota
+40,North Dakota
+2,Alaska
+41,Vermont
+41,Wyoming
+2,Guam
+42,U.S. Virgin Islands
+42,American Samoa
+2,California
+43,Texas
+43,Florida
+2,New York
+44,Pennsylvania
+45,Illinois
+2,Ohio
+45,Georgia
+44,North Carolina
+2,Michigan
+46,New Jersey
+46,Virginia
+1,Washington
+47,Arizona
+47,Tennessee
+1,Massachusetts
+48,Indiana
+48,Missouri
+1,Maryland
+49,Wisconsin
+49,Colorado
+1,Minnesota
+50,South Carolina
+50,Alabama
+51,Louisiana
+51,Kentucky
+1,Oregon
+52,Oklahoma
+52,Connecticut
+1,Utah
+53,Puerto Rico
+53,Iowa
+54,Nevada
+54,Arkansas
+55,Mississippi
+55,Kansas
+56,New Mexico
+56,Nebraska
+15,Idaho
+"7,029,917",West Virginia
+14,Hawaii
+"6,547,629",New Hampshire
+13,Maine
+"6,349,097",Montana
+21,Rhode Island
+7.4%,Delaware
+NEng,South Dakota
+29,North Dakota
+"3,605,944",Alaska
+29,Vermont
+"3,574,097",Wyoming
+29,Guam
+"3,405,565",U.S. Virgin Islands
+47,American Samoa
+0.9%,California
+NEng,Texas
+41,Florida
+"1,377,529",New York
+42,Pennsylvania
+"1,316,470",Illinois
+41,Ohio
+"1,235,786",Georgia
+30,North Carolina
+4.6%,Michigan
+NEng,New Jersey
+42,Virginia
+"1,362,359",Washington
+41,Arizona
+"1,328,361",Tennessee
+40,Massachusetts
+"1,274,923",Indiana
+42,Missouri
+2.6%,Maryland
+NEng,Wisconsin
+"1,097,379",Colorado
+43,Minnesota
+"1,052,567",South Carolina
+43,Alabama
+"1,048,319",Louisiana
+31,Kentucky
+4.3%,Oregon
+NEng,Oklahoma
+49,Connecticut
+"643,077",Utah
+49,Puerto Rico
+"625,741",Iowa
+49,Nevada
+"608,827",Arkansas
+40,Mississippi
+2.8%,Kansas
+NEng,New Mexico
+9,Nebraska
+"15,116,205",Idaho
+9,West Virginia
+"14,444,865",Hawaii
+9,New Hampshire
+"13,922,517",Maine
+7,Montana
+4.6%,Rhode Island
+NEast,Delaware
+4,South Dakota
+"20,201,249",North Dakota
+3,Alaska
+"19,378,102",Vermont
+3,Wyoming
+"18,976,457",Guam
+32,U.S. Virgin Islands
+4.2%,American Samoa
+MAtl,California
+5,Texas
+"13,002,700",Florida
+6,New York
+"12,702,379",Pennsylvania
+6,Illinois
+"12,281,054",Ohio
+43,Georgia
+2.4%,North Carolina
+MAtl,Michigan
+11,New Jersey
+"9,288,994",Virginia
+11,Washington
+"8,791,894",Arizona
+9,Tennessee
+"8,414,350",Massachusetts
+25,Indiana
+5.7%,Missouri
+MAtl,Maryland
+4,Wisconsin
+"42,492,943",Colorado
+4,Minnesota
+"40,872,375",South Carolina
+4,Alabama
+"39,671,861",Louisiana
+8,Kentucky
+4.0%,Oregon
+NEast,Oklahoma
+4,Connecticut
+"57,609,148",Utah
+4,Puerto Rico
+"55,317,240",Iowa
+4,Nevada
+"53,594,378",Arkansas
+3,Mississippi
+4.1%,Kansas
+USA,New Mexico
+3,Nebraska
+"21,538,187",Idaho
+4,West Virginia
+"18,801,310",Hawaii
+4,New Hampshire
+"15,982,378",Maine
+8,Montana
+14.6%,Rhode Island
+SAtl,Delaware
+8,South Dakota
+"10,711,908",North Dakota
+9,Alaska
+"9,687,653",Vermont
+10,Wyoming
+"8,186,453",Guam
+12,U.S. Virgin Islands
+10.6%,American Samoa
+SAtl,California
+9,Texas
+"10,439,388",Florida
+10,New York
+"9,535,483",Pennsylvania
+11,Illinois
+"8,049,313",Ohio
+15,Georgia
+9.5%,North Carolina
+SAtl,Michigan
+12,New Jersey
+"8,631,393",Virginia
+12,Washington
+"8,001,024",Arizona
+12,Tennessee
+"7,078,515",Massachusetts
+18,Indiana
+7.9%,Missouri
+SAtl,Maryland
+18,Wisconsin
+"6,177,224",Colorado
+19,Minnesota
+"5,773,552",South Carolina
+19,Alabama
+"5,296,486",Louisiana
+22,Kentucky
+7.0%,Oregon
+SAtl,Oklahoma
+23,Connecticut
+"5,118,425",Utah
+24,Puerto Rico
+"4,625,364",Iowa
+26,Nevada
+"4,012,012",Arkansas
+10,Mississippi
+10.7%,Kansas
+SAtl,New Mexico
+39,Nebraska
+"1,793,716",Idaho
+37,West Virginia
+"1,852,994",Hawaii
+37,New Hampshire
+"1,808,344",Maine
+50,Montana
+−3.2%,Rhode Island
+SAtl,Delaware
+45,South Dakota
+"989,948",North Dakota
+45,Alaska
+"897,934",Vermont
+45,Wyoming
+"783,600",Guam
+13,U.S. Virgin Islands
+10.2%,American Samoa
+SAtl,California
+–,Texas
+"689,545",Florida
+–,New York
+"601,723",Pennsylvania
+–,Illinois
+"572,059",Ohio
+–,Georgia
+14.6%,North Carolina
+SAtl,Michigan
+1,New Jersey
+"66,089,734",Virginia
+1,Washington
+"59,777,037",Arizona
+1,Tennessee
+"51,769,160",Massachusetts
+3,Indiana
+10.6%,Missouri
+South,Maryland
+16,Wisconsin
+"6,910,840",Colorado
+17,Minnesota
+"6,346,105",South Carolina
+16,Alabama
+"5,689,283",Louisiana
+17,Kentucky
+8.9%,Oregon
+ESC,Oklahoma
+24,Connecticut
+"5,024,279",Utah
+23,Puerto Rico
+"4,779,736",Iowa
+23,Nevada
+"4,447,100",Arkansas
+27,Mississippi
+5.1%,Kansas
+ESC,New Mexico
+26,Nebraska
+"4,505,836",Idaho
+26,West Virginia
+"4,339,367",Hawaii
+25,New Hampshire
+"4,041,769",Maine
+33,Montana
+3.8%,Rhode Island
+ESC,Delaware
+34,South Dakota
+"2,961,279",North Dakota
+31,Alaska
+"2,967,297",Vermont
+31,Wyoming
+"2,844,658",Guam
+49,U.S. Virgin Islands
+−0.2%,American Samoa
+ESC,California
+8,Texas
+"19,402,234",Florida
+8,New York
+"18,432,505",Pennsylvania
+8,Illinois
+"17,022,810",Ohio
+6,Georgia
+5.3%,North Carolina
+South,Michigan
+2,New Jersey
+"29,145,505",Virginia
+2,Washington
+"25,145,561",Arizona
+2,Tennessee
+"20,851,820",Massachusetts
+3,Indiana
+15.9%,Missouri
+WSC,Maryland
+25,Wisconsin
+"4,657,757",Colorado
+25,Minnesota
+"4,533,372",South Carolina
+22,Alabama
+"4,468,976",Louisiana
+41,Kentucky
+2.7%,Oregon
+WSC,Oklahoma
+28,Connecticut
+"3,959,353",Utah
+28,Puerto Rico
+"3,751,351",Iowa
+27,Nevada
+"3,450,654",Arkansas
+26,Mississippi
+5.5%,Kansas
+WSC,New Mexico
+33,Nebraska
+"3,011,524",Idaho
+32,West Virginia
+"2,915,918",Hawaii
+33,New Hampshire
+"2,673,400",Maine
+35,Montana
+3.3%,Rhode Island
+WSC,Delaware
+5,South Dakota
+"40,774,139",North Dakota
+5,Alaska
+"36,346,202",Vermont
+5,Wyoming
+"31,444,850",Guam
+2,U.S. Virgin Islands
+12.2%,American Samoa
+South,California
+1,Texas
+"126,266,107",Florida
+1,New York
+"114,555,744",Pennsylvania
+1,Illinois
+"100,236,820",Ohio
+1,Georgia
+10.2%,North Carolina
+USA,Michigan
+6,New Jersey
+"12,812,508",Virginia
+5,Washington
+"12,830,632",Arizona
+5,Tennessee
+"12,419,293",Massachusetts
+48,Indiana
+−0.1%,Missouri
+ENC,Maryland
+7,Wisconsin
+"11,799,448",Colorado
+7,Minnesota
+"11,536,504",South Carolina
+7,Alabama
+"11,353,140",Louisiana
+45,Kentucky
+2.3%,Oregon
+ENC,Oklahoma
+10,Connecticut
+"10,077,331",Utah
+8,Puerto Rico
+"9,883,640",Iowa
+8,Nevada
+"9,938,444",Arkansas
+46,Mississippi
+2.0%,Kansas
+ENC,New Mexico
+17,Nebraska
+"6,785,528",Idaho
+15,West Virginia
+"6,483,802",Hawaii
+14,New Hampshire
+"6,080,485",Maine
+29,Montana
+4.7%,Rhode Island
+ENC,Delaware
+20,South Dakota
+"5,893,718",North Dakota
+20,Alaska
+"5,686,986",Vermont
+18,Wyoming
+"5,363,675",Guam
+34,U.S. Virgin Islands
+3.6%,American Samoa
+ENC,California
+3,Texas
+"47,368,533",Florida
+3,New York
+"46,421,564",Pennsylvania
+2,Illinois
+"45,155,037",Ohio
+9,Georgia
+2.0%,North Carolina
+MWest,Michigan
+19,New Jersey
+"6,154,913",Virginia
+18,Washington
+"5,988,927",Arizona
+17,Tennessee
+"5,595,211",Massachusetts
+39,Indiana
+2.8%,Missouri
+WNC,Maryland
+22,Wisconsin
+"5,706,494",Colorado
+21,Minnesota
+"5,303,925",South Carolina
+21,Alabama
+"4,919,479",Louisiana
+19,Kentucky
+7.6%,Oregon
+WNC,Oklahoma
+31,Connecticut
+"3,190,369",Utah
+30,Puerto Rico
+"3,046,355",Iowa
+30,Nevada
+"2,926,324",Arkansas
+28,Mississippi
+4.7%,Kansas
+WNC,New Mexico
+35,Nebraska
+"2,937,880",Idaho
+33,West Virginia
+"2,853,118",Hawaii
+32,New Hampshire
+"2,688,418",Maine
+37,Montana
+3.0%,Rhode Island
+WNC,Delaware
+37,South Dakota
+"1,961,504",North Dakota
+38,Alaska
+"1,826,341",Vermont
+38,Wyoming
+"1,711,263",Guam
+20,U.S. Virgin Islands
+7.4%,American Samoa
+WNC,California
+46,Texas
+"886,667",Florida
+46,New York
+"814,180",Pennsylvania
+46,Illinois
+"754,844",Ohio
+16,Georgia
+8.9%,North Carolina
+WNC,Michigan
+47,New Jersey
+"779,094",Virginia
+48,Washington
+"672,591",Arizona
+47,Tennessee
+"642,200",Massachusetts
+4,Indiana
+15.8%,Missouri
+WNC,Maryland
+7,Wisconsin
+"21,616,921",Colorado
+7,Minnesota
+"20,505,437",South Carolina
+6,Alabama
+"19,237,739",Louisiana
+5,Kentucky
+5.4%,Oregon
+MWest,Oklahoma
+3,Connecticut
+"68,985,454",Utah
+3,Puerto Rico
+"66,927,001",Iowa
+2,Nevada
+"64,392,776",Arkansas
+4,Mississippi
+3.1%,Kansas
+USA,New Mexico
+14,Nebraska
+"7,151,502",Idaho
+16,West Virginia
+"6,392,017",Hawaii
+20,New Hampshire
+"5,130,632",Maine
+9,Montana
+11.9%,Rhode Island
+Mtn,Delaware
+21,South Dakota
+"5,773,714",North Dakota
+22,Alaska
+"5,029,196",Vermont
+24,Wyoming
+"4,301,261",Guam
+6,U.S. Virgin Islands
+14.8%,American Samoa
+Mtn,California
+30,Texas
+"3,271,616",Florida
+34,New York
+"2,763,885",Pennsylvania
+34,Illinois
+"2,233,169",Ohio
+1,Georgia
+18.4%,North Carolina
+Mtn,Michigan
+32,New Jersey
+"3,104,614",Virginia
+35,Washington
+"2,700,551",Arizona
+35,Tennessee
+"1,998,257",Massachusetts
+5,Indiana
+15.0%,Missouri
+Mtn,Maryland
+36,Wisconsin
+"2,117,522",Colorado
+36,Minnesota
+"2,059,179",South Carolina
+36,Alabama
+"1,819,046",Louisiana
+38,Kentucky
+2.8%,Oregon
+Mtn,Oklahoma
+38,Connecticut
+"1,839,106",Utah
+39,Puerto Rico
+"1,567,582",Iowa
+39,Nevada
+"1,293,953",Arkansas
+2,Mississippi
+17.3%,Kansas
+Mtn,New Mexico
+44,Nebraska
+"1,084,225",Idaho
+44,West Virginia
+"989,415",Hawaii
+44,New Hampshire
+"902,195",Maine
+14,Montana
+9.6%,Rhode Island
+Mtn,Delaware
+50,South Dakota
+"576,851",North Dakota
+50,Alaska
+"563,626",Vermont
+50,Wyoming
+"493,782",Guam
+44,U.S. Virgin Islands
+2.3%,American Samoa
+Mtn,California
+6,Texas
+"24,919,150",Florida
+6,New York
+"22,065,451",Pennsylvania
+7,Illinois
+"18,172,295",Ohio
+1,Georgia
+12.9%,North Carolina
+West,Michigan
+1,New Jersey
+"39,538,223",Virginia
+1,Washington
+"37,253,956",Arizona
+1,Tennessee
+"33,871,648",Massachusetts
+24,Indiana
+6.1%,Missouri
+Pac,Maryland
+13,Wisconsin
+"7,705,281",Colorado
+13,Minnesota
+"6,724,540",South Carolina
+15,Alabama
+"5,894,121",Louisiana
+7,Kentucky
+14.6%,Oregon
+Pac,Oklahoma
+27,Connecticut
+"4,237,256",Utah
+27,Puerto Rico
+"3,831,074",Iowa
+28,Nevada
+"3,421,399",Arkansas
+11,Mississippi
+10.6%,Kansas
+Pac,New Mexico
+40,Nebraska
+"1,455,271",Idaho
+40,West Virginia
+"1,360,301",Hawaii
+42,New Hampshire
+"1,211,537",Maine
+23,Montana
+7.0%,Rhode Island
+Pac,Delaware
+48,South Dakota
+"733,391",North Dakota
+47,Alaska
+"710,231",Vermont
+48,Wyoming
+"626,932",Guam
+36,U.S. Virgin Islands
+3.3%,American Samoa
+Pac,California
+2,Texas
+"53,669,422",Florida
+2,New York
+"49,880,102",Pennsylvania
+3,Illinois
+"45,025,637",Ohio
+4,Georgia
+7.6%,North Carolina
+West,Michigan
+2,New Jersey
+"78,588,572",Virginia
+2,Washington
+"71,945,553",Arizona
+3,Tennessee
+"63,197,932",Massachusetts
+2,Indiana
+9.2%,Missouri
+USA,Maryland
+–,Wisconsin
+"331,449,281",Colorado
+–,Minnesota
+"308,745,538",South Carolina
+–,Alabama
+"281,421,906",Louisiana
+–,Kentucky
+7.4%,Oregon
+NAmer,Oklahoma
+1,Connecticut
+"3,285,874",Utah
+1,Puerto Rico
+"3,725,789",Iowa
+1,Nevada
+"3,808,610",Arkansas
+3,Mississippi
+−11.8%,Kansas
+I.A.,New Mexico
+2,Nebraska
+"153,836",Idaho
+2,West Virginia
+"159,358",Hawaii
+2,New Hampshire
+"154,805",Maine
+1,Montana
+−3.5%,Rhode Island
+I.A.,Delaware
+3,South Dakota
+"87,146",North Dakota
+3,Alaska
+"106,405",Vermont
+3,Wyoming
+"108,612",Guam
+2,U.S. Virgin Islands
+−18.1%,American Samoa
+I.A.,California
+4,Texas
+"49,710",Florida
+4,New York
+"55,519",Pennsylvania
+5,Illinois
+"57,291",Ohio
+4,Georgia
+−7.7%,North Carolina
+I.A.,Michigan
+5,New Jersey
+"47,329",Virginia
+5,Washington
+"53,883",Arizona
+4,Tennessee
+"69,221",Massachusetts
+5,Indiana
+−14.8%,Missouri
+I.A.,Maryland
+ ,Wisconsin
+6,Colorado
+6,Minnesota
+6,South Carolina
+316,Alabama
+6,Louisiana
+—,Kentucky
+I.A.,Oregon
+–,Oklahoma
+"3,623,895",Connecticut
+–,Utah
+"4,100,954",Puerto Rico
+–,Iowa
+"4,198,855",Nevada
+–,Arkansas
+−11.6%,Mississippi
+USA,Kansas
+1,New Mexico
+1,Nebraska
+52,Idaho
+2,West Virginia
+2,Hawaii
+38,New Hampshire
+3,Maine
+3,Montana
+28,Rhode Island
+4,Delaware
+4,South Dakota
+26,North Dakota
+5,Alaska
+5,Vermont
+17,Wyoming
+6,Guam
+6,U.S. Virgin Islands
+17,American Samoa
+7,California
+7,Texas
+15,Florida
+8,New York
+8,Pennsylvania
+14,Illinois
+9,Ohio
+9,Georgia
+14,North Carolina
+10,Michigan
+10,New Jersey
+13,Virginia
+11,Washington
+11,Arizona
+12,Tennessee
+12,Massachusetts
+12,Indiana
+11,Missouri
+13,Maryland
+13,Wisconsin
+10,Colorado
+14,Minnesota
+14,South Carolina
+9,Alabama
+15,Louisiana
+16,Kentucky
+9,Oregon
+16,Oklahoma
+15,Connecticut
+9,Utah
+17,Puerto Rico
+17,Iowa
+9,Nevada
+18,Arkansas
+19,Mississippi
+8,Kansas
+19,New Mexico
+18,Nebraska
+8,Idaho
+20,West Virginia
+20,Hawaii
+8,New Hampshire
+21,Maine
+21,Montana
+8,Rhode Island
+22,Delaware
+22,South Dakota
+8,North Dakota
+23,Alaska
+23,Vermont
+7,Wyoming
+24,Guam
+24,U.S. Virgin Islands
+7,American Samoa
+25,California
+25,Texas
+6,Florida
+26,New York
+26,Pennsylvania
+6,Illinois
+27,Ohio
+27,Georgia
+6,North Carolina
+28,Michigan
+28,New Jersey
+5,Virginia
+29,Washington
+29,Arizona
+5,Tennessee
+30,Massachusetts
+31,Indiana
+4,Missouri
+31,Maryland
+30,Wisconsin
+32,Colorado
+32,Minnesota
+4,South Carolina
+33,Alabama
+33,Louisiana
+4,Kentucky
+34,Oregon
+34,Oklahoma
+4,Connecticut
+35,Utah
+35,Puerto Rico
+4,Iowa
+36,Nevada
+36,Arkansas
+4,Mississippi
+37,Kansas
+37,New Mexico
+3,Nebraska
+38,Idaho
+38,West Virginia
+3,Hawaii
+39,New Hampshire
+39,Maine
+2,Montana
+40,Rhode Island
+40,Delaware
+2,South Dakota
+41,North Dakota
+41,Alaska
+2,Vermont
+42,Wyoming
+42,Guam
+2,U.S. Virgin Islands
+43,American Samoa
+43,California
+2,Texas
+44,Florida
+45,New York
+2,Pennsylvania
+45,Illinois
+44,Ohio
+2,Georgia
+46,North Carolina
+46,Michigan
+1,New Jersey
+47,Virginia
+47,Washington
+1,Arizona
+48,Tennessee
+48,Massachusetts
+1,Indiana
+49,Missouri
+49,Maryland
+1,Wisconsin
+50,Colorado
+50,Minnesota
+51,South Carolina
+51,Alabama
+1,Louisiana
+52,Kentucky
+52,Oregon
+1,Oklahoma
+53,Connecticut
+53,Utah
+54,Puerto Rico
+54,Iowa
+55,Nevada
+55,Arkansas
+56,Mississippi
+56,Kansas
+15,New Mexico
+"7,029,917",Nebraska
+14,Idaho
+"6,547,629",West Virginia
+13,Hawaii
+"6,349,097",New Hampshire
+21,Maine
+7.4%,Montana
+NEng,Rhode Island
+29,Delaware
+"3,605,944",South Dakota
+29,North Dakota
+"3,574,097",Alaska
+29,Vermont
+"3,405,565",Wyoming
+47,Guam
+0.9%,U.S. Virgin Islands
+NEng,American Samoa
+41,California
+"1,377,529",Texas
+42,Florida
+"1,316,470",New York
+41,Pennsylvania
+"1,235,786",Illinois
+30,Ohio
+4.6%,Georgia
+NEng,North Carolina
+42,Michigan
+"1,362,359",New Jersey
+41,Virginia
+"1,328,361",Washington
+40,Arizona
+"1,274,923",Tennessee
+42,Massachusetts
+2.6%,Indiana
+NEng,Missouri
+"1,097,379",Maryland
+43,Wisconsin
+"1,052,567",Colorado
+43,Minnesota
+"1,048,319",South Carolina
+31,Alabama
+4.3%,Louisiana
+NEng,Kentucky
+49,Oregon
+"643,077",Oklahoma
+49,Connecticut
+"625,741",Utah
+49,Puerto Rico
+"608,827",Iowa
+40,Nevada
+2.8%,Arkansas
+NEng,Mississippi
+9,Kansas
+"15,116,205",New Mexico
+9,Nebraska
+"14,444,865",Idaho
+9,West Virginia
+"13,922,517",Hawaii
+7,New Hampshire
+4.6%,Maine
+NEast,Montana
+4,Rhode Island
+"20,201,249",Delaware
+3,South Dakota
+"19,378,102",North Dakota
+3,Alaska
+"18,976,457",Vermont
+32,Wyoming
+4.2%,Guam
+MAtl,U.S. Virgin Islands
+5,American Samoa
+"13,002,700",California
+6,Texas
+"12,702,379",Florida
+6,New York
+"12,281,054",Pennsylvania
+43,Illinois
+2.4%,Ohio
+MAtl,Georgia
+11,North Carolina
+"9,288,994",Michigan
+11,New Jersey
+"8,791,894",Virginia
+9,Washington
+"8,414,350",Arizona
+25,Tennessee
+5.7%,Massachusetts
+MAtl,Indiana
+4,Missouri
+"42,492,943",Maryland
+4,Wisconsin
+"40,872,375",Colorado
+4,Minnesota
+"39,671,861",South Carolina
+8,Alabama
+4.0%,Louisiana
+NEast,Kentucky
+4,Oregon
+"57,609,148",Oklahoma
+4,Connecticut
+"55,317,240",Utah
+4,Puerto Rico
+"53,594,378",Iowa
+3,Nevada
+4.1%,Arkansas
+USA,Mississippi
+3,Kansas
+"21,538,187",New Mexico
+4,Nebraska
+"18,801,310",Idaho
+4,West Virginia
+"15,982,378",Hawaii
+8,New Hampshire
+14.6%,Maine
+SAtl,Montana
+8,Rhode Island
+"10,711,908",Delaware
+9,South Dakota
+"9,687,653",North Dakota
+10,Alaska
+"8,186,453",Vermont
+12,Wyoming
+10.6%,Guam
+SAtl,U.S. Virgin Islands
+9,American Samoa
+"10,439,388",California
+10,Texas
+"9,535,483",Florida
+11,New York
+"8,049,313",Pennsylvania
+15,Illinois
+9.5%,Ohio
+SAtl,Georgia
+12,North Carolina
+"8,631,393",Michigan
+12,New Jersey
+"8,001,024",Virginia
+12,Washington
+"7,078,515",Arizona
+18,Tennessee
+7.9%,Massachusetts
+SAtl,Indiana
+18,Missouri
+"6,177,224",Maryland
+19,Wisconsin
+"5,773,552",Colorado
+19,Minnesota
+"5,296,486",South Carolina
+22,Alabama
+7.0%,Louisiana
+SAtl,Kentucky
+23,Oregon
+"5,118,425",Oklahoma
+24,Connecticut
+"4,625,364",Utah
+26,Puerto Rico
+"4,012,012",Iowa
+10,Nevada
+10.7%,Arkansas
+SAtl,Mississippi
+39,Kansas
+"1,793,716",New Mexico
+37,Nebraska
+"1,852,994",Idaho
+37,West Virginia
+"1,808,344",Hawaii
+50,New Hampshire
+−3.2%,Maine
+SAtl,Montana
+45,Rhode Island
+"989,948",Delaware
+45,South Dakota
+"897,934",North Dakota
+45,Alaska
+"783,600",Vermont
+13,Wyoming
+10.2%,Guam
+SAtl,U.S. Virgin Islands
+–,American Samoa
+"689,545",California
+–,Texas
+"601,723",Florida
+–,New York
+"572,059",Pennsylvania
+–,Illinois
+14.6%,Ohio
+SAtl,Georgia
+1,North Carolina
+"66,089,734",Michigan
+1,New Jersey
+"59,777,037",Virginia
+1,Washington
+"51,769,160",Arizona
+3,Tennessee
+10.6%,Massachusetts
+South,Indiana
+16,Missouri
+"6,910,840",Maryland
+17,Wisconsin
+"6,346,105",Colorado
+16,Minnesota
+"5,689,283",South Carolina
+17,Alabama
+8.9%,Louisiana
+ESC,Kentucky
+24,Oregon
+"5,024,279",Oklahoma
+23,Connecticut
+"4,779,736",Utah
+23,Puerto Rico
+"4,447,100",Iowa
+27,Nevada
+5.1%,Arkansas
+ESC,Mississippi
+26,Kansas
+"4,505,836",New Mexico
+26,Nebraska
+"4,339,367",Idaho
+25,West Virginia
+"4,041,769",Hawaii
+33,New Hampshire
+3.8%,Maine
+ESC,Montana
+34,Rhode Island
+"2,961,279",Delaware
+31,South Dakota
+"2,967,297",North Dakota
+31,Alaska
+"2,844,658",Vermont
+49,Wyoming
+−0.2%,Guam
+ESC,U.S. Virgin Islands
+8,American Samoa
+"19,402,234",California
+8,Texas
+"18,432,505",Florida
+8,New York
+"17,022,810",Pennsylvania
+6,Illinois
+5.3%,Ohio
+South,Georgia
+2,North Carolina
+"29,145,505",Michigan
+2,New Jersey
+"25,145,561",Virginia
+2,Washington
+"20,851,820",Arizona
+3,Tennessee
+15.9%,Massachusetts
+WSC,Indiana
+25,Missouri
+"4,657,757",Maryland
+25,Wisconsin
+"4,533,372",Colorado
+22,Minnesota
+"4,468,976",South Carolina
+41,Alabama
+2.7%,Louisiana
+WSC,Kentucky
+28,Oregon
+"3,959,353",Oklahoma
+28,Connecticut
+"3,751,351",Utah
+27,Puerto Rico
+"3,450,654",Iowa
+26,Nevada
+5.5%,Arkansas
+WSC,Mississippi
+33,Kansas
+"3,011,524",New Mexico
+32,Nebraska
+"2,915,918",Idaho
+33,West Virginia
+"2,673,400",Hawaii
+35,New Hampshire
+3.3%,Maine
+WSC,Montana
+5,Rhode Island
+"40,774,139",Delaware
+5,South Dakota
+"36,346,202",North Dakota
+5,Alaska
+"31,444,850",Vermont
+2,Wyoming
+12.2%,Guam
+South,U.S. Virgin Islands
+1,American Samoa
+"126,266,107",California
+1,Texas
+"114,555,744",Florida
+1,New York
+"100,236,820",Pennsylvania
+1,Illinois
+10.2%,Ohio
+USA,Georgia
+6,North Carolina
+"12,812,508",Michigan
+5,New Jersey
+"12,830,632",Virginia
+5,Washington
+"12,419,293",Arizona
+48,Tennessee
+−0.1%,Massachusetts
+ENC,Indiana
+7,Missouri
+"11,799,448",Maryland
+7,Wisconsin
+"11,536,504",Colorado
+7,Minnesota
+"11,353,140",South Carolina
+45,Alabama
+2.3%,Louisiana
+ENC,Kentucky
+10,Oregon
+"10,077,331",Oklahoma
+8,Connecticut
+"9,883,640",Utah
+8,Puerto Rico
+"9,938,444",Iowa
+46,Nevada
+2.0%,Arkansas
+ENC,Mississippi
+17,Kansas
+"6,785,528",New Mexico
+15,Nebraska
+"6,483,802",Idaho
+14,West Virginia
+"6,080,485",Hawaii
+29,New Hampshire
+4.7%,Maine
+ENC,Montana
+20,Rhode Island
+"5,893,718",Delaware
+20,South Dakota
+"5,686,986",North Dakota
+18,Alaska
+"5,363,675",Vermont
+34,Wyoming
+3.6%,Guam
+ENC,U.S. Virgin Islands
+3,American Samoa
+"47,368,533",California
+3,Texas
+"46,421,564",Florida
+2,New York
+"45,155,037",Pennsylvania
+9,Illinois
+2.0%,Ohio
+MWest,Georgia
+19,North Carolina
+"6,154,913",Michigan
+18,New Jersey
+"5,988,927",Virginia
+17,Washington
+"5,595,211",Arizona
+39,Tennessee
+2.8%,Massachusetts
+WNC,Indiana
+22,Missouri
+"5,706,494",Maryland
+21,Wisconsin
+"5,303,925",Colorado
+21,Minnesota
+"4,919,479",South Carolina
+19,Alabama
+7.6%,Louisiana
+WNC,Kentucky
+31,Oregon
+"3,190,369",Oklahoma
+30,Connecticut
+"3,046,355",Utah
+30,Puerto Rico
+"2,926,324",Iowa
+28,Nevada
+4.7%,Arkansas
+WNC,Mississippi
+35,Kansas
+"2,937,880",New Mexico
+33,Nebraska
+"2,853,118",Idaho
+32,West Virginia
+"2,688,418",Hawaii
+37,New Hampshire
+3.0%,Maine
+WNC,Montana
+37,Rhode Island
+"1,961,504",Delaware
+38,South Dakota
+"1,826,341",North Dakota
+38,Alaska
+"1,711,263",Vermont
+20,Wyoming
+7.4%,Guam
+WNC,U.S. Virgin Islands
+46,American Samoa
+"886,667",California
+46,Texas
+"814,180",Florida
+46,New York
+"754,844",Pennsylvania
+16,Illinois
+8.9%,Ohio
+WNC,Georgia
+47,North Carolina
+"779,094",Michigan
+48,New Jersey
+"672,591",Virginia
+47,Washington
+"642,200",Arizona
+4,Tennessee
+15.8%,Massachusetts
+WNC,Indiana
+7,Missouri
+"21,616,921",Maryland
+7,Wisconsin
+"20,505,437",Colorado
+6,Minnesota
+"19,237,739",South Carolina
+5,Alabama
+5.4%,Louisiana
+MWest,Kentucky
+3,Oregon
+"68,985,454",Oklahoma
+3,Connecticut
+"66,927,001",Utah
+2,Puerto Rico
+"64,392,776",Iowa
+4,Nevada
+3.1%,Arkansas
+USA,Mississippi
+14,Kansas
+"7,151,502",New Mexico
+16,Nebraska
+"6,392,017",Idaho
+20,West Virginia
+"5,130,632",Hawaii
+9,New Hampshire
+11.9%,Maine
+Mtn,Montana
+21,Rhode Island
+"5,773,714",Delaware
+22,South Dakota
+"5,029,196",North Dakota
+24,Alaska
+"4,301,261",Vermont
+6,Wyoming
+14.8%,Guam
+Mtn,U.S. Virgin Islands
+30,American Samoa
+"3,271,616",California
+34,Texas
+"2,763,885",Florida
+34,New York
+"2,233,169",Pennsylvania
+1,Illinois
+18.4%,Ohio
+Mtn,Georgia
+32,North Carolina
+"3,104,614",Michigan
+35,New Jersey
+"2,700,551",Virginia
+35,Washington
+"1,998,257",Arizona
+5,Tennessee
+15.0%,Massachusetts
+Mtn,Indiana
+36,Missouri
+"2,117,522",Maryland
+36,Wisconsin
+"2,059,179",Colorado
+36,Minnesota
+"1,819,046",South Carolina
+38,Alabama
+2.8%,Louisiana
+Mtn,Kentucky
+38,Oregon
+"1,839,106",Oklahoma
+39,Connecticut
+"1,567,582",Utah
+39,Puerto Rico
+"1,293,953",Iowa
+2,Nevada
+17.3%,Arkansas
+Mtn,Mississippi
+44,Kansas
+"1,084,225",New Mexico
+44,Nebraska
+"989,415",Idaho
+44,West Virginia
+"902,195",Hawaii
+14,New Hampshire
+9.6%,Maine
+Mtn,Montana
+50,Rhode Island
+"576,851",Delaware
+50,South Dakota
+"563,626",North Dakota
+50,Alaska
+"493,782",Vermont
+44,Wyoming
+2.3%,Guam
+Mtn,U.S. Virgin Islands
+6,American Samoa
+"24,919,150",California
+6,Texas
+"22,065,451",Florida
+7,New York
+"18,172,295",Pennsylvania
+1,Illinois
+12.9%,Ohio
+West,Georgia
+1,North Carolina
+"39,538,223",Michigan
+1,New Jersey
+"37,253,956",Virginia
+1,Washington
+"33,871,648",Arizona
+24,Tennessee
+6.1%,Massachusetts
+Pac,Indiana
+13,Missouri
+"7,705,281",Maryland
+13,Wisconsin
+"6,724,540",Colorado
+15,Minnesota
+"5,894,121",South Carolina
+7,Alabama
+14.6%,Louisiana
+Pac,Kentucky
+27,Oregon
+"4,237,256",Oklahoma
+27,Connecticut
+"3,831,074",Utah
+28,Puerto Rico
+"3,421,399",Iowa
+11,Nevada
+10.6%,Arkansas
+Pac,Mississippi
+40,Kansas
+"1,455,271",New Mexico
+40,Nebraska
+"1,360,301",Idaho
+42,West Virginia
+"1,211,537",Hawaii
+23,New Hampshire
+7.0%,Maine
+Pac,Montana
+48,Rhode Island
+"733,391",Delaware
+47,South Dakota
+"710,231",North Dakota
+48,Alaska
+"626,932",Vermont
+36,Wyoming
+3.3%,Guam
+Pac,U.S. Virgin Islands
+2,American Samoa
+"53,669,422",California
+2,Texas
+"49,880,102",Florida
+3,New York
+"45,025,637",Pennsylvania
+4,Illinois
+7.6%,Ohio
+West,Georgia
+2,North Carolina
+"78,588,572",Michigan
+2,New Jersey
+"71,945,553",Virginia
+3,Washington
+"63,197,932",Arizona
+2,Tennessee
+9.2%,Massachusetts
+USA,Indiana
+–,Missouri
+"331,449,281",Maryland
+–,Wisconsin
+"308,745,538",Colorado
+–,Minnesota
+"281,421,906",South Carolina
+–,Alabama
+7.4%,Louisiana
+NAmer,Kentucky
+1,Oregon
+"3,285,874",Oklahoma
+1,Connecticut
+"3,725,789",Utah
+1,Puerto Rico
+"3,808,610",Iowa
+3,Nevada
+−11.8%,Arkansas
+I.A.,Mississippi
+2,Kansas
+"153,836",New Mexico
+2,Nebraska
+"159,358",Idaho
+2,West Virginia
+"154,805",Hawaii
+1,New Hampshire
+−3.5%,Maine
+I.A.,Montana
+3,Rhode Island
+"87,146",Delaware
+3,South Dakota
+"106,405",North Dakota
+3,Alaska
+"108,612",Vermont
+2,Wyoming
+−18.1%,Guam
+I.A.,U.S. Virgin Islands
+4,American Samoa
+"49,710",California
+4,Texas
+"55,519",Florida
+5,New York
+"57,291",Pennsylvania
+4,Illinois
+−7.7%,Ohio
+I.A.,Georgia
+5,North Carolina
+"47,329",Michigan
+5,New Jersey
+"53,883",Virginia
+4,Washington
+"69,221",Arizona
+5,Tennessee
+−14.8%,Massachusetts
+I.A.,Indiana
+ ,Missouri
+6,Maryland
+6,Wisconsin
+6,Colorado
+316,Minnesota
+6,South Carolina
+—,Alabama
+I.A.,Louisiana
+–,Kentucky
+"3,623,895",Oregon
+–,Oklahoma
+"4,100,954",Connecticut
+–,Utah
+"4,198,855",Puerto Rico
+–,Iowa
+−11.6%,Nevada
+USA,Arkansas
+1,Mississippi
+1,Kansas
+52,New Mexico
+2,Nebraska
+2,Idaho
+38,West Virginia
+3,Hawaii
+3,New Hampshire
+28,Maine
+4,Montana
+4,Rhode Island
+26,Delaware
+5,South Dakota
+5,North Dakota
+17,Alaska
+6,Vermont
+6,Wyoming
+17,Guam
+7,U.S. Virgin Islands
+7,American Samoa
+15,California
+8,Texas
+8,Florida
+14,New York
+9,Pennsylvania
+9,Illinois
+14,Ohio
+10,Georgia
+10,North Carolina
+13,Michigan
+11,New Jersey
+11,Virginia
+12,Washington
+12,Arizona
+12,Tennessee
+11,Massachusetts
+13,Indiana
+13,Missouri
+10,Maryland
+14,Wisconsin
+14,Colorado
+9,Minnesota
+15,South Carolina
+16,Alabama
+9,Louisiana
+16,Kentucky
+15,Oregon
+9,Oklahoma
+17,Connecticut
+17,Utah
+9,Puerto Rico
+18,Iowa
+19,Nevada
+8,Arkansas
+19,Mississippi
+18,Kansas
+8,New Mexico
+20,Nebraska
+20,Idaho
+8,West Virginia
+21,Hawaii
+21,New Hampshire
+8,Maine
+22,Montana
+22,Rhode Island
+8,Delaware
+23,South Dakota
+23,North Dakota
+7,Alaska
+24,Vermont
+24,Wyoming
+7,Guam
+25,U.S. Virgin Islands
+25,American Samoa
+6,California
+26,Texas
+26,Florida
+6,New York
+27,Pennsylvania
+27,Illinois
+6,Ohio
+28,Georgia
+28,North Carolina
+5,Michigan
+29,New Jersey
+29,Virginia
+5,Washington
+30,Arizona
+31,Tennessee
+4,Massachusetts
+31,Indiana
+30,Missouri
+32,Maryland
+32,Wisconsin
+4,Colorado
+33,Minnesota
+33,South Carolina
+4,Alabama
+34,Louisiana
+34,Kentucky
+4,Oregon
+35,Oklahoma
+35,Connecticut
+4,Utah
+36,Puerto Rico
+36,Iowa
+4,Nevada
+37,Arkansas
+37,Mississippi
+3,Kansas
+38,New Mexico
+38,Nebraska
+3,Idaho
+39,West Virginia
+39,Hawaii
+2,New Hampshire
+40,Maine
+40,Montana
+2,Rhode Island
+41,Delaware
+41,South Dakota
+2,North Dakota
+42,Alaska
+42,Vermont
+2,Wyoming
+43,Guam
+43,U.S. Virgin Islands
+2,American Samoa
+44,California
+45,Texas
+2,Florida
+45,New York
+44,Pennsylvania
+2,Illinois
+46,Ohio
+46,Georgia
+1,North Carolina
+47,Michigan
+47,New Jersey
+1,Virginia
+48,Washington
+48,Arizona
+1,Tennessee
+49,Massachusetts
+49,Indiana
+1,Missouri
+50,Maryland
+50,Wisconsin
+51,Colorado
+51,Minnesota
+1,South Carolina
+52,Alabama
+52,Louisiana
+1,Kentucky
+53,Oregon
+53,Oklahoma
+54,Connecticut
+54,Utah
+55,Puerto Rico
+55,Iowa
+56,Nevada
+56,Arkansas
+15,Mississippi
+"7,029,917",Kansas
+14,New Mexico
+"6,547,629",Nebraska
+13,Idaho
+"6,349,097",West Virginia
+21,Hawaii
+7.4%,New Hampshire
+NEng,Maine
+29,Montana
+"3,605,944",Rhode Island
+29,Delaware
+"3,574,097",South Dakota
+29,North Dakota
+"3,405,565",Alaska
+47,Vermont
+0.9%,Wyoming
+NEng,Guam
+41,U.S. Virgin Islands
+"1,377,529",American Samoa
+42,California
+"1,316,470",Texas
+41,Florida
+"1,235,786",New York
+30,Pennsylvania
+4.6%,Illinois
+NEng,Ohio
+42,Georgia
+"1,362,359",North Carolina
+41,Michigan
+"1,328,361",New Jersey
+40,Virginia
+"1,274,923",Washington
+42,Arizona
+2.6%,Tennessee
+NEng,Massachusetts
+"1,097,379",Indiana
+43,Missouri
+"1,052,567",Maryland
+43,Wisconsin
+"1,048,319",Colorado
+31,Minnesota
+4.3%,South Carolina
+NEng,Alabama
+49,Louisiana
+"643,077",Kentucky
+49,Oregon
+"625,741",Oklahoma
+49,Connecticut
+"608,827",Utah
+40,Puerto Rico
+2.8%,Iowa
+NEng,Nevada
+9,Arkansas
+"15,116,205",Mississippi
+9,Kansas
+"14,444,865",New Mexico
+9,Nebraska
+"13,922,517",Idaho
+7,West Virginia
+4.6%,Hawaii
+NEast,New Hampshire
+4,Maine
+"20,201,249",Montana
+3,Rhode Island
+"19,378,102",Delaware
+3,South Dakota
+"18,976,457",North Dakota
+32,Alaska
+4.2%,Vermont
+MAtl,Wyoming
+5,Guam
+"13,002,700",U.S. Virgin Islands
+6,American Samoa
+"12,702,379",California
+6,Texas
+"12,281,054",Florida
+43,New York
+2.4%,Pennsylvania
+MAtl,Illinois
+11,Ohio
+"9,288,994",Georgia
+11,North Carolina
+"8,791,894",Michigan
+9,New Jersey
+"8,414,350",Virginia
+25,Washington
+5.7%,Arizona
+MAtl,Tennessee
+4,Massachusetts
+"42,492,943",Indiana
+4,Missouri
+"40,872,375",Maryland
+4,Wisconsin
+"39,671,861",Colorado
+8,Minnesota
+4.0%,South Carolina
+NEast,Alabama
+4,Louisiana
+"57,609,148",Kentucky
+4,Oregon
+"55,317,240",Oklahoma
+4,Connecticut
+"53,594,378",Utah
+3,Puerto Rico
+4.1%,Iowa
+USA,Nevada
+3,Arkansas
+"21,538,187",Mississippi
+4,Kansas
+"18,801,310",New Mexico
+4,Nebraska
+"15,982,378",Idaho
+8,West Virginia
+14.6%,Hawaii
+SAtl,New Hampshire
+8,Maine
+"10,711,908",Montana
+9,Rhode Island
+"9,687,653",Delaware
+10,South Dakota
+"8,186,453",North Dakota
+12,Alaska
+10.6%,Vermont
+SAtl,Wyoming
+9,Guam
+"10,439,388",U.S. Virgin Islands
+10,American Samoa
+"9,535,483",California
+11,Texas
+"8,049,313",Florida
+15,New York
+9.5%,Pennsylvania
+SAtl,Illinois
+12,Ohio
+"8,631,393",Georgia
+12,North Carolina
+"8,001,024",Michigan
+12,New Jersey
+"7,078,515",Virginia
+18,Washington
+7.9%,Arizona
+SAtl,Tennessee
+18,Massachusetts
+"6,177,224",Indiana
+19,Missouri
+"5,773,552",Maryland
+19,Wisconsin
+"5,296,486",Colorado
+22,Minnesota
+7.0%,South Carolina
+SAtl,Alabama
+23,Louisiana
+"5,118,425",Kentucky
+24,Oregon
+"4,625,364",Oklahoma
+26,Connecticut
+"4,012,012",Utah
+10,Puerto Rico
+10.7%,Iowa
+SAtl,Nevada
+39,Arkansas
+"1,793,716",Mississippi
+37,Kansas
+"1,852,994",New Mexico
+37,Nebraska
+"1,808,344",Idaho
+50,West Virginia
+−3.2%,Hawaii
+SAtl,New Hampshire
+45,Maine
+"989,948",Montana
+45,Rhode Island
+"897,934",Delaware
+45,South Dakota
+"783,600",North Dakota
+13,Alaska
+10.2%,Vermont
+SAtl,Wyoming
+–,Guam
+"689,545",U.S. Virgin Islands
+–,American Samoa
+"601,723",California
+–,Texas
+"572,059",Florida
+–,New York
+14.6%,Pennsylvania
+SAtl,Illinois
+1,Ohio
+"66,089,734",Georgia
+1,North Carolina
+"59,777,037",Michigan
+1,New Jersey
+"51,769,160",Virginia
+3,Washington
+10.6%,Arizona
+South,Tennessee
+16,Massachusetts
+"6,910,840",Indiana
+17,Missouri
+"6,346,105",Maryland
+16,Wisconsin
+"5,689,283",Colorado
+17,Minnesota
+8.9%,South Carolina
+ESC,Alabama
+24,Louisiana
+"5,024,279",Kentucky
+23,Oregon
+"4,779,736",Oklahoma
+23,Connecticut
+"4,447,100",Utah
+27,Puerto Rico
+5.1%,Iowa
+ESC,Nevada
+26,Arkansas
+"4,505,836",Mississippi
+26,Kansas
+"4,339,367",New Mexico
+25,Nebraska
+"4,041,769",Idaho
+33,West Virginia
+3.8%,Hawaii
+ESC,New Hampshire
+34,Maine
+"2,961,279",Montana
+31,Rhode Island
+"2,967,297",Delaware
+31,South Dakota
+"2,844,658",North Dakota
+49,Alaska
+−0.2%,Vermont
+ESC,Wyoming
+8,Guam
+"19,402,234",U.S. Virgin Islands
+8,American Samoa
