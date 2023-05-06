@@ -1,9 +1,14 @@
+from scrapy.selector import Selector
 import scrapy
 import json
 
 class ListingsSpider(scrapy.Spider):
     name = 'centris_listings'
     allowed_domains = ['www.centris.ca']
+
+    position = {
+        'startPosition' : 0
+    }
 
     def start_requests(self):
         yield scrapy.Request(
@@ -33,6 +38,48 @@ class ListingsSpider(scrapy.Spider):
             },
             callback=self.update_query
         )
+        #print(uck)
 
     def update_query(self, response):
+        yield scrapy.Request(
+            url = 'https://www.centris.ca/Property/GetInscriptions',
+            method = 'POST',
+            body = json.dumps(self.position),
+            headers = {'Content-Type' : 'application/json'},
+            callback = self.parse 
+
+        )
         print(response.body)
+
+    def parse(self, response):
+        resp_dict = json.loads(response.body)
+        html = resp_dict.get('d').get('Result').get('html')
+        sel = Selector(text=html)
+
+        listings = sel.xpath('//*[contains(@class, "property-thumbnail-item thumbnailItem")]').extract()
+
+        for listing_html in listings:
+            listing = Selector(text=listing_html)
+            category = listing.xpath('//span[@class="category"]/div/text()').get().replace(' ', '').replace('\r', '').replace('\n', '')
+            price = listing.xpath('//div[@class="price"]/span/text()').get().replace('\xa0', '')
+            url = listing.xpath('//*[@class="property-thumbnail-summary-link"]/@href').get()
+
+            yield {'category': category,
+                'price': price,
+                'url': url}
+        
+        count = resp_dict.get('d').get('Result').get('count')
+        increment_number = resp_dict.get('d').get('Result').get('inscNumberPerPage')
+
+        if self.position['startPosition'] <= count:
+            self.position['startPosition'] += increment_number
+            yield scrapy.Request(
+                url = "https://www.centris.ca/Property/GetInscriptions",
+                method = 'POST',
+                body = json.dumps(self.position),
+                headers = {'Content-Type' : 'application/json'},
+                callback = self.parse
+            )
+        # with open('index.html', 'w') as f:
+        #     f.write(html)
+
