@@ -1,4 +1,5 @@
 import scrapy
+from scrapy.loader import ItemLoader
 from ..items import SteamItem
 from w3lib.html import remove_tags
 
@@ -61,17 +62,23 @@ class BestSellingSpider(scrapy.Spider):
         games = response.xpath('//div[@id="search_result_container"]/div/a')
 
         for game in games:
-            steam_item['game_url'] = game.xpath('.//@href').get()
-            steam_item['img_url'] = game.xpath('.//div[@class="col search_capsule"]/img/@src').get()
-            steam_item['game_name'] = game.xpath('//span[@class="title"]/text()').get()
-            steam_item['release_date'] = game.xpath('//div[@class="col search_released responsive_secondrow"]/text()').get()
-            steam_item['platforms'] = self.get_platforms(game.xpath('//span[contains(@class, "platform_img") or @class="vr_supported"]/@class').getall())
-            steam_item['reviews_summary'] = self.remove_html(game.xpath('//span[contains(@class, "search_review_summary")]/@data-tooltip-html').get())
-            steam_item['discount_rate'] = self.clean_discount_rate(game.xpath('//div[contains(@class, "search_discount")]/span/text()').get())
-            steam_item['original_price'] = self.get_original_price(game.xpath('.//div[contains(@class, "search_price_discount_combined")]'))
-            steam_item['discount_price'] = self.clean_discounted_price(game.xpath('(.//div[contains(@class, "search_discount")]//text())[2]').get())
+            loader = ItemLoader(item = SteamItem(),
+                                selector = game,
+                                response = response)
+            
+            loader.add_xpath('game_url', './/@href')
+            loader.add_xpath('img_url', './/div[@class="col search_capsule"]/img/@src')
+            loader.add_xpath('game_name', './/span[@class="title"]/text()')
+            loader.add_xpath('release_date', './/div[@class="col search_released responsive_secondrow"]/text()')
+            loader.add_xpath('platforms', './/span[contains(@class, "platform_img") or @class="vr_supported"]/@class')
+            loader.add_xpath('reviews_summary', './/span[contains(@class, "search_review_summary")]/@data-tooltip-html')
+            loader.add_xpath('discount_rate', './/div[contains(@class, "search_discount")]/span/text()')
+            loader.add_xpath('original_price', './/div[contains(@class, "search_price_discount_combined")]')
+            loader.add_xpath('discount_price', '(.//div[contains(@class, "search_discount")]//text())[2]')
+            #loader.add_css()
+            #loader.add_values()
 
-            yield steam_item
+            yield loader.load_item()
 
         next_page = response.xpath('//a[@class="pagebtn" and text()=">"]/@href').get()
         if next_page:
