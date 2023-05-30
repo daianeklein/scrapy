@@ -39,7 +39,7 @@ class BestSellingSpider(scrapy.Spider):
     
     def get_original_price(self, selector_obj):
         original_price = ''
-        div_with_dicount = selector_obj.xpath('.//div[contains(@class, "search_price discounted")]/text()').get()
+        div_with_dicount = selector_obj.xpath('.//div[contains(@class, "search_price discounted")]')
         if div_with_dicount == None:
             original_price = selector_obj.xpath('normalize-space(.//div[contains(@class, "search_price")]/text())').get()
         else:
@@ -49,6 +49,12 @@ class BestSellingSpider(scrapy.Spider):
                 original_price = selector_obj.xpath('normalize-space(.//div[contains(@class, "search_price")]/text())').get()
             
         return original_price
+    
+    def clean_discounted_price(self, discounted_price):
+        if discounted_price:
+            return discounted_price.strip()
+        
+        return discounted_price
 
     def parse(self, response):
         steam_item = SteamItem()
@@ -63,8 +69,15 @@ class BestSellingSpider(scrapy.Spider):
             steam_item['reviews_summary'] = self.remove_html(game.xpath('//span[contains(@class, "search_review_summary")]/@data-tooltip-html').get())
             steam_item['discount_rate'] = self.clean_discount_rate(game.xpath('//div[contains(@class, "search_discount")]/span/text()').get())
             steam_item['original_price'] = self.get_original_price(game.xpath('.//div[contains(@class, "search_price_discount_combined")]'))
+            steam_item['discount_price'] = self.clean_discounted_price(game.xpath('(.//div[contains(@class, "search_discount")]//text())[2]').get())
 
             yield steam_item
+
+        next_page = response.xpath('//a[@class="pagebtn" and text()=">"]/@href').get()
+        if next_page:
+            yield scrapy.Request(
+                url = next_page,
+                callback=self.parse)
 
 
 
