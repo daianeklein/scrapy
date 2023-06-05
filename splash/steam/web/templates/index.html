@@ -21,7 +21,7 @@
           </ul>
         </div>
       </nav>
-      <div class="container mt-4">
+      <div class="container mt-4"">
         <div class="jumbotron" style="text-align: center;">
             <h1 class="display-4">Steam TOP 100 Games!</h1>
             <p class="lead">All the games you see below are scraped from Steam store using Scrapy & ScrapyRT</p>
@@ -32,10 +32,25 @@
             </p>
         </div>
     </div>
-    {% for user in users_list %}
-       {% if user == 'User 1' %}
-            <p>{{user}}</p>
-        {% endif %}
-    {% endfor %}
+    <div class="container">
+        {% for game in games %}
+            {% if loop.index0 % 3 == 0 %}
+                <div class="row justify-content-center mt-4 mb-4">
+            {% endif %}
+            <div class="card mr-4" style="width : 18rem; text-align: center;">
+                <img class="card-img-top" src="{{game.get('img_url')}}">
+                <div class="card-body">
+                  <h5 class="card-title">{{game.get('game_name')}}</h5>
+                  <p class="card-text">Supported Plataforms: {{game.get('platforms')}}</p>
+                  <a href= "{{game.get('game_url')}} "class="btn btn-primary">Game URL</a>
+                </div>
+              </div>
+
+            {% if loop.index0 % 3 == 2 %}
+                </div>
+            {% endif %}
+
+        {% endfor %}
+    </div>
 </body>
 </html>
